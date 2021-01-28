@@ -1,7 +1,10 @@
 
-## Home / [Brief CV](/brief_cv) / [Research](/research) / Contact
+## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research) / [News](/news)
+___
 
-### Francisco J. López-Tiro 
+
+## Francisco J. López-Tiro 
+
 
 [[Twitter]](https://twitter.com/Friscolt)
 [[GitHub]](https://github.com/friscolt)
