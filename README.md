@@ -1,4 +1,3 @@
-# Home / 
 
 
 ## Welcome to GitHub Pages
