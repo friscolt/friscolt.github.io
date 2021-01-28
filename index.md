@@ -1,17 +1,18 @@
 
-## Home / [Test](/research) / Contact
+## Home / [Brief CV](/brief_cv) / [Research](/research) / Contact
 
-## Francisco J. López-Tiro 
+### Francisco J. López-Tiro 
 
-[[Twitter]](/https://twitter.com/Friscolt)
-[[GitHub]](/https://github.com/friscolt)
-[[Linkedin]](/www.linkedin.com/in/friscolt)
-___
+[[Twitter]](https://twitter.com/Friscolt)
+[[GitHub]](https://github.com/friscolt)
+[[Linkedin]](www.linkedin.com/in/friscolt)
+
+
 ## About me
 
-I received a B.E. degree in Mechatronic Engineering from the [Universidad Politécnica de Puebla](/www.uppuebla.edu.mx) (🇲🇽  2015), and an MSc. degree in Biomedical Sciences and Technologies at the [Instituto Nacional de Astrofísica, Óptica y Electrónica](/www.inaoep.mx) (🇲🇽 2019). 
+I received a B.E. degree in Mechatronic Engineering from the [Universidad Politécnica de Puebla](www.uppuebla.edu.mx) (🇲🇽  2015), and an MSc. degree in Biomedical Sciences and Technologies at the [Instituto Nacional de Astrofísica, Óptica y Electrónica](www.inaoep.mx) (🇲🇽 2019). 
 
-Currently, I teaching robotics at the university 🤖 📚. Also, I like [black coffee](/https://twitter.com/Blyyenq/status/1279272826726305793?s=20) ☕, novels of [Murakami](/https://twitter.com/Blyyenq/status/1213678392039505922?s=20), and [rhcp songs](/https://www.youtube.com/watch?v=t5ht7o5r4iQ) 🎵. 
+Currently, I teaching robotics at the university 🤖 📚. Also, I like [black coffee](https://twitter.com/Blyyenq/status/1279272826726305793?s=20) ☕, novels of [Murakami](https://twitter.com/Blyyenq/status/1213678392039505922?s=20), and [rhcp songs](https://www.youtube.com/watch?v=t5ht7o5r4iQ) 🎵. 
 
 ## Research interests
 
@@ -22,7 +23,7 @@ I'm now working on two interesting projects:
 * Visualization and localization of *blood vessels images* with wavelets
 * Classification of *kidney stone images* with machine and deep learning
 
-If you want to discuss things of images, follow me on [twitter](/https://twitter.com/Friscolt).
+If you want to discuss things of images, follow me on [twitter](https://twitter.com/Friscolt).
 
 Cheers,
 Francisco 🇲🇽
