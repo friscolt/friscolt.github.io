@@ -1,22 +1,28 @@
 title: Welcome at @friscolt # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: >
- Abstract: First description <br>
- Mi nombre es Francisco. Actualmente vivo en <br>
-
+ Abstract: <br>
+ Hello, my name is Francisco and I am from <a href= "https://www.instagram.com/p/CClVytAF1oy/">  Cholula 🇲🇽.  </a>  I process medical images at INAOE. <br> <br>
+ 
  Keywords: 
  Medical imaging,
  Image processing and analysis,
  Machine learning,
+<a href= "https://twitter.com/Friscolt/status/1131372838080794624?s=20"> i2mtc 2019 (Auckland, New Zealand)  </a> 
+ Coffee,
  Computer vision,
  Digital signal precessing,
+ <a href= "https://www.youtube.com/watch?v=Zz6oob45faU">  My analog journal, </a>
  Deep learning,
  Wavelet approach,
  Robotics,
+ <a href= "https://twitter.com/Jose_Rangel_M/status/1164566151914876928?s=20"> Digital Signal Group, </a> 
  Biophotonics,
  Improve blood vessel visualization and localization,
  Matlab,
- Discrete wavelet transform
+ <a href= "https://twitter.com/Friscolt/status/1120074887815520256?s=20"> Biosignal lab!, </a> 
+ Discrete wavelet transform.
+
 
 
 theme: jekyll-theme-minimal

@@ -10,30 +10,11 @@ ___
    * Thesis: *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
-* <details>
-  <summary>List of courses</summary>
-  
-  1. Introducción a las ciencias biológicas
-  2. Introducción a as ciencias médicas
-  3. Programación
-  4. Instrumentación biomédica
-</details>
-
-
 
 ### 2011 - 2015:   BE. in Mechatronics Engineering
    * [Universidad Politécnica de Puebla](www.uppuebla.edu.mx) (Puebla, Mexico).
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
    * Laboratory of  Digital Signal Processing
-* <details>
-  <summary>List of courses</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details> 
 
 ___
 
