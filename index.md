@@ -4,11 +4,13 @@ ___
 
 
 ## Francisco J. López-Tiro 
-
+**Email:** `francisco.lopez@inaoe.mx`
 
 [[Twitter]](https://twitter.com/Friscolt)
 [[GitHub]](https://github.com/friscolt)
 [[Linkedin]](www.linkedin.com/in/friscolt)
+
+---
 
 
 ## About me
@@ -30,3 +32,4 @@ If you want to discuss things of images, follow me on [twitter](https://twitter.
 
 Cheers,
 Francisco 🇲🇽
+

@@ -1,3 +1,4 @@
-title: Welcome # your name (or website title) here
+title:   # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > Hello, mi name is Francisco 
 theme: jekyll-theme-minimal

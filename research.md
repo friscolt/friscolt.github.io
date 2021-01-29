@@ -5,16 +5,15 @@ ___
 
 ## 2021
 
-
 **Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria of the Detail DWT Coefficients**
 
-**F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
+**Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, José de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
 In preparation.
 
 
-
 ___
+
 
 **Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
 
@@ -22,8 +21,10 @@ ___
 
 Submited  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
 
-[[ArXiv]](https://ieeexplore.ieee.org/document/8827144)
+[[ArXiv]](https://)
+
 ___
+
 
 
 ## 2020
