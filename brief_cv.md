@@ -11,10 +11,12 @@ ___
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
 
+
 ### 2011 - 2015:   BE. in Mechatronics Engineering
    * [Universidad Politécnica de Puebla](www.uppuebla.edu.mx) (Puebla, Mexico).
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
    * Laboratory of  Digital Signal Processing
+
 
 ___
 
