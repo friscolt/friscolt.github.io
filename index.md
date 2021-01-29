@@ -8,14 +8,14 @@ ___
 
 [[Twitter]](https://twitter.com/Friscolt)
 [[GitHub]](https://github.com/friscolt)
-[[Linkedin]](www.linkedin.com/in/friscolt)
+[[Linkedin]](https://www.linkedin.com/in/friscolt)
 
 ---
 
 
 ## About me
 
-I received a B.E. degree in Mechatronic Engineering from the [Universidad Politécnica de Puebla](www.uppuebla.edu.mx) (🇲🇽  2015), and an MSc. degree in Biomedical Sciences and Technologies at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](www.inaoep.mx) (🇲🇽 2019). 
+I received a B.E. degree in Mechatronic Engineering at the [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015), and a MSc. degree in Biomedical Sciences and Technologies at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) (🇲🇽 2019). 
 
 
 Currently, I teaching robotics at the university, and I'm research assistant at INAOE.

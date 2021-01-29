@@ -2,7 +2,7 @@ title: Welcome at @friscolt # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: >
  Abstract: <br>
- Hello, my name is Francisco and I am from <a href= "https://www.instagram.com/p/CClVytAF1oy/">  Cholula 🇲🇽.  </a>  I process medical images at INAOE. <br> <br>
+ Hello, my name is Francisco and I'm from <a href= "https://www.instagram.com/p/CClVytAF1oy/">  Cholula 🇲🇽.  </a>  I process medical images at INAOE. <br> <br>
  
  Keywords: 
  Medical imaging,
@@ -20,6 +20,6 @@ description: >
  Biophotonics,
  Improve blood vessel visualization and localization,
  Matlab,
- <a href= "https://twitter.com/Friscolt/status/1120074887815520256?s=20"> Biosignal lab!. </a> 
+ <a href= "https://twitter.com/Friscolt/status/1120074887815520256?s=20"> Biosignal lab! </a> 
 
 theme: jekyll-theme-minimal

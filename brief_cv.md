@@ -6,14 +6,14 @@ ___
 ## Education
 
 ### 2017 - 2019:  MSc. in Biomedical Sciences and Technologies
-   *  [Instituto Nacional de Astrofísica, Óptica y Electrónica](www.inaoep.mx) (Puebla, Mexico)
+   *  [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx) (Puebla, Mexico)
    * Thesis: *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
 
 
 ### 2011 - 2015:   BE. in Mechatronics Engineering
-   * [Universidad Politécnica de Puebla](www.uppuebla.edu.mx) (Puebla, Mexico).
+   * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico).
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
    * Laboratory of  Digital Signal Processing
 
@@ -27,7 +27,8 @@ ___
   * Teacher of robotics and head coach of [EARTH4723](https://www.instagram.com/earth4723oficial)
 
 ### 2020 - Now: Teacher, Universidad de los Ángeles
-* Robotics, computer science for engineers, flexible manufacturing systems, and statistics 
+  * Jan - Apr 2021: Artificial intelligence, electrical circuit analysis, computer-aided design, and manufacturing engineering
+  * Sept - Dec 2020: Robotics, computer science for engineers, flexible manufacturing systems, and statistics 
 
 ### 2015 - 2017: Project Coordinator,  Colegio de Educación Profesional Técnica del Estado de Puebla
   *  Coordinator of computer aided design and modeling of multiphysical systems for F1 in Schools World Finals:

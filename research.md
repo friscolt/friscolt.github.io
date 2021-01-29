@@ -7,7 +7,7 @@ ___
 
 **Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria of the Detail DWT Coefficients**
 
-**Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, José de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
+**Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
 In preparation.
 
