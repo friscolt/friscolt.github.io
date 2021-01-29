@@ -37,7 +37,9 @@ ___
 
 [[Paper]](https://ieeexplore.ieee.org/document/9129242/)
 [[Code]](https://github.com/friscolt/i2mtc-2020)
-[[Slides]](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
+[[Keynote]](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
+
+
 ___
 
 ## 2019 

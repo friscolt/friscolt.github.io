@@ -1,22 +1,20 @@
 title: Welcome at @friscolt # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: >
- Popurri of links about me:  
 
- <a href= "https://twitter.com/Friscolt/status/1120074887815520256?s=20"> Biosignal lab! </a> 
- <a href= "https://twitter.com/cafe_con_pan/status/1238852032158666756?s=20"> My dear coffee ☕ </a>
- <a href= "https://www.instagram.com/p/CClVytAF1oy/">  Cholula (Puebla 🇲🇽) </a>  
- <a href= "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84?si=qNIwSypmRPGrMz-GGoy3ew">  Re de Cafe Tacvba 🎵 </a> 
- <a href= "https://twitter.com/Jose_Rangel_M/status/1164566151914876928?s=20"> Digital Signal Group - INAOE </a> 
- <a href= "https://twitter.com/Friscolt/status/1131372838080794624?s=20"> i2mtc 2019 (Auckland, New Zealand 🇳🇿)  </a> 
- <a href= "https://twitter.com/Blyyenq/status/1144075267347902464?s=20"> List of recommended books 📚 </a>  
- <a href= "https://twitter.com/Blyyenq/status/1089347107180429312?s=20"> My favorite book: Tokio blues </a>  
- <a href= "https://twitter.com/JRBneuropsiq/status/1214551624376627201?s=20"> Iztaccihuatl (Puebla 🇲🇽) </a>  
- <a href= "https://www.instagram.com/p/B4VeI3pHiYg/">  Popocatepetl (Puebla 🇲🇽) </a>  
- <a href= "https://twitter.com/Friscolt/status/1352856816246394885?s=20"> EARTH 4723 FRC team 🤖 </a> 
- <a href= "https://www.youtube.com/watch?v=FmrGz8qSyrk&t=338s">  Slane Castle (RHCP) 🎵 </a> 
- <a href= "https://www.youtube.com/watch?v=F4Jd7_H_pD4&t=973s">  Eternal sunshine of the spotless mind </a>
-
+ Keywords: 
+ Medical imaging,
+ Image processing and analysis,
+ Machine learning,
+ Computer vision,
+ Digital signal precessing,
+ Deep learning,
+ Wavelet approach,
+ Robotics,
+ Biophotonics,
+ Improve blood vessel visualization and localization,
+ Matlab,
+ Discrete wavelet transform
 
 
 theme: jekyll-theme-minimal

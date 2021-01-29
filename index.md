@@ -19,7 +19,7 @@ I received a B.E. degree in Mechatronic Engineering from the [Universidad Polit�
 
 
 Currently, I teaching robotics at the university, and I'm research assistant at INAOE.
-Also, I like [black coffee](https://twitter.com/Blyyenq/status/1279272826726305793?s=20) ☕, novels of [Murakami](https://twitter.com/pictoline/status/1295503185805705220?s=20), and [rhcp songs](https://www.youtube.com/watch?v=t5ht7o5r4iQ) 🎵. 
+Also, I like [black coffee](https://twitter.com/Blyyenq/status/1279272826726305793?s=20) ☕, novels of [Haruki Murakami](https://twitter.com/pictoline/status/1295503185805705220?s=20), and [RHCP music band](https://www.youtube.com/watch?v=t5ht7o5r4iQ) 🎵. 
 
 ## Research interests
 
