@@ -1,13 +1,6 @@
-
+title: Welcome at @friscolt # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: >
- Hola, mi nombre es Francisco y este es mi página personal. 
- Desde hace algunos años estoy haciendo procesamiento imágenes médicas, algo mucho de computer vision, un poco de instrumentación.
- Continuamente estoy buscando nuevas técnicas para procesar imagenes y buscando nuevos retos. 
- Ahora estoy haciendo machine learning en imágenes de alto nivel de ruido. 
-
-
- Usualmente ando en [twitter.com] así que es más facil encontrarme allá. 
- 
+ Popurri of links about me:  <a href="https://twitter.com/Friscolt/status/1352856816246394885?s=20"> [EARTH team]</a> 
 
 theme: jekyll-theme-minimal
