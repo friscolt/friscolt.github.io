@@ -1,5 +1,13 @@
-title:   # your name (or website title) here
+
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: >
- Hello, mi name is Francisco 
+ Hola, mi nombre es Francisco y este es mi página personal. 
+ Desde hace algunos años estoy haciendo procesamiento imágenes médicas, algo mucho de computer vision, un poco de instrumentación.
+ Continuamente estoy buscando nuevas técnicas para procesar imagenes y buscando nuevos retos. 
+ Ahora estoy haciendo machine learning en imágenes de alto nivel de ruido. 
+
+
+ Usualmente ando en [twitter.com] así que es más facil encontrarme allá. 
+ 
+
 theme: jekyll-theme-minimal
