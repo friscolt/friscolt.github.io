@@ -1,4 +1,4 @@
-## My personal page!
+## My personal site!
 
 This repository is used to host my personal site [my personal site](https://friscolt.github.io), where you can find general information about my work, a brief CV, 
 my research progress and some important news.
