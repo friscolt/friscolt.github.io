@@ -38,7 +38,7 @@ ___
 
 **F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan, J. M. Ramirez-Cortes
 
-*2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
+*2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Dubrovnik, Croatia  🇭🇷
 
 [[Paper]](https://ieeexplore.ieee.org/document/9129242/)
 [[Code]](https://github.com/friscolt/i2mtc-2020)
@@ -53,7 +53,7 @@ ___
 
 **F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
-*2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
+*2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Auckland, New Zealand 🇳🇿
 
 [[Paper]](https://ieeexplore.ieee.org/document/8827144)
 [[Code]](https://github.com/friscolt/i2mtc-2019)
