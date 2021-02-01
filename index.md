@@ -21,6 +21,9 @@ I received a B.E. degree in Mechatronic Engineering at the [Universidad Politéc
 Currently, I teaching robotics at the university, and I'm research assistant at INAOE.
 Also, I like [black coffee](https://twitter.com/Blyyenq/status/1279272826726305793?s=20) ☕, novels of [Haruki Murakami](https://twitter.com/pictoline/status/1295503185805705220?s=20), and [RHCP music band](https://www.youtube.com/watch?v=t5ht7o5r4iQ) 🎵. 
 
+
+---
+
 ## Research interests
 
 My main interest is medical image processing and analysis. This involves multidisciplinary research from computing (mainly), and a bit of biophotonics. Most of my work has been done in Matlab, and I'm doing useful things with Python 🐍.
