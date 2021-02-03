@@ -2,9 +2,8 @@
 ## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research) / [News](/news)
 ___
 
-
 ## Francisco J. López-Tiro 
-**Email:** `francisco.lopez@inaoe.mx`
+**Email:** [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=%20Hello,%20Francisco)
 
 [[Twitter]](https://twitter.com/Friscolt)
 [[GitHub]](https://github.com/friscolt)
