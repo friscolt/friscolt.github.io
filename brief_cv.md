@@ -3,6 +3,15 @@
 ___
 
 
+## Francisco J. López-Tiro 
+**Email:** `francisco.lopez@inaoe.mx`
+
+[[Twitter]](https://twitter.com/Friscolt)
+[[GitHub]](https://github.com/friscolt)
+[[Linkedin]](https://www.linkedin.com/in/friscolt)
+
+___
+
 ## Education
 
 ### 2017 - 2019:  MSc. in Biomedical Sciences and Technologies
@@ -13,7 +22,7 @@ ___
 
 
 ### 2011 - 2015:   BE. in Mechatronics Engineering
-   * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico).
+   * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico)
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
    * Laboratory of  Digital Signal Processing
 
@@ -24,7 +33,7 @@ ___
 ## Employment
 
 ### 2020 - Now: Teacher and coach,  Universidad Tecmilenio
-  * Teacher of robotics and head coach of [EARTH4723](https://www.instagram.com/earth4723oficial)
+  * Teacher of robotics and head coach of [EARTH 4723](https://www.instagram.com/earth4723oficial)
 
 ### 2020 - Now: Teacher, Universidad de los Ángeles
   * Jan - Apr 2021: Artificial intelligence, electrical circuit analysis, computer-aided design, and manufacturing engineering
@@ -32,8 +41,9 @@ ___
 
 ### 2015 - 2017: Project Coordinator,  Colegio de Educación Profesional Técnica del Estado de Puebla
   *  Coordinator of computer aided design and modeling of multiphysical systems for F1 in Schools World Finals:
-     *  Texas, USA 2016 [(Escudería Catrina)](https://www.facebook.com/EscuderiaCatrina35)
      *  Kuala Lumpur, Malaysia 2017 [(Escudería Alebrije)](https://www.facebook.com/alebrijeracing.16)
+     *  Texas, USA 2016 [(Escudería Catrina)](https://www.facebook.com/EscuderiaCatrina35)
+
 
 ### 2015 - 2017: Teacher,  Colegio de Educación Profesional Técnica del Estado de Puebla
 
@@ -48,7 +58,12 @@ ___
 ### 2015:  Thesis development, Secretaría de Marina
 
 * [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ)
-* Department of Digitalization of Control and Monitoring Systems (Veracruz, Mexico)
+* Departamento de *Digitalización del Sistemas de Control y Monitoreo (DISICOM)* (Veracruz, Mexico)
 
 ### 2014:  Professional practices, Arroba Ingeniería
   * Electronic maintenance to neonatal medical equipment (Puebla, Mexico)
+
+
+
+___
+

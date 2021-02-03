@@ -33,7 +33,9 @@ I'm now working on two interesting projects:
 * Visualization and localization of *blood vessels images*
 * Classification of *kidney stone images*
 
-If you want to discuss things of images, or make a collaboration, follow me on [twitter](https://twitter.com/Friscolt).
+If you want to discuss things of images, or make a collaboration, send me an email or follow me on [twitter](https://twitter.com/Friscolt).
 
 Cheers,
 Francisco 🇲🇽
+
+---

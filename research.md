@@ -3,20 +3,15 @@
 ___
 
 
+## Francisco J. López-Tiro 
+**Email:** `francisco.lopez@inaoe.mx`
+
+[[Twitter]](https://twitter.com/Friscolt)
+[[GitHub]](https://github.com/friscolt)
+[[Linkedin]](https://www.linkedin.com/in/friscolt)
+
+---
 ## 2021
-
-**Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria of the Detail DWT Coefficients**
-
-**Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
-
-In preparation.
-
-[[ArXiv]](https://)
-[[Code]](https://github.com/friscolt/elsevier-wavelet)
-
-
-
-___
 
 
 **Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
@@ -25,10 +20,27 @@ ___
 
 Submited  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
 
-[[ArXiv]](https://)
-[[Code]](https://github.com/friscolt/i2mtc-2021)
+---
+
+
+
+**Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria of the Detail DWT Coefficients**
+
+**Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
+
+In preparation.
+
+
+---
+
+**Assessing the applicability of deep learning-based computer vision methods for improving the endoscopic identification of kidney stones**
+
+Andres Varela, **Francisco Lopez-Tiro**, Oscar Hinojosa, Jonathan El Beze, Jacques Hubert, Vincent Estrade , Miguel Gonzalez-Mendoza,  Christian Daul, Gilberto Ochoa-Ruiz
+
+In preparation.
 
 ___
+
 
 
 
@@ -58,5 +70,7 @@ ___
 [[Paper]](https://ieeexplore.ieee.org/document/8827144)
 [[Code]](https://github.com/friscolt/i2mtc-2019)
 [[Poster]](https://www.researchgate.net/publication/333146308_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
+
+___
 
 
