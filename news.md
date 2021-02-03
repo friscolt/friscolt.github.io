@@ -12,6 +12,7 @@ ___
 ---
 ## News
 
+
 * June 30, 2020: Our conference paper *"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"* is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/9129242).
 
 * May 25, 2020: We present in collaboration the conference paper *"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"* at [2020 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2020)](https://i2mtc2020.ieee-ims.org). This year celebrated in Dubrovnik, Croatia 🇭🇷 (virtual)

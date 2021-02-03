@@ -18,7 +18,7 @@ ___
 
 **F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
-Submited  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
+Submited  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
 
 ---
 
@@ -30,14 +30,6 @@ Submited  at *2021 IEEE International Instrumentation and Measurement Technology
 
 In preparation.
 
-
----
-
-**Assessing the applicability of deep learning-based computer vision methods for improving the endoscopic identification of kidney stones**
-
-Andres Varela, **Francisco Lopez-Tiro**, Oscar Hinojosa, Jonathan El Beze, Jacques Hubert, Vincent Estrade , Miguel Gonzalez-Mendoza,  Christian Daul, Gilberto Ochoa-Ruiz
-
-In preparation.
 
 ___
 
@@ -58,6 +50,8 @@ ___
 
 
 ___
+
+
 
 ## 2019 
 
