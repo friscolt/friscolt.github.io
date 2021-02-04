@@ -8,3 +8,7 @@ The base theme of the personal site is [minimal theme](https://pages-themes.gith
 If you want to use this same style, you can clone the repository and edit it.
 
 Cheers, [Francisco](https://twitter.com/Friscolt)
+
+___
+
+Last update: Feb 4, 2021
