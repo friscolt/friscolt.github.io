@@ -24,7 +24,7 @@ Submited  at *2021 IEEE International Instrumentation and Measurement Technology
 
 
 
-**Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria of the Detail DWT Coefficients**
+**Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients**
 
 **Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
