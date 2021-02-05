@@ -10,9 +10,5 @@ ___
 
 
 
-
-
-
-
-## Classification of kidney stone images
+___
 
