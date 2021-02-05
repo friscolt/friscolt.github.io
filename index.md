@@ -43,4 +43,4 @@ Francisco 🇲🇽
 
 ## News
 
-**June 30, 2020:** Our conference paper *"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"* is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/9129242).
+**July 30, 2020:** Our conference paper *"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"* is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/9129242).
