@@ -30,7 +30,18 @@ Submited  at *2021 IEEE International Instrumentation and Measurement Technology
 
 ---
 
+## 2021
 
+
+**Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
+
+**Francisco Lopez-Tiro**, Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
+
+
+Submited at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC 2021) * at Guadalajara, Mexico 🇲🇽
+
+
+---
 
 **Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients**
 
