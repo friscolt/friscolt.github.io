@@ -30,8 +30,6 @@ Submited  at *2021 IEEE International Instrumentation and Measurement Technology
 
 ---
 
-## 2021
-
 
 **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
 
