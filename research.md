@@ -36,7 +36,7 @@ Submited  at *2021 IEEE International Instrumentation and Measurement Technology
 **Francisco Lopez-Tiro**, Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
 
 
-Submited at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC 2021)* at Guadalajara, Mexico 🇲🇽
+Submited at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
 
 
 ---
