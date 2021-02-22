@@ -25,6 +25,8 @@ I'm now working on two interesting projects:
 *  [**Visualization and localization of blood vessels in speckle images**](/pages/bloodvessels)
 *  **Classification of kidney stones in endoscopic images**
 
+If you want to know more about the contributions in these projects, you can click on the points above.
+
 ---
 
 ## Publications
