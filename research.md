@@ -15,9 +15,8 @@ ___
 [[Academic]](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)
 
 
-
-
 ---
+
 ## Projects
 
 
@@ -26,11 +25,20 @@ I'm now working on two interesting projects:
 * Visualization and localization of *blood vessels images*
 * Classification of *kidney stone images*
 
-
 ---
+
 ## Publications
 
 ### 2021
+
+**Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
+
+**Francisco Lopez-Tiro**, Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
+
+Submited at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
+
+
+---
 
 **Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
 
@@ -40,26 +48,13 @@ Submited  at *2021 IEEE International Instrumentation and Measurement Technology
 
 ---
 
-
-**Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
-
-**Francisco Lopez-Tiro**, Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
-
-
-Submited at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
-
-
----
-
 **Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients**
 
 **Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
 In preparation.
 
-
-___
-
+---
 
 
 
@@ -76,7 +71,7 @@ ___
 [[Keynote]](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
 
 
-___
+---
 
 
 
@@ -92,6 +87,6 @@ ___
 [[Code]](https://github.com/friscolt/i2mtc-2019)
 [[Poster]](https://www.researchgate.net/publication/333146308_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
 
-___
+---
 
 
