@@ -17,9 +17,13 @@ ___
 
 
 
+---
+## Projects
+
+
 
 ---
-## 2021
+## Publications
 
 
 **Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
