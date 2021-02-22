@@ -35,7 +35,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
 
-**Francisco Lopez-Tiro**, Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
+[**Francisco Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
 
 Submited at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
 
@@ -44,7 +44,7 @@ Submited at *2021 43rd Annual International Conference of the IEEE Engineering i
 
 **Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
 
-**F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
+[**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
 Submited  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
 
@@ -52,7 +52,7 @@ Submited  at *2021 IEEE International Instrumentation and Measurement Technology
 
 **Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients**
 
-**Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
+[**Francisco Javier Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
 In preparation.
 
@@ -64,7 +64,7 @@ In preparation.
 
 [**Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach**](https://ieeexplore.ieee.org/document/9129242/)
 
-**F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan, J. M. Ramirez-Cortes
+[**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan, J. M. Ramirez-Cortes
 
 *2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Dubrovnik, Croatia  🇭🇷
 
@@ -81,7 +81,7 @@ In preparation.
 
 [**Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition**](https://ieeexplore.ieee.org/document/8827144)
 
-**F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
+[**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
 *2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Auckland, New Zealand 🇳🇿
 
