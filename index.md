@@ -1,8 +1,3 @@
-
-## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news)
-___
-
-
 ## Francisco J. López-Tiro 
 **Email:** [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=%20Hello,%20Francisco)
 
@@ -13,6 +8,12 @@ ___
 [[Academic]](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)
 
 ---
+
+## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news)
+___
+
+
+
 
 
 ## About me
