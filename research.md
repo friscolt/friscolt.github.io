@@ -21,10 +21,16 @@ ___
 ## Projects
 
 
+I'm now working on two interesting projects:
+
+* Visualization and localization of *blood vessels images*
+* Classification of *kidney stone images*
+
 
 ---
 ## Publications
 
+### 2021
 
 **Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
 
@@ -57,7 +63,7 @@ ___
 
 
 
-## 2020
+### 2020
 
 [**Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach**](https://ieeexplore.ieee.org/document/9129242/)
 
@@ -74,7 +80,7 @@ ___
 
 
 
-## 2019 
+### 2019 
 
 [**Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition**](https://ieeexplore.ieee.org/document/8827144)
 
