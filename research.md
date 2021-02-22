@@ -35,24 +35,24 @@ If you want to know more about the contributions in these projects, you can clic
 
 **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
 
-[**Francisco Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
+**Francisco Lopez-Tiro**, Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
 
-Submited at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
+**Submited** at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
 
 
 ---
 
 **Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
 
-[**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
+**F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
-Submited  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
+**Submited**  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
 
 ---
 
 **Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients**
 
-[**Francisco Javier Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
+**Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
 In preparation.
 
