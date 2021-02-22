@@ -22,8 +22,8 @@ ___
 
 I'm now working on two interesting projects:
 
-*  [**Visualization and localization of blood vessels images**](/pages/bloodvessels)
-*  **Classification of kidney stone images**
+*  [**Visualization and localization of blood vessels in speckle images**](/pages/bloodvessels)
+*  **Classification of kidney stones in endoscopic images**
 
 ---
 
