@@ -5,6 +5,13 @@ ___
 ## Visualization and localization of blood vessels in speckle images
 
 
+
+
+
+
+
+
+
 |     Work     |     Dataset     |         Methods         | Localization | Visualization | Performance |
 |:------------:|:---------------:|:-----------------------:|:------------:|:-------------:|:-----------:|
 |   [1]        |  In-vitro I     |       DWT-SL + MM       |       ✔️      |       ✔️     |   JI: 0.8   |
@@ -31,7 +38,9 @@ Methods:
 * Discrete Wavelet Transform automatic level with mathematical morphology (DWT-AL + MM) 
 
 
+Metric:
 
+* JI: Jaccard Index
 
 
 
