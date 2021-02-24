@@ -30,7 +30,6 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 |`[3]` | `Set A` | `DWT-AL+MM`  |       ✔️     |       ✔️      | `JI: 0.1`  |
 
 
-
 ### Work:
 
 1. [*Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition*](https://ieeexplore.ieee.org/document/8827144)
@@ -42,12 +41,11 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 *  `Set A:` *in-vitro* straight and bifurcated blood vessels at 0µm to 900µm
 *  `Set B:` *in-vitro* straight blood vessels at 0µm to 1000µm
 
-
 ### Methods: 
 
-* `DWT-SL+MM:` Discrete Wavelet Transform of simple level with mathematical morphology 
-* `DWT-SL+KNN:` Discrete Wavelet Transform of simple level with KNN classifier
-* `DWT-AL+MM:` Discrete Wavelet Transform automatic level with mathematical morphology 
+* `DWT-SL + MM:` Discrete Wavelet Transform of simple level with mathematical morphology 
+* `DWT-SL + KNN:` Discrete Wavelet Transform of simple level with KNN classifier
+* `DWT-AL + MM:` Discrete Wavelet Transform automatic level with mathematical morphology 
 
 
 ### Performance:
