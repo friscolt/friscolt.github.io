@@ -16,11 +16,11 @@ ___
 ## Visualization and localization of blood vessels in speckle images
 
 
-| Work |   Dataset     |    Methods   | Localization | Visualization | Performance |
-|:----:|:-------------:|:------------:|:------------:|:-------------:|:-----------:|
-| [1]  | `Set A`       | `DWT-SL+MM`  |       ✔️     |       ✔️      |   JI: 0.8   |
-| [2]  | `Set B`       | `DWT-SL+KNN` |       ✔️     |               |   JI: 0.9   |
-| [3]  | `Set A`       | `DWT-AL+MM`  |       ✔️     |       ✔️      |   JI: 0.10  |
+| Work | Dataset |    Methods   | Localization | Visualization | Performance |
+|:----:|:-------:|:------------:|:------------:|:-------------:|:-----------:|
+|`[1]` | `Set A` | `DWT-SL+MM`  |       ✔️     |       ✔️      |   JI: 0.8   |
+|`[2]` | `Set B` | `DWT-SL+KNN` |       ✔️     |               |   JI: 0.9   |
+|`[3]` | `Set A` | `DWT-AL+MM`  |       ✔️     |       ✔️      |   JI: 0.10  |
 
 
 
