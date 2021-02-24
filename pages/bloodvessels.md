@@ -22,8 +22,8 @@ ___
 
 Work:
 
-* [1] [**Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition**(https://ieeexplore.ieee.org/document/8827144)
-* [2] [**Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach**(https://ieeexplore.ieee.org/document/9129242/)
+* [1] [**Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition*](https://ieeexplore.ieee.org/document/8827144)
+* [2] [**Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach**](https://ieeexplore.ieee.org/document/9129242/)
 * [3] Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients
 
 Datasets:
