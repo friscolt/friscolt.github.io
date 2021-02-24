@@ -7,9 +7,9 @@ ___
 
 | Work |   Dataset     |    Methods   | Localization | Visualization | Performance |
 |:----:|:-------------:|:------------:|:------------:|:-------------:|:-----------:|
-|  [1] | *In-vitro I*  |  DWT-SL + MM |       ✔️     |       ✔️      |   JI: 0.8   |
-|  [2] | *In-vitro II* | DWT-SL + KNN |       ✔️     |               |   JI: 0.9   |
-|  [3] | *In-vitro I*  |  DWT-AL + MM |       ✔️     |       ✔️      |   JI: 0.10  |
+|  [1] | *In-vitro A*  |  DWT-SL + MM |       ✔️     |       ✔️      |   JI: 0.8   |
+|  [2] | *In-vitro B*  | DWT-SL + KNN |       ✔️     |               |   JI: 0.9   |
+|  [3] | *In-vitro A*  |  DWT-AL + MM |       ✔️     |       ✔️      |   JI: 0.10  |
 
 ___
 
@@ -22,8 +22,10 @@ Work:
 
 Datasets:
 
-*  *In-vitro I:* Straight (0um to 1000um)
-*  *In-vitro II:* Straight and bifurcated (0um to 900um)
+
+*  *In-vitro A:* Straight and bifurcated (0um to 900um)
+*  *In-vitro B:* Straight (0um to 1000um)
+
 
 Methods: 
 
@@ -32,7 +34,7 @@ Methods:
 * DWT-AL + MM: Discrete Wavelet Transform automatic level with mathematical morphology 
 
 
-Metric:
+Performance:
 
 * JI: Jaccard Index
 
