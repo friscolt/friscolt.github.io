@@ -25,9 +25,9 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 
 | Work | Dataset |    Methods   | Localization | Visualization | Performance |
 |:----:|:-------:|:------------:|:------------:|:-------------:|:-----------:|
-|`[1]` | `Set A` | `DWT-SL+MM`  |       ✔️     |       ✔️      | `JI: 0.8`  |
-|`[2]` | `Set B` | `DWT-SL+KNN` |       ✔️     |               | `JI: 0.9`  |
-|`[3]` | `Set A` | `DWT-AL+MM`  |       ✔️     |       ✔️      | `JI: 0.1`  |
+|`[1]` | `Set A` | `DWT-SL+MM`  |       ✔️     |       ✔️      | `JI: 0.XX`  |
+|`[2]` | `Set B` | `DWT-SL+KNN` |       ✔️     |               | `JI: 0.XX`  |
+|`[3]` | `Set A` | `DWT-AL+MM`  |       ✔️     |       ✔️      | `JI: 0.XX`  |
 
 
 ### Work
