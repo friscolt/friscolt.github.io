@@ -22,9 +22,9 @@ ___
 
 | Work |   Dataset     |    Methods   | Localization | Visualization | Performance |
 |:----:|:-------------:|:------------:|:------------:|:-------------:|:-----------:|
-|  [1] | in-vitro `A`  | DWT-SL+MM    |       ✔️     |       ✔️      |   JI: 0.8   |
-|  [2] | in-vitro`B`   | DWT-SL+KNN   |       ✔️     |               |   JI: 0.9   |
-|  [3] | in-vitro`A`   | DWT-AL+MM    |       ✔️     |       ✔️      |   JI: 0.10  |
+|  [1] | Set A         | DWT-SL+MM    |       ✔️     |       ✔️      |   JI: 0.8   |
+|  [2] | Set B         | DWT-SL+KNN   |       ✔️     |               |   JI: 0.9   |
+|  [3] | Set A         | DWT-AL+MM    |       ✔️     |       ✔️      |   JI: 0.10  |
 
 ___
 
@@ -38,8 +38,8 @@ Work:
 Datasets:
 
 
-*  `A:` in-vitro straight and bifurcated blood vessels at 0µm to 900µm
-*  `B:` in-vitro straight blood vessels at 0µm to 1000µm
+*  `Set A:` *in-vitro* straight and bifurcated blood vessels at 0µm to 900µm
+*  `Set B:` *in-vitro* straight blood vessels at 0µm to 1000µm
 
 
 Methods: 
