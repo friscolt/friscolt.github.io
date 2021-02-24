@@ -1,37 +1,52 @@
 
-## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research) / [News](/news)
+## [Home](/index) / [Brief CV](/brief_cv) / Research / [News](/news)
 ___
+
+
+
+
+## Francisco J. López-Tiro 
+**Email:** [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=%20Hello,%20Francisco)
+
+
+[[Twitter]](https://twitter.com/Friscolt)
+[[GitHub]](https://github.com/friscolt)
+[[Linkedin]](https://www.linkedin.com/in/friscolt)
+[[Academic]](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)
+
+
+---
 
 ## Visualization and localization of blood vessels in speckle images
 
 
 | Work |   Dataset     |    Methods   | Localization | Visualization | Performance |
 |:----:|:-------------:|:------------:|:------------:|:-------------:|:-----------:|
-|  [1] | *In-vitro A*  |  DWT-SL + MM |       ✔️     |       ✔️      |   JI: 0.8   |
-|  [2] | *In-vitro B*  | DWT-SL + KNN |       ✔️     |               |   JI: 0.9   |
-|  [3] | *In-vitro A*  |  DWT-AL + MM |       ✔️     |       ✔️      |   JI: 0.10  |
+|  [1] | in-vitro `A`  | DWT-SL+MM    |       ✔️     |       ✔️      |   JI: 0.8   |
+|  [2] | in-vitro`B`   | DWT-SL+KNN   |       ✔️     |               |   JI: 0.9   |
+|  [3] | in-vitro`A`   | DWT-AL+MM    |       ✔️     |       ✔️      |   JI: 0.10  |
 
 ___
 
 
 Work:
 
-* [1] [**Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition**](https://ieeexplore.ieee.org/document/8827144)
-* [2] [**Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach**](https://ieeexplore.ieee.org/document/9129242/)
+* [1] [*Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition*](https://ieeexplore.ieee.org/document/8827144)
+* [2] [*Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach*](https://ieeexplore.ieee.org/document/9129242/)
 * [3] Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients
 
 Datasets:
 
 
-*  *In-vitro A:* Straight and bifurcated (0um to 900um)
-*  *In-vitro B:* Straight (0um to 1000um)
+*  `A:` in-vitro straight and bifurcated blood vessels at 0µm to 900µm
+*  `B:` in-vitro straight blood vessels at 0µm to 1000µm
 
 
 Methods: 
 
-* DWT-SL + MM : Discrete Wavelet Transform of simple level with mathematical morphology 
-* DWT-SL + KNN: Discrete Wavelet Transform of simple level with KNN classifier
-* DWT-AL + MM: Discrete Wavelet Transform automatic level with mathematical morphology 
+* DWT-SL+MM : Discrete Wavelet Transform of simple level with mathematical morphology 
+* DWT-SL+KNN: Discrete Wavelet Transform of simple level with KNN classifier
+* DWT-AL+MM: Discrete Wavelet Transform automatic level with mathematical morphology 
 
 
 Performance:
