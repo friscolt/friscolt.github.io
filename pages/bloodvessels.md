@@ -7,9 +7,9 @@ ___
 
 | Work |   Dataset     |    Methods   | Localization | Visualization | Performance |
 |:----:|:-------------:|:------------:|:------------:|:-------------:|:-----------:|
-|  [1] |  *In-vitro I* |  DWT-SL + MM |       ✔️     |       ✔️      |   JI: 0.8   |
+|  [1] | *In-vitro I*  |  DWT-SL + MM |       ✔️     |       ✔️      |   JI: 0.8   |
 |  [2] | *In-vitro II* | DWT-SL + KNN |       ✔️     |               |   JI: 0.9   |
-|  [3] |  *In-vitro I* |  DWT-AL + MM |       ✔️     |       ✔️      |   JI: 0.10  |
+|  [3] | *In-vitro I*  |  DWT-AL + MM |       ✔️     |       ✔️      |   JI: 0.10  |
 
 ___
 
