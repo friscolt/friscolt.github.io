@@ -38,8 +38,12 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 
 ### Datasets
 
-*  `Set A:` *in-vitro* straight and bifurcated blood vessels at 0µm to 900µm
-*  `Set B:` *in-vitro* straight blood vessels at 0µm to 1000µm
+*  `Set A:` *in-vitro* straight and bifurcated blood vessels at 0µm to 900µm. 
+   *  The following dataset contains 16 packets of raw speckle images, each packet contains 30 speckle frames.
+*  `Set B:` *in-vitro* straight blood vessels at 0µm to 1000µm. 
+   *  The following dataset contains 90 packets of raw speckle images, each packet contains 30 speckle frames.
+
+
 
 ### Methods
 
