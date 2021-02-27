@@ -1,7 +1,7 @@
 
 
 
-## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
+## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news)
 ___
 
 ## Francisco J. López-Tiro 
