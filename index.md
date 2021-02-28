@@ -1,17 +1,5 @@
 
-
-
 ## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
-___
-
-## Francisco J. López-Tiro 
-**Email:** [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=%20Hello,%20Francisco)
-
-
-[[Twitter]](https://twitter.com/Friscolt)
-[[GitHub]](https://github.com/friscolt)
-[[Linkedin]](https://www.linkedin.com/in/friscolt)
-[[Academic]](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)
 
 ---
 
@@ -44,4 +32,10 @@ Francisco 🇲🇽
 
 ---
 
+## Recent news 
 
+* Feb 27, 2021: We have submitted the extended abstract *"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*  at the [LXAI Workshop](https://www.latinxinai.org) at the [2021 International Conference on Computer Vision and Pattern Recognition](https://t.co/UHrDYoWUYK?amp=1), this year virtual 🌐
+
+* Feb 21, 2021: We have submitted the conference article "Assessing deep learning methods for the identification of kidney stones in endoscopic images" at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
+
+* Nov 2, 2020: We have submitted the conference article "Localization of Blood Vessels in in-vitro LSCI Images with K-Means" at the [2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org) at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿

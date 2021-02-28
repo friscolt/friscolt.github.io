@@ -1,22 +1,15 @@
 
-## [Home](/index) / [Brief CV](/brief_cv) / Research / [News](/news)
-
-___
-
-## Francisco J. López-Tiro 
-**Email:** [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=%20Hello,%20Francisco)
-
-[[Twitter]](https://twitter.com/Friscolt)
-[[GitHub]](https://github.com/friscolt)
-[[Linkedin]](https://www.linkedin.com/in/friscolt)
-[[Academic]](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)
+## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
 
 ---
 
 ## Visualization and localization of blood vessels in speckle images
 
 
+
 ![Visualization and localization of blood vessels in speckle images](/images/bloodvessels.png)
+
+
 
 
 Our research helps to improve the visualization of blood vessels inside the biological tissue. To achieve this goal we carry out research in biophotonics, high noise signals, digital image processing, and segmentation algorithms. 
