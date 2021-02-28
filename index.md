@@ -1,5 +1,3 @@
-## Francisco Javier López Tiro
----
 ## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
 
 ---
@@ -44,3 +42,4 @@ Francisco 🇲🇽
 
 ---
 
+Last update: Feb 28, 2021 
