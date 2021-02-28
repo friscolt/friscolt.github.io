@@ -1,4 +1,5 @@
-
+## Francisco Javier López Tiro
+---
 ## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
 
 ---
@@ -39,3 +40,7 @@ Francisco 🇲🇽
 * Feb 21, 2021: We have submitted the conference article *"Assessing deep learning methods for the identification of kidney stones in endoscopic images"* at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
 
 * Nov 2, 2020: We have submitted the conference article *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* at the [2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org) at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+
+
+---
+
