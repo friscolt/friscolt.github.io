@@ -1,4 +1,3 @@
-
 ## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
 
 ---
@@ -7,12 +6,9 @@
 
 ## About me
 
-I received a B.E. degree in Mechatronic Engineering at the [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015), and a MSc. degree in Biomedical Sciences and Technologies at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) (🇲🇽 2019). 
+Welcome to my webpage! I'm research assistant at the Department of Biomedical Sciences and Tecnologies of the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx).
 
-
-Currently, I teaching robotics at the university, and I'm research assistant at INAOE.
-Also, I like [black coffee](https://twitter.com/Blyyenq/status/1279272826726305793?s=20) ☕, novels of [Haruki Murakami](https://twitter.com/pictoline/status/1295503185805705220?s=20), and [RHCP music band](https://www.youtube.com/watch?v=t5ht7o5r4iQ) 🎵. 
-
+I received a B.E. degree in Mechatronic Engineering at the [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015), and a MSc. degree in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) (🇲🇽 2019). 
 
 ---
 
@@ -39,3 +35,8 @@ Francisco 🇲🇽
 * Feb 21, 2021: We have submitted the conference article *"Assessing deep learning methods for the identification of kidney stones in endoscopic images"* at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
 
 * Nov 2, 2020: We have submitted the conference article *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* at the [2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org) at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+
+
+---
+
+Last update: Feb 28, 2021 
