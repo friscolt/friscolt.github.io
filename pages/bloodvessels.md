@@ -16,7 +16,13 @@ ___
 ## Visualization and localization of blood vessels in speckle images
 
 
+![Visualization and localization of blood vessels in speckle images](/images/bloodvessels.png)
+
+
 Our research helps to improve the visualization of blood vessels inside the biological tissue. To achieve this goal we carry out research in biophotonics, high noise signals, digital image processing, and segmentation algorithms. 
+
+
+
 
 We assume that if we can attenuate the noise in the region of the blood vessel, the contrast will increase, and consequently visualization will improve. There are two main drawbacks to this: attenuating the noise and locating the region of interest. 
 
