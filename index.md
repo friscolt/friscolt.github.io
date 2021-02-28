@@ -22,8 +22,8 @@ My main interest is medical image processing and analysis. This involves multidi
 
 I'm now working on two interesting projects:
 
-*  [**Visualization and localization of blood vessels in speckle images**](/pages/bloodvessels)
-*  [**Classification of kidney stones in endoscopic images**](/pages/kidneystones)
+*  [**Visualization and localization of blood vessels in speckle images**](/bloodvessels)
+*  [**Classification of kidney stones in endoscopic images**](/kidneystones)
 
 If you want to know more about the contributions in these projects, you can click on the points above. If you want to discuss things of images, or make a collaboration, send me an email or follow me on [twitter](https://twitter.com/Friscolt).
 
