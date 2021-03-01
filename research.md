@@ -19,20 +19,22 @@ If you want to know more about the contributions in these projects, you can clic
 
 ### 2021
 
+
+**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
+
+**F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
+
+**Acepted**  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
+
+---
+
+
 **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
 
 **Francisco Lopez-Tiro**, Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
 
 **Submited** at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
 
-
----
-
-**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
-
-**F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
-
-**Submited**  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
 
 ---
 
