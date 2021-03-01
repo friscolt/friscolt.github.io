@@ -1,8 +1,15 @@
 
 ## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research) / News / [Contact](/contact)
-___
+
+---
 
 ## News
+
+### 2021
+
+* Feb 23, 2021: I just got [my first citation](https://link.springer.com/article/10.1007/s11356-021-12938-2)! 👨🏾‍💻✨
+
+---
 
 ### 2020
 
