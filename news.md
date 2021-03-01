@@ -9,8 +9,9 @@
 
 ---
 
-* Feb 23, 2021: I just got [my first citation](https://link.springer.com/article/10.1007/s11356-021-12938-2)! 👨🏾‍💻✨
+* March 1, 2021: Our conference paper *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* has been accepted at [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org). This year celebrated at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
+* Feb 23, 2021: I just got [my first citation](https://link.springer.com/article/10.1007/s11356-021-12938-2)! 👨🏾‍💻✨
 
 
 ### 2020
