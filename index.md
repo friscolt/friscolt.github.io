@@ -30,7 +30,7 @@ Francisco 🇲🇽
 
 ## Updates
 
-* March, 2021: I am very happy that our conference article "Localization of Blood Vessels in in-vitro LSCI Images with K-Means" has been accepted at the [2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org) (the third consecutive year). This year held virtually at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+* March, 2021: I am very happy that our conference article *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* has been accepted at the [2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org) (the third consecutive year). This year held virtually at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 * Feb 27, 2021: We have submitted the extended abstract *"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*  at the [LXAI Workshop](https://www.latinxinai.org) at the [2021 International Conference on Computer Vision and Pattern Recognition](https://t.co/UHrDYoWUYK?amp=1), this year virtual 🌐
 
