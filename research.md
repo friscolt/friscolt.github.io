@@ -31,10 +31,11 @@ If you want to know more about the contributions in these projects, you can clic
 
 **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
 
-**Francisco Lopez-Tiro**, Andres Varela, Oscar Hinojosa, Dinh-Hoan Trinh, Jonathan El Beze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez-Mendoza,   Gilberto Ochoa-Ruiz, Christian Daul
+**Francisco Lopez**, Andres Varela, Oscar Hinojosa, Mauricio Mendez, Dinh-Hoan Trinh, Jonathan ElBeze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez, Gilberto Ochoa, Christian Daul
 
 **Submited** at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
 
+[ArXiv](https://arxiv.org/abs/2103.01146)
 
 ---
 
