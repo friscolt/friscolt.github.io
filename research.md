@@ -35,7 +35,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 **Submited** at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
 
-[ArXiv](https://arxiv.org/abs/2103.01146)
+[[ArXiv]](https://arxiv.org/abs/2103.01146)
 
 ---
 
