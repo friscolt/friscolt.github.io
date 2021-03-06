@@ -50,7 +50,7 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 
 * `DWT-SL + MM:` Discrete Wavelet Transform of simple level with mathematical morphology 
 * `DWT-SL + KNN:` Discrete Wavelet Transform of simple level with K-Nearest Neighbors classifier
-* `KNN` K-Nearest Neighbors classifier
+* `KNN:` K-Nearest Neighbors classifier
 * `DWT-AL + MM:` Discrete Wavelet Transform automatic level with mathematical morphology 
 
 ### Performance
