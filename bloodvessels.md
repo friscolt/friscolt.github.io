@@ -33,7 +33,7 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 
 3. *Localization of Blood Vessels in in-vitro LSCI Images with K-Means* 
 
-4. Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients
+4. *Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients*
 
 ### Datasets
 
@@ -49,7 +49,8 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 ### Methods
 
 * `DWT-SL + MM:` Discrete Wavelet Transform of simple level with mathematical morphology 
-* `DWT-SL + KNN:` Discrete Wavelet Transform of simple level with KNN classifier
+* `DWT-SL + KNN:` Discrete Wavelet Transform of simple level with K-Nearest Neighbors classifier
+* `KNN` K-Nearest Neighbors classifier
 * `DWT-AL + MM:` Discrete Wavelet Transform automatic level with mathematical morphology 
 
 ### Performance
