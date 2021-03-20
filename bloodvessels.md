@@ -24,6 +24,7 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 |`[3]` | `Set B` | `KNN`        |       ✔️     |               | `JI: 0.XX`  |
 |`[4]` | `Set A` | `DWT-AL+MM`  |       ✔️     |       ✔️      | `JI: 0.XX`  |
 
+*Working in this table.
 
 ### Work
 
