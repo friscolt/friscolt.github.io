@@ -19,6 +19,14 @@ ___
 
 ___
 
+## Societies
+
+###  Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
+ *  2019 - Now: IEEE Instrumentation and Measurement Society ([IMS](https://ieee-ims.org))
+ *  2021 - Now: IEEE Engineering in Medicine and Biology Society ([EMB](https://www.embs.org))
+
+___
+
 
 ## Employment
 
