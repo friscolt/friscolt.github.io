@@ -8,7 +8,7 @@ ___
 
 ### Statement
 
-I thank Dr. Gilberto Ochoa-Ruiz for integrating me into the kidney stones team. Also, as soon as I have authorization and the work is published, I will report the codes of the methods used.
+I thank [Dr. Gilberto Ochoa-Ruiz](https://gda.itesm.mx/faculty/en/professors/gilberto-ochoa-ruiz) for integrating me into the kidney stones team. Also, as soon as I have authorization and the work is published, I will report the codes of the methods used.
 
 I am currently working on increasing the size of the datasets in patches for classification, extracting features, balancing classes, and classifying with machine learning methods such as xgboost. 
 
