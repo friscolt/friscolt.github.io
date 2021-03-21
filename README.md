@@ -11,4 +11,4 @@ Cheers, [Francisco](https://twitter.com/Friscolt)
 
 ___
 
-Last update: Feb 4, 2021
+Last update: March 21, 2021
