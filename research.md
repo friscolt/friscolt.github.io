@@ -20,11 +20,18 @@ If you want to know more about the contributions in these projects, you can clic
 ### 2021
 
 
-**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
+[**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 
 **F. Lopez-Tiro**, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
 **Acepted**  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
+
+[[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+[[Code]](https://github.com/friscolt/i2mtc-2021)
+[[Poster]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+
+
+
 
 ---
 
