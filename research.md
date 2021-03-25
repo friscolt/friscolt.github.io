@@ -28,7 +28,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 [[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 [[Code]](https://github.com/friscolt/i2mtc-2021)
-[[Poster]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+[[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
 
 
 
