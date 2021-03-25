@@ -30,7 +30,7 @@ Francisco 🇲🇽
 
 ## Updates
 
-* Mar 25, 2021: This is the [poster](https://twitter.com/Friscolt) that I will present at the IEEE IMS [I2MTC 2021](https://i2mtc2021.ieee-ims.org). See you in the conference session room!
+* Mar 25, 2021: This is the [poster](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means) that I will present at the IEEE IMS [I2MTC 2021](https://i2mtc2021.ieee-ims.org). See you in the conference session room!
 
 * Mar 1, 2021: I am very happy that our conference article *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* has been accepted at the [2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org) (the third consecutive year). This year held virtually at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
