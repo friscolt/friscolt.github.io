@@ -10,12 +10,10 @@ ___
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
 
-
 ### 2011 - 2015:   BE. in Mechatronics Engineering
    * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico)
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
    * Laboratory of  Digital Signal Processing
-
 
 ___
 
@@ -32,6 +30,7 @@ ___
 
 ### 2020 - Now: Teacher and coach,  Universidad Tecmilenio
   * Teacher of robotics and head coach of [EARTH 4723](https://www.instagram.com/earth4723oficial)
+    *   Game Changers 2020-2021 
 
 ### 2020 - Now: Teacher, Universidad de los Ángeles
   * Jan - Apr 2021: Artificial intelligence, electrical circuit analysis, computer-aided design, and manufacturing engineering
