@@ -30,7 +30,7 @@ ___
 
 ### 2020 - Now: Teacher and coach,  Universidad Tecmilenio
   * Teacher of robotics and head coach of [EARTH 4723](https://www.instagram.com/earth4723oficial)
-    *   Game Changers 2020-2021 
+    *   2020 - 2021: Game Changers
 
 ### 2020 - Now: Teacher, Universidad de los Ángeles
   * Jan - Apr 2021: Artificial intelligence, electrical circuit analysis, computer-aided design, and manufacturing engineering
