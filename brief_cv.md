@@ -36,10 +36,10 @@ ___
   * Jan - Apr 2021: Artificial intelligence, electrical circuit analysis, computer-aided design, and manufacturing engineering
   * Sept - Dec 2020: Robotics, computer science for engineers, flexible manufacturing systems, and statistics 
 
-### 2015 - 2017: Project Coordinator,  Colegio de Educación Profesional Técnica del Estado de Puebla
-  *  Coordinator of computer aided design and modeling of multiphysical systems for F1 in Schools World Finals:
-     *  Kuala Lumpur, Malaysia 2017 [(Escudería Alebrije)](https://www.facebook.com/alebrijeracing.16)
-     *  Texas, USA 2016 [(Escudería Catrina)](https://www.facebook.com/EscuderiaCatrina35)
+### 2015 - 2017: Coach,  Colegio de Educación Profesional Técnica del Estado de Puebla
+  *  F1 in Schools coach:
+     *  2015 - 2016: [Escudería Alebrije](https://www.facebook.com/alebrijeracing.16) at Kuala Lumpur, Malaysia
+     *  2016 - 2017: [Escudería Catrina](https://www.facebook.com/EscuderiaCatrina35) at Texas, USA
 
 
 ### 2015 - 2017: Teacher,  Colegio de Educación Profesional Técnica del Estado de Puebla
