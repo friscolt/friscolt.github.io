@@ -12,9 +12,6 @@ I thank [Dr. José de Jesús Rangel-Magdaleno](https://scholar.google.es/citatio
 I am currently working on denoising with wavelets, improve quality image, segmenting with traditional and clustering methods such as knn. 
 
 
----
-
-
 
 ![Visualization and localization of blood vessels in speckle images](/images/bloodvessels.png)
 
@@ -47,18 +44,12 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 3. *Localization of Blood Vessels in in-vitro LSCI Images with K-Means* [[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 [[Code]](https://github.com/friscolt/i2mtc-2021) [[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
 
-
 4. *Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients*
 
 ### Datasets
 
-*  `Set A:` 
-   *  *in-vitro* straight (7) and bifurcated (7) blood vessels at 0µm to 900µm 
-   *  The following dataset contains 14 packets of raw speckle images
-   
-*  `Set B:` 
-   * *in-vitro* straight blood vessels at 0µm to 1000µm 
-   * The following dataset contains 90 packets of raw speckle images
+*  `Set A:` 14 packets of  *in-vitro* raw speckle images (straight (7) and bifurcated (7)) of blood vessels at 0µm to 900µm
+*  `Set B:` 90 packets of *in-vitro*  raw speckle images (straight) of blood vessels at 0µm to 1000µm 
 
 
 ### Methods
