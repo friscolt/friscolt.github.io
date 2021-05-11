@@ -7,7 +7,7 @@
 
 ### Statement
 
-I thank Dr. José de Jesús Rangel-Magdaleno, Dr. Hayde Peregrina-Barreto, and Dr. Julio Cesar Ramirez-San-Juan for integrating me into the speckle team. Also, as soon as I have authorization and the work is published, I will report the codes of the methods used.
+I thank [Dr. José de Jesús Rangel-Magdaleno](https://scholar.google.es/citations?user=aBNkfEsAAAAJ&hl=es), [Dr. Hayde Peregrina-Barreto](https://scholar.google.es/citations?user=Wh2blp0AAAAJ&hl=es), and [Dr. Julio Cesar Ramirez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) for integrating me into the speckle team. Also, as soon as I have authorization and the work is published, I will report the codes of the methods used.
 
 I am currently working on denoising with wavelets, improve quality image, segmenting with traditional and clustering methods such as knn. 
 
@@ -20,11 +20,14 @@ I am currently working on denoising with wavelets, improve quality image, segmen
 
 
 
+### Research
 
 Our research helps to improve the visualization of blood vessels inside the biological tissue. To achieve this goal we carry out research in biophotonics, high noise signals, digital image processing, and segmentation algorithms. 
 
 In this research we address the use of the Discrete Wavelet Transform (DWT) as a multilevel filtering method and region segmentation techniques to improve visualization and localization in LSI images. 
 
+
+### Summary
 
 | Work | Dataset |    Methods   | Localization | Visualization | Performance |
 |:----:|:-------:|:------------:|:------------:|:-------------:|:-----------:|
