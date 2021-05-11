@@ -5,6 +5,15 @@
 
 ## Visualization and localization of blood vessels in speckle images
 
+### Statement
+
+I thank Dr. José de Jesús Rangel-Magdaleno, Dr. Hayde Peregrina-Barreto, and Dr. Julio Cesar Ramirez-San-Juan for integrating me into the speckle team. Also, as soon as I have authorization and the work is published, I will report the codes of the methods used.
+
+I am currently working on denoising with wavelets, improve quality image, segmenting with traditional and clustering methods such as knn. 
+
+
+---
+
 
 
 ![Visualization and localization of blood vessels in speckle images](/images/bloodvessels.png)
