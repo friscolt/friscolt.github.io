@@ -9,6 +9,8 @@
 
 ---
 
+* May 11, 2021: I was invited to participate in the project "Breast classification in mammography images" with [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the Universitat Politècnica de Catalunya (UPC).
+
 * Mar 1, 2021: Our conference paper *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* has been accepted at [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org). This year celebrated at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 * Feb 23, 2021: I just got [my first citation](https://link.springer.com/article/10.1007/s11356-021-12938-2)! 👨🏾‍💻✨
