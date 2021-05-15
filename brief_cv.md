@@ -17,15 +17,6 @@ ___
 
 ___
 
-## Societies
-
-###  [Institute of Electrical and Electronics Engineers](https://www.ieee.org)
- *  2019: Instrumentation and Measurement Society [(IEEE IMS)](https://ieee-ims.org)
- *  2021: Engineering in Medicine and Biology Society [(IEEE EMB)](https://www.embs.org)
-
-___
-
-
 ## Employment
 
 ### 2020 - Now: Teacher and coach,  Universidad Tecmilenio
@@ -33,6 +24,7 @@ ___
     *   2020 - 2021: Game Changers
 
 ### 2020 - Now: Teacher, Universidad de los Ángeles
+  * May - Ago 2021: Instrumentation and control, mechatronic design, electricity and magnetism, and numerical programming
   * Jan - Apr 2021: Artificial intelligence, electrical circuit analysis, computer-aided design, and manufacturing engineering
   * Sept - Dec 2020: Robotics, computer science for engineers, flexible manufacturing systems, and statistics 
 
@@ -59,8 +51,6 @@ ___
 
 ### 2014:  Professional practices, Arroba Ingeniería
   * Electronic maintenance to neonatal medical equipment (Puebla, Mexico)
-
-
 
 ___
 
