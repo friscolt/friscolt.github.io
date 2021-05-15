@@ -6,9 +6,9 @@
 
 ## About me
 
-Welcome to my webpage! I'm research assistant at the Department of Biomedical Sciences and Tecnologies of the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx).
+Welcome to my webpage!, I'm research assistant at the Department of Biomedical Sciences and Tecnologies of the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx).
 
-I received a B.E. degree in Mechatronic Engineering at the [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015), and a MSc. degree in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) (🇲🇽 2019). 
+I received a MSc. degree in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) (🇲🇽 2019),and a B.E. degree in Mechatronic Engineering at the [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015). 
 
 ---
 
