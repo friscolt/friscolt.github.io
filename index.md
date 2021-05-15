@@ -6,9 +6,9 @@
 
 ## About me
 
-Welcome to my webpage!, I'm research assistant at the Department of Biomedical Sciences and Tecnologies of the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Also, I'm a colaborator in two interesting [projects](https://friscolt.github.io/research) at [Tecnológico de Moterrey](https://tec.mx/es). 
+Welcome to my webpage!, I'm research assistant at the Department of Biomedical Sciences and Tecnologies of the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Also, I'm a colaborator in two interesting [projects](https://friscolt.github.io/research) at [Tecnológico de Monterrey](https://tec.mx/es). 
 
-I received a MSc. degree in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) (🇲🇽 2019),and a B.E. degree in Mechatronic Engineering at the [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015). 
+I received a MSc. degree in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) (🇲🇽 2019), and a B.E. degree in Mechatronic Engineering at the [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015). 
 
 
 
@@ -18,7 +18,7 @@ I received a MSc. degree in Biomedical Sciences and Technologies at [INAOE](http
 
 My main interest is medical image processing and analysis. This involves multidisciplinary research from computing (mainly), and a bit of biophotonics. Most of my work has been done in Matlab, and I'm doing useful things with Python 🐍.
 
-I'm now working on two interesting projects:
+I'm now working on three interesting projects:
 
 *  [**Visualization and localization of blood vessels in speckle images**](/bloodvessels)
 *  [**Classification of kidney stones in endoscopic images**](/kidneystones)
