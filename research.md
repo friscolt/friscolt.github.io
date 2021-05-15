@@ -16,6 +16,14 @@ If you want to know more about the contributions in these projects, you can clic
 
 ---
 
+## Talks
+
+* [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org), Glasgow, Scotland, May, 2021
+* [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2020.ieee-ims.org), Dubrovnik, Croatia, May 2020 
+* [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2020.ieee-ims.org),, Auckland, New Zealand, May 2019 
+
+---
+
 ## Publications
 
 ### 2021
@@ -30,8 +38,6 @@ If you want to know more about the contributions in these projects, you can clic
 [[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 [[Code]](https://github.com/friscolt/i2mtc-2021)
 [[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
-
-
 
 
 ---
