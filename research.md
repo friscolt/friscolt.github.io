@@ -18,6 +18,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 ## Talks
 
+* Jun, 2021 (Comming soon): [LatinX in CV (LXCV) Research at CVPR 2021](https://www.latinxinai.org/cvpr-2021-about), Virtual
 * May, 2021: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org), Glasgow, Scotland
 * May, 2020: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2020.ieee-ims.org), Dubrovnik, Croatia
 * May, 2019: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2020.ieee-ims.org), Auckland, New Zealand
@@ -28,14 +29,13 @@ If you want to know more about the contributions in these projects, you can clic
 
 ### 2021
 
+* [**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 
-[**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+>> [**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
-[**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
+>> **Acepted**  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
 
-**Acepted**  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
-
-[[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+>> [[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 [[Code]](https://github.com/friscolt/i2mtc-2021)
 [[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
 
