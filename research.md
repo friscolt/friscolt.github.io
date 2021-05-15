@@ -19,9 +19,9 @@ If you want to know more about the contributions in these projects, you can clic
 ## Talks
 
 * Jun, 2021 (Comming soon): [LatinX in CV (LXCV) Research at CVPR 2021](https://www.latinxinai.org/cvpr-2021-about), Virtual
-* May, 2021: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org), Glasgow, Scotland
-* May, 2020: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2020.ieee-ims.org), Dubrovnik, Croatia
-* May, 2019: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2020.ieee-ims.org), Auckland, New Zealand
+* May, 2021: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2021.ieee-ims.org), Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+* May, 2020: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2020.ieee-ims.org), Dubrovnik, Croatia 🇭🇷
+* May, 2019: [IEEE International Instrumentation and Measurement Technology Conference (I2MTC)](https://i2mtc2020.ieee-ims.org), Auckland, New Zealand 🇳🇿
 
 ---
 
@@ -32,7 +32,9 @@ If you want to know more about the contributions in these projects, you can clic
 [**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 
 [**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
-**Acepted**  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
+
+**Acepted**  at *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
+
 [[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 [[Code]](https://github.com/friscolt/i2mtc-2021)
 [[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
@@ -45,7 +47,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 [**Francisco Lopez**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Andres Varela, Oscar Hinojosa, Mauricio Mendez, Dinh-Hoan Trinh, Jonathan ElBeze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez, Gilberto Ochoa, Christian Daul
 
-**Submited** at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* at Guadalajara, Mexico 🇲🇽
+**Submited** at *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*
 
 [[Paper]](https://arxiv.org/abs/2103.01146) [[Code]](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)
 
@@ -68,7 +70,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 [**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan, J. M. Ramirez-Cortes
 
-*2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Dubrovnik, Croatia  🇭🇷
+*2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
 
 [[Paper]](https://ieeexplore.ieee.org/document/9129242/)
 [[Code]](https://github.com/friscolt/i2mtc-2020)
@@ -85,7 +87,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 [**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
-*2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)* at Auckland, New Zealand 🇳🇿
+*2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
 
 [[Paper]](https://ieeexplore.ieee.org/document/8827144)
 [[Code]](https://github.com/friscolt/i2mtc-2019)
