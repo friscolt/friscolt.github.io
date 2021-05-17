@@ -33,7 +33,7 @@ Francisco 🇲🇽
 
 ## Updates
 
-* May 11, 2021: I was invited to participate in the project "Breast classification in mammography images" with [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the Universitat Politècnica de Catalunya (UPC).
+* May 11, 2021: I was invited to participate in the project "Breast classification in mammography images" with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from Tecnológico de Monterrey and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the Universitat Politècnica de Catalunya (UPC).
 
 * Apr 30, 2021: I got a new [citation](https://ieeexplore.ieee.org/abstract/document/9420044)!
 
