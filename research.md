@@ -6,7 +6,7 @@ ___
 ## Projects
 
 
-I'm now working on two interesting projects:
+I'm now working on three interesting projects:
 
 *  [Visualization and localization of blood vessels in speckle images](/bloodvessels)
 *  [Classification of kidney stones in endoscopic images](/kidneystones)
