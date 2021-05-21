@@ -3,7 +3,7 @@
 
 ___
 
-## Classification of kidney stones in endoscopic images
+## Breast classification on mammography images
 
 
 ### Statement
