@@ -57,7 +57,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 **Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
-**Submited** at the [*Elsevier Journal of Biomedical Signal Processing and Control*](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
+**Acepted** at the [*Elsevier Journal of Biomedical Signal Processing and Control*](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
 
 ---
