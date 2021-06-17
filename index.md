@@ -33,6 +33,9 @@ Francisco 🇲🇽
 
 ## Updates
 
+
+* Jun 16, 2021: My first journal research paper *"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"* was (finally!) accepted for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
+
 * May 22, 2021: I presented in poster format the work  *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 * May 11, 2021: I was invited to participate in the project "Breast classification in mammography images" with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from Tecnológico de Monterrey and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the Universitat Politècnica de Catalunya (UPC).
@@ -44,4 +47,4 @@ Francisco 🇲🇽
 
 ---
 
-Last update: May 21, 2021 
+Last update: Jun 17, 2021 
