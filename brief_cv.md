@@ -1,6 +1,6 @@
 
 ## [Home](/index) / Brief CV / [Research](/research) / [News](/news) / [Contact](/contact)
-___
+---
 
 ## Education
 
@@ -15,7 +15,7 @@ ___
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
    * Laboratory of  Digital Signal Processing
 
-___
+---
 
 ## Employment
 
@@ -39,7 +39,9 @@ ___
 
 ### 2015 - 2017: Assistant professor,  Colegio de Educación Profesional Técnica del Estado de Puebla
   * Physics, mathematics, electronics and metrology 
-___
+
+---
+
 
 ## Stays
 ### 2015:  Thesis development, Secretaría de Marina
@@ -50,5 +52,5 @@ ___
 ### 2014:  Professional practices, Arroba Ingeniería
   * Electronic maintenance to neonatal medical equipment (Puebla, Mexico)
 
-___
+---
 
