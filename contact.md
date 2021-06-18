@@ -2,7 +2,7 @@
 ___
 
 ## Francisco Javier Lopez-Tiro 
-Also as [**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), [**Francisco Lopez**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es) or [**Francisco Javier Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)
+Also as [**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), or [**Francisco Lopez**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es) 
 
 **Email:** [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco) or [`francisco.lopez@ieee.org`](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)
 
