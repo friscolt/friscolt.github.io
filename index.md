@@ -24,7 +24,7 @@ I'm now working on three interesting projects:
 *  [**Classification of kidney stones in endoscopic images**](/kidneystones)
 *  [**Breast classification on mammography images**](/mammography) `(New project)`
 
-**If you want to know more about the contributions in these projects, you can click on the points above.** If you want to discuss things of images, or make a collaboration, send me an email or follow me on [twitter](https://twitter.com/Friscolt).
+**If you want to know more about the contributions in these projects, you can click on the points above.** If you want to discuss things of images, or make a collaboration, send me an [email](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco)  or follow me on [twitter](https://twitter.com/Friscolt).
 
 Cheers,
 Francisco 🇲🇽
