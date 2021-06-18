@@ -34,12 +34,11 @@ If you want to know more about the contributions in these projects, you can clic
 
 **Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients**
 
-**Francisco Javier Lopez-Tiro**, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
+[**Francisco Javier Lopez-Tiro**]((https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)), Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
 **Acepted** at the [*Elsevier Journal of Biomedical Signal Processing and Control*](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
-[[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
-[[Code]](https://github.com/friscolt/i2mtc-2021)
+[[Code]](https://github.com/friscolt/elsevier-wavelet)
 
 
 ---
