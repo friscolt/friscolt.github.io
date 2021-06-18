@@ -38,6 +38,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 **Acepted** at the [*Elsevier Journal of Biomedical Signal Processing and Control*](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
+[[Paper]](https://github.com/friscolt/elsevier-wavelet/blob/main/preprint.pdf)
 [[Code]](https://github.com/friscolt/elsevier-wavelet)
 
 
