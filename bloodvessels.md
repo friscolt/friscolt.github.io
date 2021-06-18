@@ -51,7 +51,6 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 *  `Set A:` 14 packets of  *in-vitro* raw speckle images (straight (7) and bifurcated (7)) of blood vessels at 0µm to 900µm
 *  `Set B:` 90 packets of *in-vitro*  raw speckle images (straight) of blood vessels at 0µm to 1000µm 
 
-
 ### Methods
 
 * `DWT-SL + MM:` Discrete Wavelet Transform of simple level with mathematical morphology 
@@ -59,6 +58,3 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 * `KNN:` K-Nearest Neighbors classifier
 * `DWT-AL + MM:` Discrete Wavelet Transform automatic level with mathematical morphology 
 
-### Performance
-
-* JI: Jaccard Index
