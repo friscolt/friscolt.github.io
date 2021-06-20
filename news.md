@@ -9,7 +9,7 @@
 
 ---
 
-* Jun 19, 2021: I presented our extended abstract (as poster session) “Assessing deep learning methods for the identification of kidney stones composition in endoscopic images” at the LatinX in CV (LXCV) Workshop at [CVPR](http://cvpr2021.thecvf.com)
+* Jun 19, 2021: I presented our [extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) “Assessing deep learning methods for the identification of kidney stones composition in endoscopic images” at the LatinX in CV (LXCV) Workshop at [CVPR](http://cvpr2021.thecvf.com)
 
 * Jun 16, 2021: My first journal research paper *"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"* was (finally!) accepted for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
