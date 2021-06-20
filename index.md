@@ -40,6 +40,7 @@ Francisco 🇲🇽
 * May 22, 2021: I presented in poster format the work  *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 [Full historial](/news)
+
 ---
 
 Last update: Jun 19, 2021 
