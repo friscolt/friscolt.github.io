@@ -29,7 +29,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 ### 2021
 
-**Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients**
+[**Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients**](https://github.com/friscolt/elsevier-wavelet/blob/main/preprint.pdf)
 
 [**Francisco Javier Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan
 
