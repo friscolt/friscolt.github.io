@@ -5,17 +5,13 @@ description: >
  Hello, my name is Francisco, and I'm from <a href= "https://www.instagram.com/p/CClVytAF1oy/">  Cholula 🇲🇽.  </a>  I process medical images at INAOE. <br> <br>
  
  Keywords: 
- Medical imaging,
- Image processing and analysis,
- Machine learning,
- Coffee,
- Computer vision,
- Digital signal precessing,
- Deep learning,
- Robotics,
- <a href= "https://twitter.com/Jose_Rangel_M/status/1164566151914876928?s=20"> Digital Signal Group, </a> 
- Biophotonics,
- Matlab and Python,
- <a href= "https://twitter.com/Friscolt/status/1120074887815520256?s=20"> Biosignal lab! </a> 
+ 
+ Biomedical, 
+ Machine Learning, 
+ Deep Learning, 
+ Robotics, 
+ Computer Vision, 
+ & Image Processing
+ 
 
 theme: jekyll-theme-minimal
