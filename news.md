@@ -8,6 +8,9 @@
 ### 2021
 
 ---
+
+* Jun 19, 2021: I presented our extended abstract (as poster session) “Assessing deep learning methods for the identification of kidney stones composition in endoscopic images” at the LatinX in CV (LXCV) Workshop at [CVPR](http://cvpr2021.thecvf.com)
+
 * Jun 16, 2021: My first journal research paper *"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"* was (finally!) accepted for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
 * May 22, 2021: I presented in poster format the work  *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
