@@ -1,4 +1,4 @@
-### `Homepage` / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
+### Homepage / [CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
 
 ---
 
