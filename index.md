@@ -1,4 +1,4 @@
-### <div align="right"> Home / [CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)  <div>
+### <div align="right">Home / [CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)<div>
 
 ---
 
