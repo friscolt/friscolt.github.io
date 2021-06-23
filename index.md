@@ -1,10 +1,10 @@
-### F.Lopez-Tiro's Homepage &nbsp; &nbsp; Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
+### `Homepage` / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
 
 ---
 
 
 
-## About me
+### About me
 
 Welcome to my webpage!, I'm research assistant at the Department of Biomedical Sciences and Tecnologies of the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Also, I'm a collaborator in two interesting [projects](https://friscolt.github.io/research) at [Tecnológico de Monterrey](https://tec.mx/es). 
 
@@ -14,7 +14,7 @@ I received a MSc. degree in Biomedical Sciences and Technologies at [INAOE](http
 
 ---
 
-## Research interests
+### Research interests
 
 My main interest is medical image processing and analysis. This involves multidisciplinary research from computing (mainly), and a bit of biophotonics. Most of my work has been done in Matlab, and I'm doing useful things with Python 🐍.
 
@@ -31,7 +31,7 @@ Francisco 🇲🇽
 
 ---
 
-## Updates
+### Updates
 
 * Jun 19, 2021: I presented our [extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) *“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”* at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at [CVPR](http://cvpr2021.thecvf.com)
 
