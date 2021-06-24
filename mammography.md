@@ -1,8 +1,5 @@
-
-
-###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / [Brief CV](/brief_cv) / [Contact](/contact)
-
-___
+###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee) / [Contact](/contact)
+---
 
 ### Breast classification on mammography images
 
