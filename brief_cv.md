@@ -1,5 +1,5 @@
 
-###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / Brief CV / [Contact](/contact)
+###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / CV / [Coffee](/coffee) / [Contact](/contact)
 
 ---
 
@@ -43,12 +43,11 @@
 
 ---
 
-
 ### Stays
 **2015:  Thesis development, Secretaría de Marina**
 
 * [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ)
-* Departamento de *Digitalización del Sistemas de Control y Monitoreo (DISICOM)* (Veracruz, Mexico)
+* Department of *Digitalización del Sistemas de Control y Monitoreo (DISICOM)* (Veracruz, Mexico)
 
 **2014:  Professional practices, Arroba Ingeniería**
   * Electronic maintenance to neonatal medical equipment (Puebla, Mexico)
