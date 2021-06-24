@@ -1,26 +1,25 @@
-###  Home / [Publications](/publications) / [Research](/research) / [News](/news) / [Brief CV](/brief_cv) / [Contact](/contact)
+###  Home / [Publications](/publications) / [Research](/research) / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee) / [Contact](/contact)
 ---
 
   
 ### About me
-Welcome to my homepage!, I'm a research assistant at the Department of Biomedical Sciences and Tecnologies of the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx), and also I'm a collaborator in two interesting [projects](https://friscolt.github.io/research) at [Tecnológico de Monterrey](https://tec.mx/es). 
+I'm a research assistant at the Department of Biomedical Sciences and Tecnologies of the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx), and also I'm a collaborator at [Tecnológico de Monterrey](https://tec.mx/es). 
 
 I received a MSc. degree in Biomedical Sciences from [INAOE](https://www.inaoep.mx) (🇲🇽 2019), and a BE. degree in Mechatronics Engineering from [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015).  Most importantly, I'm always on the lookout for a great espresso.
-  
   
 ---
 
 ### Research interests
 
-My interests are in computer vision & medical image processing, and machine learning. This involves multidisciplinary research from computing (mainly), and (a bit) of biophotonics, and medicine. 
+My interests are in computer vision & medical image processing, and machine learning. This involves multidisciplinary research from computing (mainly), and (a bitc of) biophotonics, and medicine. 
   
 I'm now working on three interesting projects:
 
-*  [**Visualization and localization of blood vessels in speckle images**](/bloodvessels)
-*  [**Classification of kidney stones in endoscopic images**](/kidneystones)
-*  [**Breast classification on mammography images**](/mammography) `(New project)`
+*  [Visualization and localization of blood vessels in speckle images](/bloodvessels)
+*  [Classification of kidney stones in endoscopic images](/kidneystones)
+*  [Breast classification on mammography images](/mammography) `(New project)`
 
-**If you want to know more about these projects, you can click on the points above.** If you want to discuss things of images, or make a collaboration, send me an [email](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco)  or follow me on [twitter](https://twitter.com/Friscolt).
+If you want to discuss things of images, or make a collaboration, send me an [email](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco)  or follow me on [twitter](https://twitter.com/Friscolt).
 
 Cheers,
 Francisco 🇲🇽
@@ -37,6 +36,6 @@ Francisco 🇲🇽
 
 [Full historial](/news)
 
----
 
+--- 
 Last update: Jun 23, 2021 
