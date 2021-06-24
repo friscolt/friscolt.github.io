@@ -1,6 +1,4 @@
-
-###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / [Brief CV](/brief_cv) / [Contact](/contact)
-
+###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee) / [Contact](/contact)
 ---
 
 ### Visualization and localization of blood vessels in speckle images
