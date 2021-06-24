@@ -1,4 +1,4 @@
-###  [Home](/index) / [Publications](/publications) / Research / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee)/ [Contact](/contact)
+###  [Home](/index) / [Publications](/publications) / Research / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee) / [Contact](/contact)
 ___
 
 ### Research interests
