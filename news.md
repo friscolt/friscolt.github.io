@@ -1,4 +1,4 @@
-###  [Home](/index) / [Publications](/publications) / [Research](/research) / News / [Brief CV](/brief_cv) / [Contact](/contact)
+###  [Home](/index) / [Publications](/publications) / [Research](/research) / News / [CV](/brief_cv) / [Coffee](/coffee)/ [Contact](/contact)
 
 
 ---
@@ -13,7 +13,7 @@
 
 * May 22, 2021: I presented in poster format the work  *"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"* at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-* May 11, 2021: I was invited to participate in the project "Breast classification in mammography images" with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from Tecnológico de Monterrey and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the Universitat Politècnica de Catalunya (UPC).
+* May 11, 2021: I was invited to participate in the project *"Breast classification in mammography images"* with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from Tecnológico de Monterrey and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/es).
 
 * Mar 1, 2021: Our conference article *"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*  is now available in 
 [ArXiv](https://arxiv.org/abs/2103.01146)
@@ -50,6 +50,4 @@
 
 ---
 
-
-[Full historial](/history)
 
