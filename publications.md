@@ -36,7 +36,10 @@
 
 **Submited** at 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 
-[[Paper]](https://arxiv.org/abs/2103.01146) [[Code]](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)
+[[Paper]](https://arxiv.org/abs/2103.01146)
+[[Code]](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)
+[[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:6x31SdKBABwJ:scholar.google.com/&output=citation&scisdr=CgU82xgsENX4_1XRNG4:AAGBfm0AAAAAYNPXLG7DFXc55OrN8I9EdsqM2fUJIovd&scisig=AAGBfm0AAAAAYNPXLK7yxKYxxq4R9E5k30pVs7ou5WXj&scisf=4&ct=citation&cd=-1&hl=es)
+
 
 ### 2020
 ---
@@ -45,16 +48,16 @@
 
 [**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan, J. M. Ramirez-Cortes
 
-*2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
+2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)
 
 [[Paper]](https://ieeexplore.ieee.org/document/9129242/)
 [[Code]](https://github.com/friscolt/i2mtc-2020)
 [[Keynote]](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
+[[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:QVFI1T46TbgJ:scholar.google.com/&output=citation&scisdr=CgU82xgsENX4_1XeBlQ:AAGBfm0AAAAAYNPYHlQDkS9-Jri8UVYGJSze2ZNo0tNv&scisig=AAGBfm0AAAAAYNPYHnJCGBrWtmNfWkseEjbGm3gLaTfN&scisf=4&ct=citation&cd=-1&hl=es)
 
 
 ### 2019
 ---
-
 
 [**Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition**](https://ieeexplore.ieee.org/document/8827144)
 
@@ -65,6 +68,6 @@
 [[Paper]](https://ieeexplore.ieee.org/document/8827144)
 [[Code]](https://github.com/friscolt/i2mtc-2019)
 [[Poster]](https://www.researchgate.net/publication/333146308_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
-
+[[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:oS97zz0mG3EJ:scholar.google.com/&output=citation&scisdr=CgU82xgsENX4_1XR4xY:AAGBfm0AAAAAYNPX-xaO40bY2MWoeweu49pvqQgUZNsx&scisig=AAGBfm0AAAAAYNPX-0Sur_8DKbnC1QzSh1bK6ieoE8cD&scisf=4&ct=citation&cd=-1&hl=es)
 
 ---
