@@ -1,4 +1,4 @@
-###  Home / [CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
+###  Home / [Publications](/publications) / [Research](/research) / [News](/news) / [Brief CV](/brief_cv) / [Contact](/contact)
 ---
 
   
