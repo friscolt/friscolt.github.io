@@ -17,13 +17,13 @@ Elsevier Journal of Biomedical Signal Processing and Control
 
 ---
 
-[**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+[**Localization of Blood Vessels in in-vitro LSCI Images with K-Means**](https://ieeexplore.ieee.org/document/9460100)
 
 [**F. Lopez-Tiro**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan
 
-**Acepted**  at 2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)
+2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)
 
-[[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+[[Paper]](https://ieeexplore.ieee.org/document/9460100)
 [[Code]](https://github.com/friscolt/i2mtc-2021)
 [[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
 
