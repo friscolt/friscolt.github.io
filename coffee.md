@@ -11,7 +11,7 @@ I usually buy freshly roasted seeds at my local store, then I grind the coffee a
 **Favorite coffee roasters**
 
 * [Café de Mi Abuelo](https://es-la.facebook.com/cafedemiabuelo) (San Pedro Cholula), has the best marago crop. It is a mild coffee, it lifts your spirits, and *every grain is life.*
-* [Café Tres Gallos](https://es-la.facebook.com/cafe3gallos) (Puebla City), has one of the best house blend of the city. Although it is a little strong (be careful), it has an incredible flavor.
+* [Café Tres Gallos](https://es-la.facebook.com/cafe3gallos) (Puebla), has one of the best house blend of the city. Although it is a little strong (be careful), it has an incredible flavor.
 
 
 **Favorite coffee shops**
