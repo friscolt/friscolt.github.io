@@ -39,7 +39,7 @@ In this research we address the use of the Discrete Wavelet Transform (DWT) as a
 
 2. *Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach* [[Paper]](https://ieeexplore.ieee.org/document/9129242/) [[Code]](https://github.com/friscolt/i2mtc-2020) [[Keynote]](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
 
-3. *Localization of Blood Vessels in in-vitro LSCI Images with K-Means* [[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+3. *Localization of Blood Vessels in in-vitro LSCI Images with K-Means* [[Paper]](https://ieeexplore.ieee.org/document/9460100)
 [[Code]](https://github.com/friscolt/i2mtc-2021) [[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
 
 4. *Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients*
