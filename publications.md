@@ -37,6 +37,7 @@ Elsevier Journal of Biomedical Signal Processing and Control
 
 [[Paper]](https://arxiv.org/abs/2103.01146)
 [[Code]](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)
+[[Poster]](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)
 
 
 ### 2020
