@@ -1,4 +1,4 @@
-## Coffe ☕🌱
+## Coffee ☕🌱
 ###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / [CV](/brief_cv) / Coffee / [Contact](/contact)
 ---
 ### Coffee recommendations ☕️
@@ -23,7 +23,7 @@ The following list is a tour of the coffee shops you must visit if you ever come
 * If you are in the *"Barrio de los sapos",* you can visit [Café Santo Patrono](https://es-la.facebook.com/Cafesantopatrono) (Puebla). It has it all: a beautiful place, the best playlist, excellent coffee and the best chocolate cake I've ever tasted.
 * Hidden in a a small place of Puebla, [Manos Artesanales](https://es-la.facebook.com/manosartesanalesam) (Santa María Tonantzintla) is a coffee shop with a beautiful garden (plants, lights and sounds).  It is a place that I don't know how to describe with words.
 * I have such good memories in [Café Milagros](https://www.facebook.com/cafemilagros/) (Puebla) that I can only tell you: go! The place is beautiful and very traditional, just around the corner from [Café Santo Patrono](https://es-la.facebook.com/Cafesantopatrono) in the heart of the city. 
-* [Café-Tal](https://es-la.facebook.com/pages/category/Cafe/Café-Tal-Cholula-504804126305680/) and [Las Duyas](http://www.churrerialasduyas.com) in the heart of San Pedro Cholula  are a couple of coffee shops you must visit in my dear town.   
+* [Café-Tal](https://es-la.facebook.com/pages/category/Cafe/Café-Tal-Cholula-504804126305680/) and [Las Duyas](http://www.churrerialasduyas.com) in the heart of San Pedro Cholula  are a couple of coffee shops you must visit in my dear town.
 * [Terraza Museo Amparo](https://museoamparo.com/cafe) (Puebla) is perfect. You can visit the museum or go to work in the library, then go up to the terrace. Enjoy the view of the Cathedral and the domes of the city, it is superb!
 
 ---
