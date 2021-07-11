@@ -12,7 +12,7 @@ I received a MSc. degree in Biomedical Sciences from [INAOE](https://www.inaoep.
 
 ### Research interests
 
-My interests are in computer vision & medical image processing, and machine learning. This involves multidisciplinary research from computing (mainly), and (a bit  of) biophotonics, and medicine. 
+My interests are in computer vision, medical image processing, and machine learning. This involves multidisciplinary research from computing (mainly), (a bit  of) biophotonics, and medicine. 
   
 I'm now working on three interesting projects:
 
