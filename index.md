@@ -19,6 +19,8 @@ I'm now working on three interesting projects:
 *  [Visualization and localization of blood vessels in speckle images](/bloodvessels)
 *  [Classification of kidney stones in endoscopic images](/kidneystones)
 *  [Breast classification on mammography images](/mammography) `(New project)`
+*  [Visualization and analysis of colonies growing in speckle images](/coloniesgrowing) `(New project)`
+
 
 If you want to discuss things of images, or make a collaboration, send me an [email](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco)  or follow me on [twitter](https://twitter.com/Friscolt).
 
