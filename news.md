@@ -12,6 +12,8 @@
 
 * Jun 28, 2021: Our conference paper *“Localization of blood vessels in in-vitro LSCI images with K-means”* is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100).
 
+* June 23, 2021: I was invited to participate in the project [*"Visualization and analysis of colonies growing in speckle images"*](https://friscolt.github.io/coloniesgrowing) with [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) from [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx).
+
 * Jun 19, 2021: I presented our [extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) *“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”* at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at [CVPR](http://cvpr2021.thecvf.com)
 
 * Jun 16, 2021: My first journal research paper *"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"* was (finally!) accepted for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
