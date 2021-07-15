@@ -12,11 +12,12 @@ My interests are in computer vision & medical image processing, and machine lear
 ### Projects
 
 
-I'm now working on three interesting projects:
+I'm now working on some interesting projects:
 
 *  [Visualization and localization of blood vessels in speckle images](/bloodvessels)
 *  [Classification of kidney stones in endoscopic images](/kidneystones)
 *  [Breast classification on mammography images](/mammography) `(New project)`
+*  [Visualization and analysis of colonies growing in speckle images](/coloniesgrowing) `(New project)`
 
 If you want to know more about the contributions in these projects, you can click on the points above.
 
