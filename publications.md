@@ -35,7 +35,7 @@ Elsevier Journal of Biomedical Signal Processing and Control
 
 [**Francisco Lopez**](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Andres Varela, Oscar Hinojosa, Mauricio Mendez, Dinh-Hoan Trinh, Jonathan ElBeze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez, Gilberto Ochoa, Christian Daul
 
-**Submited** at 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+**Acepted** at 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 
 [[Paper]](https://arxiv.org/abs/2103.01146)
 [[Code]](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)
