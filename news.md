@@ -8,6 +8,8 @@
 
 ---
 
+* Jul 15, 2021: Our conference paper [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been accepted at [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
+
 * Jun 28, 2021: Our journal paper [*“Visualization of blood vessels in in vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now available in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894).
 
 * Jun 28, 2021: Our conference paper [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100).
