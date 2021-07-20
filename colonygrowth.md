@@ -1,5 +1,5 @@
 
-## Visualization and analysis of colonies growing in speckle images
+## Visualization and analysis of colony growth in speckle images
 
 ---
 ###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee) / [Contact](/contact)
