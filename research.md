@@ -17,7 +17,7 @@ I'm now working on some interesting projects:
 *  [Visualization and localization of blood vessels in speckle images](/bloodvessels)
 *  [Classification of kidney stones in endoscopic images](/kidneystones)
 *  [Breast classification on mammography images](/mammography) `(New project)`
-*  [Visualization and analysis of colonies growing in speckle images](/coloniesgrowing) `(New project)`
+*  [Visualization and analysis of colony growth in speckle images](/colonygrowth) `(New project)`
 
 If you want to know more about the contributions in these projects, you can click on the points above.
 
