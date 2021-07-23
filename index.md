@@ -16,10 +16,10 @@ My interests are in **computer vision** & **biomedical image processing and anal
   
 I'm now working on some interesting **projects**:
 
-*  [Visualization and localization of blood vessels in speckle images](/bloodvessels)
-*  [Classification of kidney stones in endoscopic images](/kidneystones)
-*  [Breast classification on mammography images](/mammography) `(New project)`
-*  [Visualization and analysis of colony growth in speckle images](/colonygrowth) `(New project)`
+*  [**Visualization and localization** of **blood vessels** in speckle images](/bloodvessels)
+*  [**Classification** of **kidney stones** in endoscopic images](/kidneystones)
+*  [Breast **classification** on **mammography** images](/mammography) `(New project)`
+*  [**Visualization and analysis** of **colony growth** in speckle images](/colonygrowth) `(New project)`
 
 
 If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco)  or follow me on [twitter](https://twitter.com/Friscolt).
