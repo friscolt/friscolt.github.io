@@ -14,6 +14,7 @@ I usually buy freshly roasted seeds at my local store, then I grind the coffee a
 * [Café de Mi Abuelo](https://es-la.facebook.com/cafedemiabuelo) (San Pedro Cholula), has the best marago crop. It is a mild coffee, it lifts your spirits, and *every grain is life.*
 * [Café Tres Gallos](https://es-la.facebook.com/cafe3gallos) (Puebla), has one of the best house blend of the city. Although it is a little strong (be careful), it has an incredible flavor.
 
+>> ![ ](/images/coffee.gif)
 
 **Favorite coffee shops**
 
@@ -26,9 +27,6 @@ The following list is a tour of the coffee shops you must visit if you ever come
 * [Café-Tal](https://es-la.facebook.com/pages/category/Cafe/Café-Tal-Cholula-504804126305680/) and [Las Duyas](http://www.churrerialasduyas.com) in the heart of San Pedro Cholula  are a couple of coffee shops you must visit in my dear town.
 * [Terraza Museo Amparo](https://museoamparo.com/cafe) (Puebla) is perfect. You can visit the museum or go to work in the library, then go up to the terrace. Enjoy the view of the Cathedral and the domes of the city, it is superb!
 
-
-
->> ![ ](/images/coffee.gif)
 
 
 
