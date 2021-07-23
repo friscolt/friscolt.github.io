@@ -26,6 +26,13 @@ The following list is a tour of the coffee shops you must visit if you ever come
 * [Café-Tal](https://es-la.facebook.com/pages/category/Cafe/Café-Tal-Cholula-504804126305680/) and [Las Duyas](http://www.churrerialasduyas.com) in the heart of San Pedro Cholula  are a couple of coffee shops you must visit in my dear town.
 * [Terraza Museo Amparo](https://museoamparo.com/cafe) (Puebla) is perfect. You can visit the museum or go to work in the library, then go up to the terrace. Enjoy the view of the Cathedral and the domes of the city, it is superb!
 
+
+
+![ ](/images/coffee.gif)
+
+
+
+
 ---
 
 
@@ -39,6 +46,11 @@ The vast majority of the books I have read are in Spanish. My love for literatur
 * Persona normal, *Benito Taibo* (everyone child in the world must be read it)
 * The Martian, *Andy Weir* (sarcastic, awesome stupid, and genius)
 * La tregua, *Mario Benedetti* (a warm hug in the heart)
+
+
+
+---
+
 
 This is [my personal library](/personal-library) (working on) where you can find a collection of books, comics, pictures and a lot of other things. 
 
