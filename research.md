@@ -13,11 +13,10 @@ My interests are in **computer vision** & **biomedical image processing and anal
 
 
 I'm now working on some interesting projects:
-*  [Visualization and analysis of colony growth in speckle images](/colonygrowth) `(New project)`
-*  [Breast classification on mammography images](/mammography) `(New project)`
-*  [Classification of kidney stones in endoscopic images](/kidneystones)
 *  [Visualization and localization of blood vessels in speckle images](/bloodvessels)
-    * [Speckle Laboratory (SpeckleLab)](/specklelab)  
+*  [Classification of kidney stones in endoscopic images](/kidneystones)
+*  [Breast classification on mammography images](/mammography) `(New project)`
+*  [Visualization and analysis of colony growth in speckle images](/colonygrowth) `(New project)`
 
 If you want to know more about the contributions in these projects, you can click on the points above.
 
