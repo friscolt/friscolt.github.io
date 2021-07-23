@@ -49,6 +49,8 @@
 
 * Nov 28, 2019: I have successfully passed my thesis defense to obtain my Master's degree in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) 🇲🇽. Thank you all very much!
 
+>> ![ ](/images/mc.jpeg)
+
 * Sept 9, 2019: Our conference paper [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/8827144)!
 
 * May 22, 2019: I presented in poster format the work [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) at the 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019) in Auckland , New Zealand! 🇳🇿
