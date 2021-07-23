@@ -16,15 +16,11 @@ Department of Biomedical Sciences and Tecnologies
 [[Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)]
 [[ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro)]
 
-
 ---
 
 I'm a **research assistant** at the Department of Biomedical Sciences and Tecnologies [(INAOE)](https://www.inaoep.mx), and also I'm a **collaborator** at [Tecnológico de Monterrey](https://tec.mx/es). I received a **MSc. degree** in **Biomedical Sciences** from [INAOE](https://www.inaoep.mx) (🇲🇽 2019). My research focuses on **computer vision** & **biomedical image processing and analysis**, and **machine learning**.
 
->> ![ ](/images/inaoe.jpg)
-
-
-
+![ ](/images/inaoe.jpg)
 
 ---
 
