@@ -8,54 +8,54 @@
 
 ---
 
-* Jul 15, 2021: Our conference paper [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been accepted at [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
+* Jul 15, 2021: Our **conference paper** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been **accepted** at [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
 
-* Jun 28, 2021: Our journal paper [*“Visualization of blood vessels in in vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now available in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894).
+* Jun 28, 2021: Our **journal paper** [*“Visualization of blood vessels in in vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is **now available** in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894).
 
-* Jun 28, 2021: Our conference paper [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100).
+* Jun 28, 2021: Our **conference paper** [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is **now available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100).
 
-* June 23, 2021: I was invited to participate in the project [*"Visualization and analysis of colony growth in speckle images"*](/colonygrowth) with [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) from [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx).
+* June 23, 2021: I was invited to participate in the **project** [*"Visualization and analysis of colony growth in speckle images"*](/colonygrowth) with [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) from [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx).
 
-* Jun 19, 2021: I presented our [extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at [CVPR](http://cvpr2021.thecvf.com)
+* Jun 19, 2021: I **presented** our [**extended abstract**](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at [CVPR](http://cvpr2021.thecvf.com)
 
-* Jun 16, 2021: My first journal research paper [*"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) was (finally!) accepted for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
+* Jun 16, 2021: My first **journal research paper** [*"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) was (finally!) **accepted** for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
-* May 22, 2021: I presented in poster format the work  [*"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"*](https://ieeexplore.ieee.org/document/9460100) at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+* May 22, 2021: I **presented** in **poster** format the work  [*"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"*](https://ieeexplore.ieee.org/document/9460100) at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-* May 11, 2021: I was invited to participate in the project [*"Breast classification in mammography images"*](https://friscolt.github.io/mammography) with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from Tecnológico de Monterrey and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/es).
+* May 11, 2021: I was invited to participate in the **project** [*"Breast classification in mammography images"*](https://friscolt.github.io/mammography) with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from Tecnológico de Monterrey and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/es).
 
-* Mar 1, 2021: Our conference article [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146)  is now available in [ArXiv](https://arxiv.org/abs/2103.01146)
+* Mar 1, 2021: Our **conference article** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146)  is **now available** in [ArXiv](https://arxiv.org/abs/2103.01146)
 
-* Mar 1, 2021: Our conference paper [*"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"*](https://ieeexplore.ieee.org/document/9460100) has been accepted at [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org). This year celebrated at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+* Mar 1, 2021: Our **conference paper** [*"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"*](https://ieeexplore.ieee.org/document/9460100) has been **accepted** at [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org). This year celebrated at Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 * Feb 23, 2021: I just got [my first citation](https://link.springer.com/article/10.1007/s11356-021-12938-2)! 👨🏾‍💻✨
 
-* Feb 21, 2021: We have submitted the conference article [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
+* Feb 21, 2021: We have **submitted** the **conference article** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
 
 
 ### 2020
 
 ---
 
-* June 30, 2020: Our conference paper [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/9129242).
+* June 30, 2020: Our **conference paper** [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) is **now available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9129242).
 
-* May 25, 2020: We present in collaboration the conference paper [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) at [2020 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2020)](https://i2mtc2020.ieee-ims.org). This year celebrated in Dubrovnik, Croatia 🇭🇷 (virtual)
+* May 25, 2020: We **present** in collaboration the **conference paper** [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) at [2020 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2020)](https://i2mtc2020.ieee-ims.org). This year celebrated in Dubrovnik, Croatia 🇭🇷 (virtual)
 
-* Feb 9, 2020: Our conference paper [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: A Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) has been accepted at [2020 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2020)](https://i2mtc2020.ieee-ims.org). This year celebrated in Dubrovnik, Croatia 🇭🇷 
+* Feb 9, 2020: Our **conference paper** [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: A Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) has been **accepted** at [2020 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2020)](https://i2mtc2020.ieee-ims.org). This year celebrated in Dubrovnik, Croatia 🇭🇷 
 
 ### 2019
 
 ---
 
-* Nov 28, 2019: I have successfully passed my thesis defense to obtain my Master's degree in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) 🇲🇽. Thank you all very much!
+* Nov 28, 2019: I have **successfully passed** my **thesis defense** to obtain my **Master's degree** in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) 🇲🇽. Thank you all very much!
 
 >> ![ ](/images/mc.jpeg)
 
-* Sept 9, 2019: Our conference paper [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) is now available in [IEEEXplore](https://ieeexplore.ieee.org/document/8827144)!
+* Sept 9, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) is **now available** in [IEEEXplore](https://ieeexplore.ieee.org/document/8827144)!
 
-* May 22, 2019: I presented in poster format the work [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) at the 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019) in Auckland , New Zealand! 🇳🇿
+* May 22, 2019: I **presented** in **poster** format the work [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) at the 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019) in Auckland , New Zealand! 🇳🇿
 
-* Jan 12, 2019: Our conference paper [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) has been accepted at 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019). This year celebrated in Auckland, New Zealand 🇳🇿
+* Jan 12, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) has been **accepted** at 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019). This year celebrated in Auckland, New Zealand 🇳🇿
 
 ---
 
