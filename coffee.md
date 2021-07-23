@@ -28,7 +28,7 @@ The following list is a tour of the coffee shops you must visit if you ever come
 
 
 
-![ ](/images/coffee.gif)
+>> ![ ](/images/coffee.gif)
 
 
 
