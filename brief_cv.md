@@ -20,6 +20,11 @@
 
 ### Employment
 
+**2019 - Now: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
+  * Research assistant at [Digital Systems Group (DSG)](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg)
+
+
+
 **2020 - Now: Assistant professor and head coach,  Universidad Tecmilenio**
   * Professor of robotics and head coach of [EARTH 4723](https://www.instagram.com/earth4723oficial)
     *   2021 - 2022: FORWARD
