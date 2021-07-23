@@ -12,7 +12,7 @@ My interests are in **computer vision** & **biomedical image processing and anal
 ### Projects
 
 
-I'm now working on some interesting projects:
+I'm now working on some interesting **projects**:
 *  [Visualization and localization of blood vessels in speckle images](/bloodvessels)
 *  [Classification of kidney stones in endoscopic images](/kidneystones)
 *  [Breast classification on mammography images](/mammography) `(New project)`
