@@ -6,9 +6,9 @@
 
 ### Francisco Javier Lopez-Tiro 
 
-Department of Biomedical Sciences and Tecnologies &nbsp;
-Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE) &nbsp;
-Email: [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco) &nbsp;
+Department of Biomedical Sciences and Tecnologies  
+Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)  
+Email: [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco)  
 Address: Luis Enrique Erro # 1, Tonantzintla, Puebla, México C.P. 72840
 
 
