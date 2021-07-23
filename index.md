@@ -47,7 +47,7 @@ Francisco 🇲🇽
 
 ---
 
-[Full historial](/news)
+[[Full historial](/news)]
 
 
 --- 
