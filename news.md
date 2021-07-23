@@ -57,6 +57,7 @@
 * May 22, 2019: I **presented** in **poster** format the work [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) at the 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019) in Auckland , New Zealand! 🇳🇿
 
 * May 20-23, 2019: We attended IEEE I2MTC 2019 in Auckland , New Zealand! 🇳🇿
+
 >> ![ ](/images/i2mtc.JPG)                                          
 >> From left to right: Carlos Morales, Eduardo Morales, Max Cortner (I&M Society President), Ingrid Valencia, and Francisco (me)
 
