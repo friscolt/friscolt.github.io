@@ -49,6 +49,11 @@ Francisco 🇲🇽
 
 * May 22, 2021: I **presented** in **poster** format the work  [*"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"*](https://ieeexplore.ieee.org/document/9460100) at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
+>> ![ ](/images/i2mtc2021.jpeg)                                          
+>> On the scene: Francisco Lopez-Tiro (me)
+
+---
+
 [Full historial](/news)
 
 
