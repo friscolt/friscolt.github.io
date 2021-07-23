@@ -40,7 +40,7 @@ The vast majority of the books I have read are in Spanish. My love for literatur
 * The Martian, *Andy Weir* (sarcastic, awesome stupid, and genius)
 * La tregua, *Mario Benedetti* (a warm hug in the heart)
 
-This is [my personal library](/personally) (working on) where you can find a collection of books, comics, pictures and a lot of other things. 
+This is [my personal library](/personal-library) (working on) where you can find a collection of books, comics, pictures and a lot of other things. 
 
 
 ---
