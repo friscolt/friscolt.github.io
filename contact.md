@@ -4,8 +4,7 @@
 
 ---
 
-### Francisco Javier Lopez-Tiro 
-
+### **Francisco Javier Lopez-Tiro**                       
 Department of Biomedical Sciences and Tecnologies                                                
 [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx)                                                 
 **Email:** [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco)                                      
