@@ -18,11 +18,11 @@ I'm a **research assistant** at the Department of Biomedical Sciences and Tecnol
 
 ----
 Usefull links:                                                                     
-[[Twitter]](https://twitter.com/Friscolt)
-[[GitHub]](https://github.com/friscolt)
-[[Linkedin]](https://www.linkedin.com/in/friscolt)
-[[Google Academic]](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)
-[[ResearchGate]](https://www.researchgate.net/profile/Francisco-Lopez-Tiro)
+[[Twitter](https://twitter.com/Friscolt)]
+[[GitHub](https://github.com/friscolt)]
+[[Linkedin](https://www.linkedin.com/in/friscolt)]
+[[Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es)]
+[[ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro)]
 
 ---
 
