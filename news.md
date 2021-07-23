@@ -50,7 +50,7 @@
 * Nov 28, 2019: I have **successfully passed** my **thesis defense** to obtain my **Master's degree** in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) 🇲🇽. Thank you all very much!
 
 >> ![ ](/images/mc.jpeg)                                          
->> From left to right: Dr. Hayde Peregrina-Barreto, Francisco (me), Dr. José de Jesús Rangel-Magdaleno
+>> From left to right: Dr. Hayde Peregrina-Barreto, Francisco Lopez-Tiro (me), Dr. José de Jesús Rangel-Magdaleno
 
 * Sept 9, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/8827144)!
 
@@ -59,7 +59,7 @@
 * May 20-23, 2019: We attended IEEE I2MTC 2019 in Auckland , New Zealand! 🇳🇿
 
 >> ![ ](/images/i2mtc.JPG)                                          
->> From left to right: Carlos Morales, Eduardo Morales, Max Cortner (I&M Society President), Ingrid Valencia, and Francisco (me)
+>> From left to right: Carlos Morales-Perez, Eduardo Morales-Vargas, Max Cortner (I&M Society President), Ingrid Valencia-Hernandez, and Francisco Lopez-Tiro (me)
 
 * Jan 12, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) has been **accepted** at 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019). This year celebrated in Auckland, New Zealand 🇳🇿
 
