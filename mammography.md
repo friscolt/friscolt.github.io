@@ -6,7 +6,7 @@
 
 ### Statement
 
-I thank [Dr. Gilberto Ochoa-Ruiz](https://gda.itesm.mx/faculty/en/professors/gilberto-ochoa-ruiz) for integrating me into the mammography team. Also, as soon as I have authorization and the work is published, I will report the codes of the methods used.
+I thank [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.com.mx/citations?user=DDtiliwAAAAJ&hl=es), and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) for integrating me into the mammography team. Also, as soon as I have authorization and the work is published, I will report the codes of the methods used.
 
 I am currently working on classifying with deep learning methods. 
 
