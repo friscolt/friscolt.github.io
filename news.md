@@ -29,7 +29,7 @@
 >> On the scene: Francisco Lopez-Tiro (me)
 
 
-* May 11, 2021: I was invited to participate in the **project** [*"Breast classification in mammography images"*](https://friscolt.github.io/mammography) with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from Tecnológico de Monterrey and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/es).
+* May 11, 2021: I was invited to participate in the **project** [*"Breast classification in mammography images"*](https://friscolt.github.io/mammography) with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from [Tecnológico de Monterrey](http://research.tec.mx/vivo-tec/display/PID_334436) and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/es).
 
 * Mar 1, 2021: Our **conference article** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146)  is now **available** in [ArXiv](https://arxiv.org/abs/2103.01146)
 
