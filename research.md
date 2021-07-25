@@ -1,6 +1,10 @@
 ## Research and projects 📓
 ###  [Home](/index) / [Publications](/publications) / Research / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee) / [Contact](/contact)
-___
+---
+
+Projects: [[**Blood vessels**](/bloodvessels)] [[**Kidney stones**](/kidneystones)] [[**mammography**](/mammography)] [[**colony growth**](/colonygrowth)]
+
+--- 
 
 ### Research interests
 
