@@ -2,6 +2,7 @@
 ---
 
 ###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee) / [Contact](/contact)
+
 ---
 
 
@@ -22,3 +23,9 @@ At the moment, I have a conference paper with the **kidney stones team** that yo
 [[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)]
 [[Extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf)]
 
+
+
+---
+
+
+**Other projects**: [Blood vessels](/bloodvessels) > [**Kidney stones**](/kidneystones) > [Mammography](/mammography) > [Colony growth](/colonygrowth) > [SpeckleLab](/specklelab)
