@@ -21,7 +21,7 @@
 >> ![ ](/images/lxai.png)                                          
 >> On the scene: Dr. Gilberto Ochoa-Ruiz, Andres Varelo, Samuel Montero-Hernandez, Francisco Lopez-Tiro (me)
 
-* Jun 16, 2021: My first **journal research paper** [*"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) was (finally!) **accepted** for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
+* Jun 16, 2021: My first **journal paper** [*"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) was **accepted** for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
 * May 22, 2021: I **presented** in **poster** format the work  [*"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"*](https://ieeexplore.ieee.org/document/9460100) at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
