@@ -29,4 +29,4 @@ At the moment, I have a conference paper with the **kidney stones team** that yo
 ---
 
 
-**Other projects**: [Blood vessels](/bloodvessels) > [**Kidney stones**](/kidneystones) > [Mammography](/mammography) > [Colony growth](/colonygrowth) > [SpeckleLab](/specklelab)
+**Other projects**: [Blood vessels](/bloodvessels), [Mammography](/mammography), [Colony growth](/colonygrowth), [SpeckleLab](/specklelab)
