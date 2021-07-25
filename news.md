@@ -10,7 +10,7 @@
 
 * Jul 15, 2021: Our **conference paper** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been **accepted** at [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
 
-* Jun 28, 2021: Our **journal paper** [*“Visualization of blood vessels in in vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now **available** in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894).
+* Jun 28, 2021: Our **journal paper** [*“Visualization of blood vessels in in-vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now **available** in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894).
 
 * Jun 28, 2021: Our **conference paper** [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100).
 
@@ -21,7 +21,7 @@
 >> ![ ](/images/lxai.png)                                          
 >> On the scene: Dr. Gilberto Ochoa-Ruiz (Tecnológico de Monterrey), Andres Varelo (Tecnológico de Monterrey), Samuel Montero-Hernandez (University of Houston), Francisco Lopez-Tiro (me)
 
-* Jun 16, 2021: My first **journal paper** [*"Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients"*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) was **accepted** for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
+* Jun 16, 2021: My first **journal paper** [*"Visualization of blood vessels in in-vitro raw speckle images using an energy-based on DWT coefficients"*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) was **accepted** for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
 * May 22, 2021: I **presented** in **poster** format the work  [*"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"*](https://ieeexplore.ieee.org/document/9460100) at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
