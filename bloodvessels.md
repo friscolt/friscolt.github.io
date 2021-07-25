@@ -48,7 +48,7 @@ In this research we address the use of the **Discrete Wavelet Transform** (DWT) 
 [[Code](https://github.com/friscolt/i2mtc-2021)] 
 [[Poster](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)]
 
-4. **Visualization of Blood Vessels in in-vitro Raw Speckle Images Using an Energy-based Decomposition Criteria on DWT Coefficients** (2021).
+4. **Visualization of blood vessels in in-vitro raw speckle images using an energy-based decomposition criteria on DWT coefficients** (2021).
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809421004894?dgcid=coauthor)]
 [[Code](https://github.com/friscolt/elsevier-wavelet)]
 
