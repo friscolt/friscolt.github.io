@@ -14,4 +14,4 @@ I am currently working on **slow dynamic visualization**, and **analysis**.
 
 ---
 
-**Other projects**: [Blood vessels](/bloodvessels) > [Kidney stones](/kidneystones) > [Mammography](/mammography) > [**Colony growth**](/colonygrowth) > [SpeckleLab](/specklelab)
+**Other projects**: [Blood vessels](/bloodvessels), [Kidney stones](/kidneystones), [Mammography](/mammography), [SpeckleLab](/specklelab)
