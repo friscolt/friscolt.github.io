@@ -14,6 +14,13 @@ I thank [Dr. Gilberto Ochoa-Ruiz](https://gda.itesm.mx/faculty/en/professors/gil
  I am currently working on increasing the size of the datasets in patches for **classification**, extracting **features**, balancing classes, and classifying with **machine learning** methods such as **xgboost**. 
 
 
+
+
+
+---
+
+### Research
+
 At the moment, I have a conference paper with the **kidney stones team** that you can check on **Arxiv**:
 
 * [**Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images.**](https://arxiv.org/abs/2103.01146)
