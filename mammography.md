@@ -11,3 +11,7 @@ I thank [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.com.mx/citations?user=D
 I am currently working on classifying with **deep learning** methods. 
 
 ---
+
+**Other projects**: [Blood vessels](/bloodvessels), [Kidney stones](/kidneystones), [Colony growth](/colonygrowth), [SpeckleLab](/specklelab)
+
+---
