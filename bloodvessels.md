@@ -59,3 +59,9 @@ Working in [Speckle Laboratory (SpeckleLab)](/specklelab)
 
 ---
 
+
+
+**Other projects**: [**Blood vessels**](/bloodvessels) > [Kidney stones](/kidneystones) > [Mammography](/mammography) > [Colony growth](/colonygrowth) > [SpeckleLab](/specklelab)
+
+
+--- 
