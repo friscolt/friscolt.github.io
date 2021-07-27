@@ -1,4 +1,5 @@
-## Welcome to my personal webpage! 👋🏾
+## Welcome 🗻
+
 ###  Home / [Publications](/publications) / [Research](/research) / [News](/news) / [CV](/brief_cv) / [Coffee](/coffee) / [Contact](/contact)
 ---
 
