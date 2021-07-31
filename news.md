@@ -44,6 +44,8 @@
 
 ### 2020
 
+* Aug 8, 2021: I was invited to participate in the **project** [*"Classification of kidney stones in endoscopic images"*](https://friscolt.github.io/kidneystones) with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from [Tecnológico de Monterrey](http://research.tec.mx/vivo-tec/display/PID_334436) 🇲🇽
+
 
 * June 30, 2020: Our **conference paper** [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9129242).
 
