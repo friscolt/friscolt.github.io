@@ -10,13 +10,13 @@
 
 * Jul 15, 2021: Our **conference paper** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been **accepted** at [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
 
-* Jun 28, 2021: Our **journal paper** [*“Visualization of blood vessels in in-vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now **available** in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894).
+* Jun 28, 2021: Our **journal paper** [*“Visualization of blood vessels in in-vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now **available** in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894)
 
-* Jun 28, 2021: Our **conference paper** [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100).
+* Jun 28, 2021: Our **conference paper** [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100)
 
-* Jun 23, 2021: I was invited to participate in the **project** [*"Visualization and analysis of colony growth in speckle images"*](/colonygrowth) with [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) from [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx).
+* Jun 23, 2021: I was invited to participate in the **project** [*"Visualization and analysis of colony growth in speckle images"*](/colonygrowth) with [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) from [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) 🇲🇽
 
-* Jun 19, 2021: I **presented** our [**extended abstract**](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at [CVPR](http://cvpr2021.thecvf.com)
+* Jun 19, 2021: I **presented** our [**extended abstract**](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at [CVPR](http://cvpr2021.thecvf.com) 
 
 >> ![ ](/images/lxai.png)                                          
 >> On the scene: Dr. Gilberto Ochoa-Ruiz (Tecnológico de Monterrey), Andres Varelo (Tecnológico de Monterrey), Samuel Montero-Hernandez (University of Houston), Francisco Lopez-Tiro (me)
@@ -29,7 +29,7 @@
 >> On the scene: Francisco Lopez-Tiro (me)
 
 
-* May 11, 2021: I was invited to participate in the **project** [*"Breast classification in mammography images"*](https://friscolt.github.io/mammography) with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from [Tecnológico de Monterrey](http://research.tec.mx/vivo-tec/display/PID_334436) and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/es).
+* May 11, 2021: I was invited to participate in the **project** [*"Breast classification in mammography images"*](https://friscolt.github.io/mammography) with [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.es/citations?user=DDtiliwAAAAJ&hl=es) from [Tecnológico de Monterrey](http://research.tec.mx/vivo-tec/display/PID_334436) and [Dr. Cristian Mata](https://scholar.google.com.mx/citations?user=PXBkuoIAAAAJ&hl=es) from the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/es) 🇲🇽🇪🇸
 
 * Mar 1, 2021: Our **conference article** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146)  is now **available** in [ArXiv](https://arxiv.org/abs/2103.01146)
 
