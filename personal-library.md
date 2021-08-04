@@ -22,3 +22,4 @@ Cine
 * Schindler's List (1993)
 * Forrest Gump (1994)
 * Eternal Sunshine of the Spotless Mind (2004)
+* 500 Days Of Summer (2009)
