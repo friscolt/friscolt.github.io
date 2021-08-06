@@ -3,6 +3,9 @@
 
 ---
 
+[[Download CV](/images/CV_FranciscoLopez.pdf)]
+
+
 ### Education
 
 **2017 - 2019:  MSc. in Biomedical Sciences and Technologies**
