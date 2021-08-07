@@ -13,7 +13,6 @@
    * Thesis: *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
-
 **2011 - 2015:   BE. in Mechatronics Engineering**
    * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico)
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
@@ -38,9 +37,6 @@
   * Research assistant at the Department of Biomedical Sciences and Tecnologies
     *   Now: [Digital Systems Group (DSG)](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg) 
     *   Before: [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
-
-
-
 
 
 **2015 - 2017: Head coach, Colegio de Educación Profesional Técnica del Estado de Puebla**
