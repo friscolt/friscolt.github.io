@@ -6,7 +6,7 @@
 
 ### 2021
 
-
+* Aug 3, 2021: We have **submitted** the **journal paper** *“On the in vivo recognition of kidney stones using machine learning”* at the Journal of [Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 
 * Jul 15, 2021: Our **conference paper** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been **accepted** at [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
 
