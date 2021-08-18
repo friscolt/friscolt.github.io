@@ -23,6 +23,12 @@
 
 ### Employment
 
+
+**2019 - Now: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
+  * Research assistant at the Department of Biomedical Sciences and Tecnologies
+    *   Now: [Digital Systems Group (DSG)](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg) 
+    *   Before: [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
+
 **2020 - Now: Assistant professor and head coach,  Universidad Tecmilenio**
   * Professor of robotics and head coach of [EARTH 4723](https://www.instagram.com/earth4723oficial)
     *   2021 - 2022: FORWARD
@@ -32,12 +38,6 @@
   * May - Ago 2021: Instrumentation and control, mechatronic design, electricity and magnetism, and numerical programming
   * Jan - Apr 2021: Artificial intelligence, electrical circuit analysis, computer-aided design, and manufacturing engineering
   * Sept - Dec 2020: Robotics, computer science for engineers, flexible manufacturing systems, and statistics 
-
-
-**2019 - Now: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
-  * Research assistant at the Department of Biomedical Sciences and Tecnologies
-    *   Now: [Digital Systems Group (DSG)](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg) 
-    *   Before: [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
 
 **2015 - 2017: Head coach, Colegio de Educación Profesional Técnica del Estado de Puebla**
