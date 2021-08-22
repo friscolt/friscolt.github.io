@@ -50,6 +50,16 @@
 
 ---
 
+### Volunteer
+
+**2021: LatinX in Computer Vision (LXCV)**
+* Jun 19, 2021: [LatinX in Computer Vision (LXCV](https://www.latinxinai.org/cvpr-2021-about) Research at the Computer Vision and Pattern Recognition (CVPR) 2021), Virtual.
+
+**2018: Seminario Nacional de Ciencias y Tecnologías Biomédicas**
+* May 10-11, 2018: [1er Seminario Nacional de Ciencias y Tecnologías Biomédicas](http://adria.inaoep.mx/~diplomados/Seminario-Biomedicas/index.html) at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Puebla, Mexico.
+
+---
+
 ### Stays
 **2015:  Thesis development, Secretaría de Marina**
 
@@ -60,8 +70,3 @@
   * Electronic maintenance to neonatal medical equipment (Puebla, Mexico)
 
 ---
-
-### Volunteer
-
-* Jun 19, 2021: LatinX in Computer Vision (LXCV) Research at the Computer Vision and Pattern Recognition (CVPR) 2021, Virtual.
-
