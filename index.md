@@ -13,7 +13,7 @@ I received a **MSc. degree** in **Biomedical Sciences** from [INAOE](https://www
 
 ### Research interests
 
-My interests are in **computer vision** & **biomedical image processing and analysis**, and **machine learning**. This involves multidisciplinary research from computing (mainly), (a bit of) biophotonics, and biomedical sciences. 
+My interests are in **computer vision,** **biomedical image analysis**, and **machine learning**. This involves multidisciplinary research from computing (mainly), and (a bit of) biophotonics. 
   
 I'm now working on some interesting **projects**:
 
@@ -23,7 +23,7 @@ I'm now working on some interesting **projects**:
 *  [Visualization and analysis of **colony growth** in speckle images](/colonygrowth) `(New project)`
 
 
-If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:francisco.lopez@inaoe.mx?subject=%20Hello,%20Francisco)  or follow me on [twitter](https://twitter.com/Friscolt).
+If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)  or follow me on [twitter](https://twitter.com/Friscolt).
 
 Cheers,
 Francisco 🇲🇽
