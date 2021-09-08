@@ -7,7 +7,7 @@
 ### Research interests
 
   
-My interests are in **computer vision** & **biomedical image processing and analysis**, and **machine learning**. This involves multidisciplinary research from computing (mainly), (a bit of) biophotonics, and biomedical sciences. 
+My interests are in **computer vision** & **biomedical image analysis**, and **machine learning**. This involves multidisciplinary research from computing (mainly), and (a bit of) biophotonics. 
   
 ---
   
@@ -17,8 +17,8 @@ My interests are in **computer vision** & **biomedical image processing and anal
 I'm now working on some interesting **projects**:
 *  [Visualization and localization of **blood vessels** in speckle images](/bloodvessels)
 *  [Classification of **kidney stones** in endoscopic images](/kidneystones)
-*  [Breast classification on **mammography** images](/mammography) `(New project)`
-*  [Visualization and analysis of **colony growth** in speckle images](/colonygrowth) `(New project)`
+*  [Breast classification on **mammography** images](/mammography)
+*  [Visualization and analysis of **colony growth** in speckle images](/colonygrowth)
 
 If you want to know more about the contributions in these projects, you can click on the points above.
 
