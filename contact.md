@@ -17,7 +17,7 @@ Department of Biomedical Sciences and Tecnologies
 
 ---
 
-I'm a **research assistant** at the Department of Biomedical Sciences and Tecnologies [(INAOE)](https://www.inaoep.mx), and also I'm a **collaborator** at [Tecnológico de Monterrey](https://tec.mx/es). I received a **MSc. degree** in **Biomedical Sciences** from [INAOE](https://www.inaoep.mx) (🇲🇽 2019). My research focuses on **computer vision** & **biomedical image processing and analysis**, and **machine learning**.
+I'm a **research assistant** at the Department of Biomedical Sciences and Tecnologies [(INAOE)](https://www.inaoep.mx), and also I'm a **collaborator** at [Tecnológico de Monterrey](https://tec.mx/es). I received a **MSc. degree** in **Biomedical Sciences** from [INAOE](https://www.inaoep.mx) (🇲🇽 2019). My research focuses on **computer vision,** **biomedical image analysis**, and **machine learning**.
 
 ![ ](/images/inaoe.jpg)      
 *On the scene: Centro de Información Luis Enrique Erro (Tonantzintla, Puebla, Mexico)*
