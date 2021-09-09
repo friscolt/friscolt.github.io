@@ -13,7 +13,7 @@ I received a **MSc. degree** in **Biomedical Sciences** from [INAOE](https://www
 
 ### Research interests
 
-My interests are in **Computer Vision,** **Medical Image Analysis**, and **Machine Learning**. This involves multidisciplinary research from computing (mainly), and (a bit of) biophotonics. 
+My interests are in **Medical Image Analysis**, **Computer Vision*,*  and **Machine Learning**. This involves multidisciplinary research from computing (mainly), and (a bit of) biophotonics. 
   
 I'm now working on some interesting **projects**:
 
