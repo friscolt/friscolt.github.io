@@ -13,7 +13,7 @@ I received a **MSc. degree** in **Biomedical Sciences** from [INAOE](https://www
 
 ### Research interests
 
-My interests are in **computer vision,** **biomedical image analysis**, and **machine learning**. This involves multidisciplinary research from computing (mainly), and (a bit of) biophotonics. 
+My interests are in **Computer Vision,** **Medical Image Analysis**, and **Machine Learning**. This involves multidisciplinary research from computing (mainly), and (a bit of) biophotonics. 
   
 I'm now working on some interesting **projects**:
 
@@ -54,4 +54,4 @@ Francisco 🇲🇽
 
 
 --- 
-Last update: Sep 7, 2021 
+Last update: Sep 9, 2021 
