@@ -1,5 +1,5 @@
 ## Coffee recommendations ☕️
-###  [Home](/index) / [Publications](/publications) / [Research](/research) / [News](/news) / [CV](/brief_cv) / Coffee / [Contact](/contact)
+###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • Coffee • [Contact](/contact)
 ---
 
 Coffee recomendation section is **inspired** by pages of **researchers** ([Tejaswi Kasarla](https://tkasarla.github.io/more.html), [Justine Sherry](http://www.justinesherry.com/coffee.html), and [Akshay Narayan](https://akshayn.xyz/coffee.html)), who **love coffee** as much as I do. It is amazing to find personal pages that worship **scientific research, and coffee**.
