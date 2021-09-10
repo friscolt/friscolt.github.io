@@ -3,9 +3,7 @@
 ---
 
 ###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
-
----                      
-**Projects** • [Blood vessels](/bloodvessels) • [Kidney stones](/kidneystones) • [Mammography](/mammography) • [Colony growth](/colonygrowth)                          
+**Projects** • [Blood vessels](/bloodvessels) • **Kidney stones** • [Mammography](/mammography) • [Colony growth](/colonygrowth)                       
 
 ---
 
