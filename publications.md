@@ -16,6 +16,7 @@ In this section you can find the publications we have made since 2019, as well a
 [[Code](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)]
 [[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)]
 [[Extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf)]
+[[Slides](/images/embc2021.pdf)]
 
 
 * [**Visualization of blood vessels in in-vitro raw speckle images using an energy-based decomposition criteria on DWT coefficients.**](https://www.sciencedirect.com/science/article/pii/S1746809421004894?dgcid=coauthor) [Francisco Javier Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan. *Elsevier Journal of Biomedical Signal Processing and Control.* 
