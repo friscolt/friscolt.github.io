@@ -36,7 +36,7 @@ At the moment, I have three conference paper and a journal paper with the **spec
 * **Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach** at the *2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC).*
 [[Paper](https://ieeexplore.ieee.org/document/9129242/)]
 [[Code](https://github.com/friscolt/i2mtc-2020)]
-[[Keynote](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)]
+[[Slides](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)]
 
 * **Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition** at the *2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC).*
 [[Paper](https://ieeexplore.ieee.org/document/8827144)]
