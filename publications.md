@@ -38,7 +38,7 @@ In this section you can find the publications we have made since 2019, as well a
 *2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC).*
 [[Paper](https://ieeexplore.ieee.org/document/9129242/)]
 [[Code](https://github.com/friscolt/i2mtc-2020)]
-[[Keynote](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)]
+[[Slides](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)]
 
 ---
 
