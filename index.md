@@ -33,6 +33,11 @@ Francisco 🇲🇽
 
 ### Updates
 
+* Jul 11, 2021: I **presented** our [**poster**](https://github.com/friscolt/friscolt.github.io/blob/main/images/iccv_2021.jpeg) *“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”* at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
+
+>> ![ ](/images/iccv_2021.jpeg)                                          
+>> On the scene: Francisco Lopez-Tiro (me), Andres Varelo, Matias Valdenegro
+
 * Aug 3, 2021: We have **submitted** the **journal paper** *“On the in vivo recognition of kidney stones using machine learning”* at the Journal of [Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 
 * Jul 15, 2021: Our **conference paper** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been **accepted** at the [43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
@@ -43,10 +48,6 @@ Francisco 🇲🇽
 
 * Jun 23, 2021: I was invited to participate in the **project** [*"Visualization and analysis of colony growth in speckle images"*](https://friscolt.github.io/colonygrowth) with [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) from [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) 🇲🇽
 
-* Jun 19, 2021: I **presented** our [**extended abstract**](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at [CVPR](http://cvpr2021.thecvf.com)
-
->> ![ ](/images/lxai.png)                                          
->> On the scene: Dr. Gilberto Ochoa-Ruiz (Tecnológico de Monterrey), Andres Varelo (Tecnológico de Monterrey), Samuel Montero-Hernandez (University of Houston), Francisco Lopez-Tiro (me)
 
 
 ---
@@ -55,4 +56,4 @@ Francisco 🇲🇽
 
 
 --- 
-Last update: Sep 9, 2021 
+Last update: Oct 23, 2021 
