@@ -46,7 +46,6 @@ Francisco 🇲🇽
 
 * Jun 28, 2021: Our **conference paper** [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100)
 
-* Jun 23, 2021: I was invited to participate in the **project** [*"Visualization and analysis of colony growth in speckle images"*](https://friscolt.github.io/colonygrowth) with [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es) from [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) 🇲🇽
 
 
 
