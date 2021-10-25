@@ -33,19 +33,18 @@ Francisco 🇲🇽
 
 ### Updates
 
-* Oct 11, 2021: I **presented** our [**poster**](https://github.com/friscolt/friscolt.github.io/blob/main/images/iccv_2021.jpeg) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://github.com/friscolt/friscolt.github.io/blob/main/images/iccv_2021.jpeg) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
+* Oct 11, 2021: I **presented** our [**poster**](/files/lxai2021_poster.pdf) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
 
->> ![ ](/images/iccv_2021.jpeg)                                          
+>> ![ ](/files/lxai-iccv2021_session.jpeg)                                          
 >> On the scene: Francisco Lopez-Tiro (me), Andres Varelo, Matias Valdenegro
 
 * Aug 3, 2021: We have **submitted** the **journal paper** *“On the in vivo recognition of kidney stones using machine learning”* at the Journal of [Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 
-* Jul 15, 2021: Our **conference paper** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been **accepted** at the [43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
+* Jul 15, 2021: Our **conference paper** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been **accepted** at [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
 
-* Jun 28, 2021: Our **journal paper** [*“Visualization of blood vessels in in vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now **available** in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894)
+* Jun 28, 2021: Our **journal paper** [*“Visualization of blood vessels in in-vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now **available** in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894)
 
 * Jun 28, 2021: Our **conference paper** [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100)
-
 
 
 
