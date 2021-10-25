@@ -2,7 +2,7 @@
 ###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • CV • [Coffee](/coffee) • [Contact](/contact)
 
 ---
-📑 [Download CV](/images/CV_FranciscoLopez.pdf) 
+📑 [Download CV](/files/CV_FranciscoLopez.pdf) 
 
 ---
 
@@ -53,7 +53,8 @@
 ### Volunteer
 
 **2021: LatinX in Computer Vision (LXCV)**
-* Jun 19, 2021: [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021-about) Research at the Computer Vision and Pattern Recognition (CVPR) 2021, Virtual.
+* Oct 11, 2021: [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the   2021 International Conference on Computer Vision (ICCV), Virtual.
+* Jun 19, 2021: [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021-about) at the  2021 Computer Vision and Pattern Recognition (CVPR), Virtual.
 
 **2018: Seminario Nacional de Ciencias y Tecnologías Biomédicas**
 * May 10-11, 2018: [1er Seminario Nacional de Ciencias y Tecnologías Biomédicas](http://adria.inaoep.mx/~diplomados/Seminario-Biomedicas/index.html) at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Puebla, Mexico.
