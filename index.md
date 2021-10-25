@@ -33,7 +33,7 @@ Francisco 🇲🇽
 
 ### Updates
 
-* Jul 11, 2021: I **presented** our [**poster**](https://github.com/friscolt/friscolt.github.io/blob/main/images/iccv_2021.jpeg) *“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”* at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
+* Oct 11, 2021: I **presented** our [**poster**](https://github.com/friscolt/friscolt.github.io/blob/main/images/iccv_2021.jpeg) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://github.com/friscolt/friscolt.github.io/blob/main/images/iccv_2021.jpeg) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
 
 >> ![ ](/images/iccv_2021.jpeg)                                          
 >> On the scene: Francisco Lopez-Tiro (me), Andres Varelo, Matias Valdenegro
