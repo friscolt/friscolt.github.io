@@ -6,9 +6,9 @@
 ### 2021
 
 
-* Oct 11, 2021: I **presented** our [**poster**](https://github.com/friscolt/friscolt.github.io/blob/main/files/lxai-iccv2021_session.jpeg) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://github.com/friscolt/friscolt.github.io/blob/main/files/iccv_2021.jpeg) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
+* Oct 11, 2021: I **presented** our [**poster**](/files/lxai2021_poster.pdf) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
 
->> ![ ](/images/iccv_2021.jpeg)                                          
+>> ![ ](/files/lxai-iccv2021_session.jpeg)                                          
 >> On the scene: Francisco Lopez-Tiro (me), Andres Varelo, Matias Valdenegro
 
 * Aug 3, 2021: We have **submitted** the **journal paper** *“On the in vivo recognition of kidney stones using machine learning”* at the Journal of [Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
@@ -23,14 +23,14 @@
 
 * Jun 19, 2021: I **presented** our [**extended abstract**](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at [CVPR](http://cvpr2021.thecvf.com) 
 
->> ![ ](/images/lxai.png)                                          
+>> ![ ](/files/lxai-cvpr2021_session.png)                                          
 >> On the scene: Dr. Gilberto Ochoa-Ruiz (Tecnológico de Monterrey), Andres Varelo (Tecnológico de Monterrey), Samuel Montero-Hernandez (University of Houston), Francisco Lopez-Tiro (me)
 
 * Jun 16, 2021: My first **journal paper** [*"Visualization of blood vessels in in-vitro raw speckle images using an energy-based on DWT coefficients"*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) was **accepted** for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
 * May 22, 2021: I **presented** in **poster** format the work  [*"Localization of Blood Vessels in in-vitro LSCI Images with K-Means"*](https://ieeexplore.ieee.org/document/9460100) at the [2021 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2021)](https://i2mtc2021.ieee-ims.org) in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
->> ![ ](/images/i2mtc2021.jpeg)                                          
+>> ![ ](/files/i2mtc2021_session.jpeg)                                          
 >> On the scene: Francisco Lopez-Tiro (me)
 
 
@@ -55,7 +55,7 @@
 
 * May 25, 2020: We **present** in collaboration the **conference paper** [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) at [2020 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2020)](https://i2mtc2020.ieee-ims.org). This year celebrated in Dubrovnik, Croatia 🇭🇷 (virtual)
 
->> ![ ](/images/i2mtc2020_keynote.jpeg)                                          
+>> ![ ](/files/i2mtc2020_keynote.jpeg)                                          
 
 * Feb 9, 2020: Our **conference paper** [*"Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: A Wavelet Approach"*](https://ieeexplore.ieee.org/document/9129242) has been **accepted** at [2020 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2020)](https://i2mtc2020.ieee-ims.org). This year celebrated in Dubrovnik, Croatia 🇭🇷 
 
@@ -67,20 +67,20 @@
 
 * Nov 28, 2019: I have **successfully passed** my **thesis defense** to obtain my **Master's degree** in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) 🇲🇽. Thank you all very much!
 
->> ![ ](/images/mc.jpeg)                                          
+>> ![ ](/files/inaoe2019_thesisdefense.jpeg)                                          
 >> From left to right: Dr. Hayde Peregrina-Barreto, Francisco Lopez-Tiro (me), Dr. José de Jesús Rangel-Magdaleno
 
 * Sept 9, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/8827144)!
 
 * May 22, 2019: I **presented** in **poster** format the work [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) at the 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019) in Auckland , New Zealand! 🇳🇿
 
->> ![ ](/images/i2mtc-poster.png)    
+>> ![ ](/files/i2mtc2019_poster.png)    
 >> On the scene: Francisco Lopez-Tiro (me)
 
 
 * May 20-23, 2019: We attended IEEE I2MTC 2019 in Auckland , New Zealand! 🇳🇿
 
->> ![ ](/images/i2mtc.JPG)                                          
+>> ![ ](/files/i2mtc2019_team.jpeg)                                          
 >> From left to right: Carlos Morales-Perez (INAOE), Eduardo Morales-Vargas (INAOE), Max Cortner (I&M Society President), Ingrid Valencia-Hernandez (INAOE), and Francisco Lopez-Tiro (me)
 
 * Jan 12, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) has been **accepted** at 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019). This year celebrated in Auckland, New Zealand 🇳🇿
