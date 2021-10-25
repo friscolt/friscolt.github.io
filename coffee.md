@@ -10,20 +10,20 @@ I usually buy freshly roasted seeds at my local store, then I grind the **coffee
 
 **Favorite coffee roasters**
 
-* [Café de Mi Abuelo](https://es-la.facebook.com/cafedemiabuelo) (San Pedro Cholula), has **the best marago** crop. It is a mild coffee, it lifts your spirits, and *every grain is life.*
-* [Café Tres Gallos](https://es-la.facebook.com/cafe3gallos) (Puebla), has one of **the best house blend** of the city. Although it is a little strong (**be careful**), it has an **incredible flavor**.
+* [Café de Mi Abuelo](https://www.instagram.com/cafedemiabuelocholula/) (San Pedro Cholula), has **the best marago** crop. It is a mild coffee, it lifts your spirits, and *every grain is life.*
+* [Café Tres Gallos](https://www.instagram.com/cafe3gallos/) (Puebla), has one of **the best house blend** of the city. Although it is a little strong (**be careful**), it has an **incredible flavor**.
 
->> ![ ](/images/coffee.gif)
+>> ![ ](/files/coffee.gif)
 
 **Favorite coffee shops**
 
 The following list is a tour of the coffee shops you must visit if you ever come to **Puebla**: 
 
-* My **favorite coffee shop** is [Café de Mi Abuelo](https://es-la.facebook.com/cafedemiabuelo) (San Pedro Cholula). An excellent place to work, visit Laila (the owner), or spend an afternoon chatting with friends. *It has become my refuge and it is like being at home*. If you love **cappuccino**, order one with cajeta and thank me later.
-* If you are in the *"Barrio de los sapos",* you can visit [Café Santo Patrono](https://es-la.facebook.com/Cafesantopatrono) (Puebla). It has it all: a **beautiful place**, the best playlist, excellent coffee and **the best chocolate cake I've ever tasted**.
+* My **favorite coffee shop** is [Café de Mi Abuelo](https://www.instagram.com/cafedemiabuelocholula/) (San Pedro Cholula). An excellent place to work, visit Laila (the owner), or spend an afternoon chatting with friends. *It has become my refuge and it is like being at home*. If you love **cappuccino**, order one with cajeta and thank me later.
+* If you are in the *"Barrio de los sapos",* you can visit [Café Santo Patrono](https://www.instagram.com/cafesantopatrono/) (Puebla). It has it all: a **beautiful place**, the best playlist, excellent coffee and **the best chocolate cake I've ever tasted**.
 * Hidden in a a small place of Puebla, [Manos Artesanales](https://es-la.facebook.com/manosartesanalesam) (Santa María **Tonantzintla**) is a coffee shop with a **beautiful garden** (plants, lights and sounds).  It is a place that I don't know how to describe with words.
-* I have such good memories in [Café Milagros](https://www.facebook.com/cafemilagros/) (Puebla) that I can only tell you: go! The place is **beautiful and very traditional**, just around the corner from [Café Santo Patrono](https://es-la.facebook.com/Cafesantopatrono) in the heart of the city. 
-* [Café-Tal](https://es-la.facebook.com/pages/category/Cafe/Café-Tal-Cholula-504804126305680/) and [Las Duyas](http://www.churrerialasduyas.com) in the heart of San Pedro Cholula  are a couple of coffee shops you must visit in **my dear town**.
+* I have such good memories in [Café Milagros](https://www.instagram.com/cafemilagrospuebla/) (Puebla) that I can only tell you: go! The place is **beautiful and very traditional**, just around the corner from [Café Santo Patrono](https://www.instagram.com/cafesantopatrono/) in the heart of the city. 
+* [Café-Tal](https://www.instagram.com/cafetal_cholula/) and [Las Duyas](https://www.instagram.com/churrerialasduyas/) in the heart of San Pedro Cholula  are a couple of coffee shops you must visit in **my dear town**.
 * [Terraza Museo Amparo](https://museoamparo.com/cafe) (Puebla) is perfect. You can visit the museum or go to work in the library, then go up to the terrace. Enjoy the view of the Cathedral and the **domes of the city**, it is **superb!**
 
 
@@ -44,12 +44,5 @@ The vast majority of the books I have read are in Spanish. My love for literatur
 * The Martian, *Andy Weir* (sarcastic, **awesome stupid**, and genius)
 * La tregua, *Mario Benedetti* (a warm hug in the heart)
 
-
-
 ---
 
-
-This is [my personal library](/personal-library) (working on) where you can find a collection of **books**, **comics**, **pictures** and a lot of other things. 
-
-
----
