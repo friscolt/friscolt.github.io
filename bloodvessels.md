@@ -10,7 +10,7 @@ I thank [Dr. José de Jesús Rangel-Magdaleno](https://scholar.google.es/citatio
 
 I am currently working on **denoising** with wavelets, improve quality image, segmenting with traditional and **clustering** methods such as knn. 
 
-![Visualization and localization of blood vessels in speckle images](/images/bloodvessels.png)
+![Visualization and localization of blood vessels in speckle images](/files/blood_vessels.png)
 
 ---
 ### Research
