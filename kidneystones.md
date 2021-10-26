@@ -11,6 +11,7 @@ I thank [Dr. Gilberto Ochoa-Ruiz](https://gda.itesm.mx/faculty/en/professors/gil
 
  I am currently working on increasing the size of the datasets in patches for **classification**, extracting **features**, balancing classes, and classifying with **machine learning** methods such as **xgboost**. 
 
+![Visualization and localization of blood vessels in speckle images](/files/kidneystones.png)
 
 
 
