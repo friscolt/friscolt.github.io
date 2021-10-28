@@ -28,7 +28,7 @@ If you want to know more about the contributions in these projects, you can clic
 
 ### Talks
 
-* Oct 31 - Nov 4, 2021 [[Keynote](/files/embc2021_slides.pdf)]: [43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (**EMBC**)](https://embc.embs.org/2021/), Guadalajara, Mexico 🇲🇽  (Virtual)
+* Oct 30 - Nov 5, 2021 [[Keynote](https://youtu.be/YMo-URAdvbM)]: [43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (**EMBC**)](https://embc.embs.org/2021/), Guadalajara, Mexico 🇲🇽  (Virtual)
 * Oct 11, 2021 [[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)]: [LatinX in Computer Vision (**LXCV**) at the 2021 International Conference of Computer Vision (**ICCV**)](http://iccv2021.thecvf.com/), (Virtual)
 * Jun 19, 2021 [[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)]: [LatinX in Computer Vision (**LXCV**) at the 2021 Computer Vision and Pattern Recognition (**CVPR**)](https://www.latinxinai.org/cvpr-2021-about) (Virtual) 
 * May 19, 2021 [[Poster](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)]: [IEEE International Instrumentation and Measurement Technology Conference (**I2MTC**)](https://i2mtc2021.ieee-ims.org), Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿   (Virtual)
