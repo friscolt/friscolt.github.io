@@ -13,7 +13,7 @@ Department of Biomedical Sciences and Tecnologies
 [[GitHub](https://github.com/friscolt)]
 [[ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro)]
 [[Twitter](https://twitter.com/Friscolt)]
-[[CV](/images/CV_FranciscoLopez.pdf)]
+[[CV](/files/CV_FranciscoLopez.pdf)]
 
 ---
 
