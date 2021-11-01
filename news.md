@@ -5,6 +5,15 @@
 
 ### 2021
 
+* Nov 1, 2021: I **presented** our [**conference paper**](https://www.youtube.com/watch?v=YMo-URAdvbM)   [*“Assessing deep learning methods for the identification of kidney stones in endoscopic images”*](https://arxiv.org/abs/2103.01146) at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) (virtual) at Guadalajara, Mexico 🇲🇽 
+
+>> ![ ](/files/embc2021_session.jpeg)
+>> For additional information: [[Paper](https://arxiv.org/abs/2103.01146)]
+[[Keynote](https://youtu.be/YMo-URAdvbM)]
+[[Code](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)]
+[[Slides](/files/embc2021_slides.pdf)]
+[[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)]
+[[Extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf)]
 
 * Oct 11, 2021: I **presented** our [**poster**](/files/lxai2021_poster.pdf) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
 
