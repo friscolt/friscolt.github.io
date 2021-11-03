@@ -9,7 +9,7 @@ Department of Biomedical Sciences and Tecnologies
 [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx)                                                 
 **Email:** [`francisco.lopez@ieee.org`](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)                                      
 **Address:** Luis Enrique Erro #1, Tonantzintla, Puebla, Mexico C.P. 72840                                  
-[[Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es/){:target="_blank"}]
+[[Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es/)]
 [[GitHub](https://github.com/friscolt)]
 [[ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro)]
 [[Twitter](https://twitter.com/Friscolt)]
@@ -20,9 +20,6 @@ Department of Biomedical Sciences and Tecnologies
 ---
 
 I'm a **research assistant** at the Department of Biomedical Sciences and Tecnologies [(INAOE)](https://www.inaoep.mx), and also I'm a **collaborator** at [Tecnológico de Monterrey](https://tec.mx/es). I received a **MSc. degree** in **Biomedical Sciences** from [INAOE](https://www.inaoep.mx) (🇲🇽 2019). My research focuses on **Medical Image Analysis**, **Computer Vision**, and **Machine Learning**.
-
-![ ](/files/inaoe.jpg)      
-*On the scene: Centro de Información Luis Enrique Erro (Tonantzintla, Puebla, Mexico)*
 
 ---
 
