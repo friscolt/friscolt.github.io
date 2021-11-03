@@ -9,7 +9,7 @@ Department of Biomedical Sciences and Tecnologies
 [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx)                                                 
 **Email:** [`francisco.lopez@ieee.org`](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)                                      
 **Address:** Luis Enrique Erro #1, Tonantzintla, Puebla, Mexico C.P. 72840                                  
-[[Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es/?target=_blank)]
+[[Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es/){:target="_blank"}]
 [[GitHub](https://github.com/friscolt)]
 [[ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro)]
 [[Twitter](https://twitter.com/Friscolt)]
