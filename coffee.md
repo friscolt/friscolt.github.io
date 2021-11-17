@@ -5,9 +5,6 @@
 --- 
 
 
-
-**Coffee recomendation**
-
 Coffee recomendation section is **inspired** by pages of **researchers** ([Tejaswi Kasarla](https://tkasarla.github.io/more.html), [Justine Sherry](http://www.justinesherry.com/coffee.html), and [Akshay Narayan](https://akshayn.xyz/coffee.html)), who **love coffee** as much as I do. It is amazing to find personal pages that worship **scientific research, and coffee**.
 
 **How do I brew my coffee?**
