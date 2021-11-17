@@ -13,6 +13,8 @@
    * Thesis: *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
+>>
+
 **2011 - 2015:   BE. in Mechatronics Engineering**
    * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico)
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
@@ -50,24 +52,20 @@
 
 ---
 
-### Volunteer
+### Scientific outreach
 
 **2021: LatinX in Computer Vision (LXCV)**
-* Oct 11, 2021: [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the   2021 International Conference on Computer Vision (ICCV), Virtual.
-* Jun 19, 2021: [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021-about) at the  2021 Computer Vision and Pattern Recognition (CVPR), Virtual.
+* Oct 11, 2021: Volunteer - [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the   2021 International Conference on Computer Vision (ICCV), Virtual.
+* Jun 19, 2021: Volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021-about) at the  2021 Computer Vision and Pattern Recognition (CVPR), Virtual.
 
-**2018: Seminario Nacional de Ciencias y Tecnologías Biomédicas**
-* May 10-11, 2018: [1er Seminario Nacional de Ciencias y Tecnologías Biomédicas](http://adria.inaoep.mx/~diplomados/Seminario-Biomedicas/index.html) at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Puebla, Mexico.
+**2018: Seminario Nacional de Ciencias y Tecnologías Biomédicas, INAOE**
+* May 10-11, 2018: Volunteer - [1er Seminario Nacional de Ciencias y Tecnologías Biomédicas](http://adria.inaoep.mx/~diplomados/Seminario-Biomedicas/index.html) at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Puebla, Mexico.
 
----
 
-### Stays
-**2015:  Thesis development, Secretaría de Marina**
+**2015: Instituto de Investigación y Desarrollo Tecnológico de la Armada de México, Secretaría de Marina**
 
-* [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ)
+* Thesis - [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ)
 * Department of *Digitalización del Sistemas de Control y Monitoreo (DISICOM)* (Veracruz, Mexico)
 
-**2014:  Professional practices, Arroba Ingeniería**
-  * Electronic maintenance to neonatal medical equipment (Puebla, Mexico)
 
 ---
