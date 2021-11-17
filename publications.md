@@ -1,6 +1,8 @@
 
 ## Publications 📑
 ###  [Home](/index) • Publications  • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
+**Papers** • [Talks](/files/talks)
+
 ---
 
 In this section you can find the publications we have made since 2019, as well as in my [ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro) or [Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es) profile. **Each publication includes the indexed article, code and its poster/presentation**. If you want the article (or any other item) [write me an email](mailto:francisco.lopez@ieee.org?subject=[GitHub]%20Hello,%20Francisco) or request it in my [ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro). 
