@@ -1,6 +1,6 @@
 ## Coffee recommendations ☕️
 ###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • Coffee • [Contact](/contact)
-**Coffee** • [Bookshelf](/files/books) • [Kidney stones](/kidneystones) • [Mammography](/mammography) • [Colony growth](/colonygrowth)
+**Coffee** • [Bookshelf](/files/books)
 
 --- 
 
@@ -32,23 +32,6 @@ The following list is a tour of the coffee shops you must visit if you ever come
 * [Café-Tal](https://www.instagram.com/cafetal_cholula/) and [Las Duyas](https://www.instagram.com/churrerialasduyas/) in the heart of San Pedro Cholula  are a couple of coffee shops you must visit in **my dear town**.
 * [Terraza Museo Amparo](https://museoamparo.com/cafe) (Puebla) is perfect. You can visit the museum or go to work in the library, then go up to the terrace. Enjoy the view of the Cathedral and the **domes of the city**, it is **superb!**
 
-
-
-
-
 ---
 
-
-### Books
-
-The vast majority of the books I have read are in Spanish. My love for literature was born when I met a great friend, Pablo. I share with you a list of my top favorite books I have read since then: 
-
-**Top favorite books**
-
-* Tokio blues, *Haruki Murakami* (more readed, **favorite book ever**)
-* Persona normal, *Benito Taibo* (everyone child in the world must be read it)
-* The Martian, *Andy Weir* (sarcastic, **awesome stupid**, and genius)
-* La tregua, *Mario Benedetti* (a warm hug in the heart)
-
----
 
