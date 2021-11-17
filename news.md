@@ -83,10 +83,6 @@
 
 * May 22, 2019: I **presented** in **poster** format the work [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) at the 2019 International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2019) in Auckland , New Zealand! 🇳🇿
 
->> ![ ](/files/i2mtc2019_poster.png)    
->> On the scene: Francisco Lopez-Tiro (me)
-
-
 * May 20-23, 2019: We attended IEEE I2MTC 2019 in Auckland , New Zealand! 🇳🇿
 
 >> ![ ](/files/i2mtc2019_team.jpeg)                                          
