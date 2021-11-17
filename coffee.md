@@ -6,9 +6,11 @@
 
 
 
-
+**Coffee recomendation**
 
 Coffee recomendation section is **inspired** by pages of **researchers** ([Tejaswi Kasarla](https://tkasarla.github.io/more.html), [Justine Sherry](http://www.justinesherry.com/coffee.html), and [Akshay Narayan](https://akshayn.xyz/coffee.html)), who **love coffee** as much as I do. It is amazing to find personal pages that worship **scientific research, and coffee**.
+
+**How do I brew my coffee?**
 
 I usually buy freshly roasted seeds at my local store, then I grind the **coffee at home** and finally, I prepare (mainly) **expresso coffee** in expresso machine, or **moka pot**. When I prepare american coffee, I do it in the chemex. Sometimes I order coffee online, I highly **recommend** [Carajillo](https://www.carajillocafe.com) coffee, and also I go to STARBUCKS for a bag of [CHIAPAS](https://www.starbucks.com.mx/promo/Chiapas), or the house blend of [Bola de Oro](https://www.facebook.com/pages/category/Cafeteria/Bola-de-Oro-Puebla-110200467396671/).
 
