@@ -12,7 +12,7 @@ In this section you can find the publications and talks thah we have made since 
 ### 2021
 
 * [**Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images.**](https://arxiv.org/abs/2103.01146)
-[Francisco Lopez](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Andres Varela, Oscar Hinojosa, Mauricio Mendez, Dinh-Hoan Trinh, Jonathan ElBeze, Jacques Hubert, Vincent Estrade, Miguel Gonzalez, Gilberto Ochoa, Christian Daul.
+[F. Lopez](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), A. Varela, O. Hinojosa, M. Mendez, D.H. Trinh, J. ElBeze, J. Hubert, V. Estrade, M. Gonzalez, G. Ochoa, C. Daul.
 *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC).*
 [[Paper](https://arxiv.org/abs/2103.01146)]
 [[Keynote](https://youtu.be/YMo-URAdvbM)]
@@ -23,7 +23,7 @@ In this section you can find the publications and talks thah we have made since 
 
 
 
-* [**Visualization of blood vessels in in-vitro raw speckle images using an energy-based decomposition criteria on DWT coefficients.**](https://www.sciencedirect.com/science/article/pii/S1746809421004894?dgcid=coauthor) [Francisco Javier Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, Julio Cesar Ramirez-San-Juan. *Elsevier Journal of Biomedical Signal Processing and Control.* 
+* [**Visualization of blood vessels in in-vitro raw speckle images using an energy-based decomposition criteria on DWT coefficients.**](https://www.sciencedirect.com/science/article/pii/S1746809421004894?dgcid=coauthor) [F.J. Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), H. Peregrina-Barreto, J.J. Rangel-Magdaleno, J.C. Ramirez-San-Juan.  *Biomedical Signal Processing and Control.* 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809421004894?dgcid=coauthor)] 
 [[Code](https://github.com/friscolt/elsevier-wavelet)]
 
