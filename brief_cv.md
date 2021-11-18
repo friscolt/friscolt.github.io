@@ -22,6 +22,25 @@
 
 ---
 
+### Scientific outreach
+
+**2021: LatinX in Computer Vision (LXCV)**
+* Oct 11, 2021: Volunteer - [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the   2021 International Conference on Computer Vision (ICCV), Virtual.
+* Jun 19, 2021: Volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021-about) at the  2021 Computer Vision and Pattern Recognition (CVPR), Virtual.
+
+**2018: Seminario Nacional de Ciencias y Tecnologías Biomédicas, INAOE**
+* May 10-11, 2018: Volunteer - [1er Seminario Nacional de Ciencias y Tecnologías Biomédicas](http://adria.inaoep.mx/~diplomados/Seminario-Biomedicas/index.html) at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Puebla, Mexico.
+
+
+**2015: Instituto de Investigación y Desarrollo Tecnológico de la Armada de México, Secretaría de Marina**
+
+* Thesis - [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ)
+* Department of *Digitalización del Sistemas de Control y Monitoreo (DISICOM)* (Veracruz, Mexico)
+
+
+---
+
+
 ### Employment
 
 **2019 - Now: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
@@ -49,23 +68,6 @@
 
 **2015 - 2017: Assistant professor,  Colegio de Educación Profesional Técnica del Estado de Puebla**
   * Physics, mathematics, electronics and metrology 
-
----
-
-### Scientific outreach
-
-**2021: LatinX in Computer Vision (LXCV)**
-* Oct 11, 2021: Volunteer - [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the   2021 International Conference on Computer Vision (ICCV), Virtual.
-* Jun 19, 2021: Volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021-about) at the  2021 Computer Vision and Pattern Recognition (CVPR), Virtual.
-
-**2018: Seminario Nacional de Ciencias y Tecnologías Biomédicas, INAOE**
-* May 10-11, 2018: Volunteer - [1er Seminario Nacional de Ciencias y Tecnologías Biomédicas](http://adria.inaoep.mx/~diplomados/Seminario-Biomedicas/index.html) at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Puebla, Mexico.
-
-
-**2015: Instituto de Investigación y Desarrollo Tecnológico de la Armada de México, Secretaría de Marina**
-
-* Thesis - [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ)
-* Department of *Digitalización del Sistemas de Control y Monitoreo (DISICOM)* (Veracruz, Mexico)
 
 
 ---
