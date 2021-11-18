@@ -38,7 +38,7 @@ In this section you can find the publications and talks thah we have made since 
 ### 2020
 
 * **Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach**
-  * [I2MTC 2021](https://i2mtc2020.ieee-ims.org) (May, 25) as *Keynote Preview Session* (Dubrovnik, Croatia  🇭🇷)
+  * [I2MTC 2020](https://i2mtc2020.ieee-ims.org) (May, 25) as *Keynote Preview Session* (Dubrovnik, Croatia  🇭🇷)
   * [[Keynote](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)] 
 [[Keynote Listing](/files/i2mtc2020_program.pdf)]
 [[Slides](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)]
