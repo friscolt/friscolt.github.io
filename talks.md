@@ -10,8 +10,8 @@ In this section you can find the publications and talks thah we have made since 
 
 ### 2021
 
-* **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
-  * [EMBC 2021](https://embc.embs.org/2021/) (Oct, 30 - Nov, 5) as *Keynote Preview Session* (Guadalajara, Mexico 🇲🇽)
+* **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images** (Guadalajara, Mexico 🇲🇽)
+  * [EMBC 2021](https://embc.embs.org/2021/) (Oct, 30 - Nov, 5) as *Keynote Preview Session* 
   * [LXCV/ICCV 2021](http://iccv2021.thecvf.com) (Oct, 11) as *Poster Session* (Virtual)
   * [LXCV/CVPR 2021](https://www.latinxinai.org/cvpr-2021-about) (Jun, 19) as *Poster Session*  (Virtual)
   * [[Keynote](https://youtu.be/YMo-URAdvbM)] 
@@ -24,8 +24,8 @@ In this section you can find the publications and talks thah we have made since 
 
 >>
 
-* **Localization of Blood Vessels in in-vitro LSCI Images with K-Means**
-  * [I2MTC 2021](https://i2mtc2021.ieee-ims.org) (May, 19) as *Poster Session*  (Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿)
+* **Localization of Blood Vessels in in-vitro LSCI Images with K-Means** (Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿)
+  * [I2MTC 2021](https://i2mtc2021.ieee-ims.org) (May, 19) as *Poster Session* 
   * [[Poster](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)] 
 [[Poster Listing](/files/i2mtc2021_program.pdf)]
 [[Paper](https://ieeexplore.ieee.org/document/9460100)]
@@ -37,8 +37,8 @@ In this section you can find the publications and talks thah we have made since 
 
 ### 2020
 
-* **Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach**
-  * [I2MTC 2020](https://i2mtc2020.ieee-ims.org) (May, 25) as *Keynote Preview Session* (Dubrovnik, Croatia  🇭🇷)
+* **Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach** (Dubrovnik, Croatia  🇭🇷)
+  * [I2MTC 2020](https://i2mtc2020.ieee-ims.org) (May, 25) as *Keynote Preview Session* 
   * [[Keynote](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)] 
 [[Keynote Listing](/files/i2mtc2020_program.pdf)]
 [[Slides](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)]
@@ -49,8 +49,8 @@ In this section you can find the publications and talks thah we have made since 
 
 ### 2019
 
-* **Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition**
-  * [I2MTC 2019](https://i2mtc2019.ieee-ims.org) (May, 22) as *Poster Session* (Auckland, New Zealand 🇳🇿)
+* **Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition** (Auckland, New Zealand 🇳🇿)
+  * [I2MTC 2019](https://i2mtc2019.ieee-ims.org) (May, 22) as *Poster Session* 
   * [[Poster](https://www.researchgate.net/publication/333146308_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)] 
 [[Poster Listing](/files/i2mtc2019_program.pdf)]
 [[Paper](https://ieeexplore.ieee.org/document/8827144)]
