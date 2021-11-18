@@ -13,7 +13,7 @@ In this section you can find the publications and talks thah we have made since 
 * **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images**
   * [F. Lopez](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), A. Varela, O. Hinojosa, M. Mendez, D.H. Trinh, J. ElBeze, J. Hubert, V. Estrade, M. Gonzalez, G. Ochoa, C. Daul
   * [EMBC 2021](https://embc.embs.org/2021/) (Oct, 30 - Nov, 5) as *Keynote Preview Session* (Guadalajara, Mexico 🇲🇽)
-  * [LXCV/ICCV 2021](http://iccv2021.thecvf.com) (Oct, 11) and [LXCV/CVPR 2021](https://www.latinxinai.org/cvpr-2021-about) (Jun 19, 2021) as Poster Session
+  * [LXCV/ICCV 2021](http://iccv2021.thecvf.com) (Oct, 11) and [LXCV/CVPR 2021](https://www.latinxinai.org/cvpr-2021-about) (Jun 19, 2021) as *Poster Session*
   * [[Keynote](https://youtu.be/YMo-URAdvbM)] 
 [[Slides](/files/embc2021_slides.pdf)]
 [[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)] 
