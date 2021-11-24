@@ -7,7 +7,7 @@
 ### Research interests
 
   
-My interests are in **Medical Image Analysis**, **Computer Vision**, and **Machine Learning**. This involves multidisciplinary research from computing, and biomedical sciences. 
+My interests are in **medical image analysis**, **computer vision**, and **machine learning**. This involves multidisciplinary research from computing, and biomedical sciences. 
 
   
 ---
