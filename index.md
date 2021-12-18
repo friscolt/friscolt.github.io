@@ -6,6 +6,7 @@
   
 ### About me
 I'm a **PhD student** at the Department of Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es), and also I'm a **collaborator** at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). 
+
 I received a **MSc. degree** in **Biomedical Sciences** from [INAOE](https://www.inaoep.mx) (🇲🇽 2019), and a **BE. degree** in **Mechatronics Engineering** from [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015).  Most importantly, **I'm always on the lookout for a great espresso.**
   
 ---
