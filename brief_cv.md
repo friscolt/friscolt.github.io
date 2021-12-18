@@ -8,12 +8,16 @@
 
 ### Education
 
+**2022 - Now:  PhD. in Computer Sciences**
+   *  [Tecnológico de Monterrey](https://tec.mx/es) (Guadalajara, Mexico)
+
+>>
+
 **2017 - 2019:  MSc. in Biomedical Sciences and Technologies**
    *  [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx) (Puebla, Mexico)
    * Thesis: *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
->>
 
 **2011 - 2015:   BE. in Mechatronics Engineering**
    * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico)
