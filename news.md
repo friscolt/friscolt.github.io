@@ -5,6 +5,8 @@
 
 ### 2021
 
+* Dec 9, 2021:  Our **conference paper** [“Assessing deep learning methods for the identification of kidney stones in endoscopic images”](https://ieeexplore.ieee.org/document/9630211) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9630211)
+
 * Nov 1, 2021: I **presented** our [**conference paper**](https://www.youtube.com/watch?v=YMo-URAdvbM)   [*“Assessing deep learning methods for the identification of kidney stones in endoscopic images”*](https://arxiv.org/abs/2103.01146) at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) (virtual) at Guadalajara, Mexico 🇲🇽 
 
 >> ![ ](/files/embc2021_session.jpeg)
