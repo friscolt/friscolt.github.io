@@ -39,7 +39,8 @@ Francisco 🇲🇽
 * Nov 1, 2021: I **presented** our [**conference paper**](https://www.youtube.com/watch?v=YMo-URAdvbM)   [*“Assessing deep learning methods for the identification of kidney stones in endoscopic images”*](https://ieeexplore.ieee.org/document/9630211) at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) (virtual) at Guadalajara, Mexico 🇲🇽 
 
 >> ![ ](/files/embc2021_session.jpeg)
->> For additional information: [[Paper](https://arxiv.org/abs/2103.01146)]
+>> For additional information: [[Paper]](https://ieeexplore.ieee.org/document/9630211)
+[[arXiv](https://arxiv.org/abs/2103.01146)]
 [[Keynote](https://youtu.be/YMo-URAdvbM)]
 [[Code](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)]
 [[Slides](/files/embc2021_slides.pdf)]
@@ -54,12 +55,6 @@ Francisco 🇲🇽
 
 * Aug 3, 2021: We have **submitted** the **journal paper** *“On the in vivo recognition of kidney stones using machine learning”* at the Journal of [Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 
-* Jul 15, 2021: Our **conference paper** [*"Assessing deep learning methods for the identification of kidney stones in endoscopic images"*](https://arxiv.org/abs/2103.01146) has been **accepted** at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) at Guadalajara, Mexico 🇲🇽
-
-* Jun 28, 2021: Our **journal paper** [*“Visualization of blood vessels in in-vitro raw speckle images using an energy-based on DWT coefficients”*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) is now **available** in [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809421004894)
-
-* Jun 28, 2021: Our **conference paper** [*“Localization of blood vessels in in-vitro LSCI images with K-means”*](https://ieeexplore.ieee.org/document/9460100) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9460100)
-
 
 
 ---
@@ -68,4 +63,4 @@ Francisco 🇲🇽
 
 
 --- 
-Last update: Nov 24, 2021 
+Last update: Dec 19, 2021 
