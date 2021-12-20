@@ -17,7 +17,8 @@ In this section you can find the publications and talks thah we have made since 
   * [[Keynote](https://youtu.be/YMo-URAdvbM)] 
 [[Slides](/files/embc2021_slides.pdf)]
 [[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)] 
-[[Paper](https://arxiv.org/abs/2103.01146)]
+[[Paper](https://ieeexplore.ieee.org/document/9630211)]
+[[arXiv](https://arxiv.org/abs/2103.01146)]
 [[Code](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)]
 [[Extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf)]
 
