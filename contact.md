@@ -7,7 +7,7 @@
 ### **Francisco Lopez-Tiro**
 **Email:** [`francisco.lopez@ieee.org`](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)      
 
-[Tecnológico de Monterrey](https://tec.mx/es)         
+[Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)](https://tec.mx/es)         
 Department of Computer Sciences
 
 
