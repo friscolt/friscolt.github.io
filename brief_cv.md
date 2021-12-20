@@ -9,7 +9,7 @@
 ### Education
 
 **2022 - Now:  PhD. in Computer Sciences**
-   *  [Tecnológico de Monterrey](https://tec.mx/es) (Guadalajara, Mexico)
+   *  [Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es) (Guadalajara, Mexico)
 
 >>
 
