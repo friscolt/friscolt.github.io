@@ -34,6 +34,12 @@ Francisco 🇲🇽
 ### Updates
 
 
+* Dec 17, 2021: **I have been accepted to do my PhD** in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es) under the direction of Dr. Gilberto Ochoa-Ruiz
+
+>> ![ ](/files/aceptedtec.png)
+
+
+
 * Dec 9, 2021:  Our **conference paper** [*“Assessing deep learning methods for the identification of kidney stones in endoscopic images”*](https://ieeexplore.ieee.org/document/9630211) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9630211)
 
 * Nov 1, 2021: I **presented** our [**conference paper**](https://www.youtube.com/watch?v=YMo-URAdvbM)   [*“Assessing deep learning methods for the identification of kidney stones in endoscopic images”*](https://ieeexplore.ieee.org/document/9630211) at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) (virtual) at Guadalajara, Mexico 🇲🇽 
@@ -47,15 +53,6 @@ Francisco 🇲🇽
 [[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)]
 [[Extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf)]
                                        
-
-* Oct 11, 2021: I **presented** our [**poster**](/files/lxai2021_poster.pdf) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home) 
-
->> ![ ](/files/lxai-iccv2021_session.jpeg)                                          
->> On the scene: Francisco Lopez-Tiro (me), Andres Varelo, Matias Valdenegro
-
-* Aug 3, 2021: We have **submitted** the **journal paper** *“On the in vivo recognition of kidney stones using machine learning”* at the Journal of [Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
-
-
 
 ---
 
