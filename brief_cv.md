@@ -15,7 +15,7 @@
 
 **2017 - 2019:  MSc. in Biomedical Sciences and Technologies**
    *  [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx) (Puebla, Mexico)
-   * Thesis: *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
+   *  [Thesis](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014): *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
 
