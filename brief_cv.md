@@ -29,7 +29,7 @@
 ### Scientific outreach
 
 **2019 - 2021: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
-  * Research assistant at the Department of Biomedical Sciences and Tecnologies - [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg) (2021 - 2021), and [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/) (2019 - 2021)
+  * Research assistant at the Department of Biomedical Sciences and Tecnologies - [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg) (2021), and [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/) (2019 - 2021)
 
 
 **2021: LatinX in Computer Vision (LXCV)**
