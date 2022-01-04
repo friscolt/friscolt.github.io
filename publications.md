@@ -59,6 +59,9 @@ In this section you can find the publications and talks thah we have made since 
 [[Poster](https://www.researchgate.net/publication/333146308_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)]
 
 
-* [**Visualización de vasos sanguíneos en imágenes de contraste basado en la descomposición de la transformada wavelet discreta**](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014).  [F. J. Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es). Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE). Master's thesis. [[Thesis](https://github.com/friscolt/friscolt.github.io/blob/main/files/inaoe2019_slides.pdf)]
+* [**Visualización de vasos sanguíneos en imágenes de contraste basado en la descomposición de la transformada wavelet discreta**](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014).  [F. J. Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es). Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE). Master's thesis. 
+[[Thesis](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014)] 
+[[Slides](https://github.com/friscolt/friscolt.github.io/blob/main/files/inaoe2019_slides.pdf)] 
+
 
 ---
