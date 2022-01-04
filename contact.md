@@ -1,6 +1,9 @@
 
 ## Contact me 📬
-###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • Contact
+###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • Contact                        
+[Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es/) • [GitHub](https://github.com/friscolt) • [ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro) • [Twitter](https://twitter.com/Friscolt) • [CV](/files/CV_FranciscoLopez.pdf)
+
+
 
 ---
 
@@ -16,11 +19,6 @@ Department of Computer Sciences
 Department of Biomedical Sciences and Tecnologies                                           
 Address: Luis Enrique Erro #1, Tonantzintla, Puebla, Mexico C.P. 72840                               
                                                            
-[[Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es/)]
-[[GitHub](https://github.com/friscolt)]
-[[ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro)]
-[[Twitter](https://twitter.com/Friscolt)]
-[[CV](/files/CV_FranciscoLopez.pdf)]
 
 
 
