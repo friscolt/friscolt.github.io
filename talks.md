@@ -60,7 +60,7 @@ In this section you can find the publications and talks thah we have made since 
 
 
 
-* **Visualización de vasos sanguíneos en imágenes de contraste basado en la descomposición de la transformada wavelet discreta** (Puebla, Mexico 🇳🇿)
+* **Visualización de vasos sanguíneos en imágenes de contraste basado en la descomposición de la transformada wavelet discreta** (Puebla, Mexico 🇲🇽)
   * [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) (Nov, 28) as *Thesis defense* 
    * [[Thesis](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014)] 
 
