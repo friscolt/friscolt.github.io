@@ -6,7 +6,7 @@
 
 Currently, I'm doing research in **Computer Vision** and **Machine Learning** at [Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM or Tec de Monterrey)](https://tec.mx/es)  as part of my studies of PhD in Computer Sciences under direction of [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en). 
 
-I'm continuously doing research in **medical image processing and analysis** at the Department of Biomedical Sciences at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) with [Dr. Hayde Peregrina-Barreto](https://scholar.google.com/citations?user=Wh2blp0AAAAJ&hl=en), [Dr. José de Jesús Rangel-Magdaleno](https://scholar.google.com/citations?user=aBNkfEsAAAAJ&hl=en), and [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.com/citations?user=xN03bqgAAAAJ&hl=en).
+I'm continuously doing research in **medical image processing and analysis** at the Department of Biomedical Sciences at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx)
   
 ---
   
@@ -22,3 +22,11 @@ I'm now working on some interesting **projects**:
 If you want to know more about the contributions in these projects, you can click on the points above.
 
 ---
+
+### Collaborators
+
+* [Dr. Hayde Peregrina-Barreto](https://scholar.google.com/citations?user=Wh2blp0AAAAJ&hl=en) ([INAOE](https://www.inaoep.mx))
+* [Dr. José de Jesús Rangel-Magdaleno](https://scholar.google.com/citations?user=aBNkfEsAAAAJ&hl=en) ([INAOE](https://www.inaoep.mx))
+* [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.com/citations?user=xN03bqgAAAAJ&hl=en) ([INAOE](https://www.inaoep.mx))
+
+
