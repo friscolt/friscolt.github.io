@@ -8,16 +8,16 @@
 
 ### **Francisco Lopez-Tiro**                 
 
-I'm a **PhD student** at the Department of Computer Sciences at [Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM or Tec de Monterrey)](https://tec.mx/es), and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). 
+I'm a **PhD student** at the Department of Computer Sciences at [Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)](https://tec.mx/es), and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). 
 
 
 
-* [Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)](https://tec.mx/es)                      
+* [Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es)                      
 Department of Computer Sciences                    
 Av. Gral Ramón Corona No 2514, Colonia Nuevo México, 45201 Zapopan, Jal.
 
 
-* [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx)                      
+* [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx)                      
 Department of Biomedical Sciences and Tecnologies        
 Luis Enrique Erro #1, Sta María Tonanzintla, 72840 San Andrés Cholula, Pue.                             
                                                            
