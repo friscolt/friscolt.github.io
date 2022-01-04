@@ -4,9 +4,9 @@
 
 --- 
 
-Currently, I'm doing research in **``Computer Vision``** and **``Machine Learning``** at [Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)](https://tec.mx/es)  as part of my studies of PhD in Computer Sciences under direction of [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en). 
+Currently, I'm doing research in **computer vision** and **machine learning** at [Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)](https://tec.mx/es)  as part of my studies of PhD in Computer Sciences under direction of [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en). 
 
-I'm continuously doing research in **``Medical Image Processing and Analysis``** at the Department of Biomedical Sciences and Technologies at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx)
+I'm continuously doing research in **medical image processing and analysis** at the Department of Biomedical Sciences and Technologies at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx)
   
 ---
   
