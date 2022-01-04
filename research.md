@@ -4,9 +4,9 @@
 
 --- 
 
-Currently, I'm doing research in **Computer Vision** and **Machine Learning** at [Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)](https://tec.mx/es)  as part of my studies of PhD in Computer Sciences under direction of [Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en). 
+Currently, I'm doing research in **Computer Vision** and **Machine Learning** at [Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM or Tec de Monterrey)](https://tec.mx/es)  as part of my studies of PhD in Computer Sciences under direction of [Dr. Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en). 
 
-I'm continuously doing research in **medical image processing and analysis** at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) with [Hayde Peregrina-Barreto](https://scholar.google.com/citations?user=Wh2blp0AAAAJ&hl=en), [José de Jesús Rangel-Magdaleno](https://scholar.google.com/citations?user=aBNkfEsAAAAJ&hl=en), and [Julio Cesar Ramírez-San-Juan](https://scholar.google.com/citations?user=xN03bqgAAAAJ&hl=en).
+I'm continuously doing research in **medical image processing and analysis** at the Department of Biomedical Sciences at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx) with [Dr. Hayde Peregrina-Barreto](https://scholar.google.com/citations?user=Wh2blp0AAAAJ&hl=en), [Dr. José de Jesús Rangel-Magdaleno](https://scholar.google.com/citations?user=aBNkfEsAAAAJ&hl=en), and [Dr. Julio Cesar Ramírez-San-Juan](https://scholar.google.com/citations?user=xN03bqgAAAAJ&hl=en).
   
 ---
   
