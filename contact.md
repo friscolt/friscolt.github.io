@@ -8,7 +8,7 @@
 
 ### **Francisco Lopez-Tiro**                 
 
-I'm a **PhD student** at the Department of Computer Sciences at [Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)](https://tec.mx/es), and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). 
+I'm a **PhD student** at the Department of **Computer Sciences** at [Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)](https://tec.mx/es), and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). 
 
 
 
