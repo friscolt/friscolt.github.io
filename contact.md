@@ -20,8 +20,13 @@ Av. Gral Ramón Corona No 2514, Colonia Nuevo México, 45201 Zapopan, Jal.
 
 * [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx)                      
 Department of Biomedical Sciences and Tecnologies        
-Luis Enrique Erro #1, Sta María Tonanzintla, 72840 San Andrés Cholula, Pue.                             
-                                                           
+Luis Enrique Erro #1, Sta María Tonanzintla, 72840 San Andrés Cholula, Pue. 
+
+
+* [Institute of Electrical and Electronics Engineers](https://www.ieee.org)                                                      
+IEEE Student                                                               
+IEEE Region: R9 - Latin America, Puebla Section
+
 
 ---
 
