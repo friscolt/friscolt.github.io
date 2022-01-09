@@ -10,6 +10,8 @@
 
 **2022 - Now:  PhD. in Computer Sciences**
    *  [Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es) (Guadalajara, Mexico)
+   *  Thesis: *Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques*
+
 
 >>
 
