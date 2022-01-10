@@ -23,9 +23,12 @@ Department of Biomedical Sciences and Tecnologies
 Luis Enrique Erro #1, Sta María Tonanzintla, 72840 San Andrés Cholula, Pue. 
 
 
-* [Institute of Electrical and Electronics Engineers](https://www.ieee.org)                                                      
+* <a href="https://www.ieee.org" target="_blank">Institute of Electrical and Electronics Engineers</a>                                                      
 IEEE Student                                                               
 IEEE Region: R9 - Latin America, Puebla Section
+
+
+
 
 
 ---
