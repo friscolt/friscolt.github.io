@@ -8,17 +8,17 @@
 
 ### **Francisco Lopez-Tiro**                 
 
-I'm a **PhD student** at the Department of **Computer Sciences** at [Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)](https://tec.mx/es), and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). 
+I'm a **PhD student** at the Department of **Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)</a>, and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> 
 
 ### Affiliations
 
 
-* [Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es)                      
+* <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                      
 Department of Computer Sciences                    
 Av. Gral Ramón Corona No 2514, Colonia Nuevo México, 45201 Zapopan, Jal.
 
 
-* [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx)                      
+*  <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica</a>                      
 Department of Biomedical Sciences and Tecnologies        
 Luis Enrique Erro #1, Sta María Tonanzintla, 72840 San Andrés Cholula, Pue. 
 
@@ -33,6 +33,7 @@ IEEE Region: R9 - Latin America, Puebla Section
 
 ---
 
-If you wish to use this templet to build a GitHub web page, you can [click here](https://github.com/friscolt/friscolt.github.io) and fork the repository. 
+If you wish to use this templet to build a GitHub web page, you can <a href="https://github.com/friscolt/friscolt.github.io" target="_blank">click here</a>  and fork the repository. 
+
 
 ---
