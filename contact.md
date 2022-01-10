@@ -3,7 +3,7 @@
 ###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • Contact                        
 
 
-<a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es/" target="_blank">Google Academic</a>  • <a href="https://github.com/friscolt" target="_blank">GitHub</a> • <a href="https://www.researchgate.net/profile/Francisco-Lopez-Tiro" target="_blank">ResearchGate</a> • <a href="https://twitter.com/Friscolt" target="_blank">Twitter</a> • <a href="https://twitter.com/Friscolt" target="_blank">Twitter</a> • [CV](/files/CV_FranciscoLopez.pdf)  • [E-mail](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)
+<a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es/" target="_blank">Google Academic</a>  • <a href="https://github.com/friscolt" target="_blank">GitHub</a> • <a href="https://www.researchgate.net/profile/Francisco-Lopez-Tiro" target="_blank">ResearchGate</a> • <a href="https://twitter.com/Friscolt" target="_blank">Twitter</a> • [CV](/files/CV_FranciscoLopez.pdf)  • [E-mail](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)
 
 
 ---
