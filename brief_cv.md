@@ -11,6 +11,7 @@
 **2022 - Now:  PhD. in Computer Sciences**
    *  [Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es) (Guadalajara, Mexico)
    *  Thesis: *Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques*
+   *  Supervisors: [Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
 
 
 >>
@@ -19,12 +20,17 @@
    *  [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx) (Puebla, Mexico)
    *  [Thesis](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014): *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
    * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
+   * Supervisors: [Hayde Peregrina-Barreto](https://scholar.google.es/citations?user=Wh2blp0AAAAJ&hl=es) and [José de Jesús Rangel-Magdaleno](https://scholar.google.com.mx/citations?user=aBNkfEsAAAAJ&hl=es)
+
+
 
 
 **2011 - 2015:   BE. in Mechatronics Engineering**
    * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico)
    * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
    * Laboratory of  Digital Signal Processing
+   * Supervisor: Salvador Antonio Arroyo-Díaz
+
 
 ---
 
