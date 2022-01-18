@@ -60,7 +60,7 @@ In this section you can find the publications and talks thah we have made since 
 
 
 * **<a href="https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014" target="_blank">Visualización de vasos sanguíneos en imágenes de contraste basado en la descomposición de la transformada wavelet discreta.</a>**
-<a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F.J. Lopez-Tiro</a>
+<a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F.J. Lopez-Tiro.</a>
 Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE). Master's thesis. 
 [<a href="https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014" target="_blank">Thesis</a>]
 
