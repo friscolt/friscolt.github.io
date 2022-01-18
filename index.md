@@ -5,9 +5,13 @@
 
   
 ### About me
-I'm a **PhD student** at the Department of **Computer Sciences** at [Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)](https://tec.mx/es), and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). 
 
-I received a **MSc. degree** in **Biomedical Sciences and Tecnologies** from [INAOE](https://www.inaoep.mx) (🇲🇽 2019), and a **BE. degree** in **Mechatronics Engineering** from [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (🇲🇽  2015).  Most importantly, **I'm always on the lookout for a great espresso.**
+I'm a **PhD student** at the Department of **Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey (Tec de Monterrey)</a>, and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> 
+
+
+I received a **MSc. degree** in **Biomedical Sciences and Tecnologies** from <a href="https://www.inaoep.mx" target="_blank">INAOE</a> (🇲🇽 2019), and a **BE. degree** in **Mechatronics Engineering** from <a href="http://www.uppuebla.edu.mx/joomla1/" target="_blank">Universidad Politécnica de Puebla</a> (🇲🇽  2015).  Most importantly, **I'm always on the lookout for a great espresso.**
+  
+  
   
 ---
 
@@ -24,7 +28,10 @@ I'm now working on some interesting **projects**:
 *  [Visualization and analysis of **colony growth** in speckle images](/colonygrowth) 
 
 
-If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)  or follow me on [twitter](https://twitter.com/Friscolt).
+If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)  or follow me on <a href="https://twitter.com/Friscolt" target="_blank">twitter</a>.
+
+
+
 
 Cheers,
 Francisco 🇲🇽
