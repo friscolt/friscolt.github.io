@@ -29,9 +29,11 @@ In this section you can find the publications and talks thah we have made since 
 
 
 * **<a href="https://ieeexplore.ieee.org/document/9460100" target="_blank">Localization of Blood Vessels in in-vitro LSCI Images with K-Means.</a>** <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, H. Peregrina-Barreto, J. Rangel-Magdaleno, J.C. Ramirez-San-Juan. *2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC).*
-[<a href="https://www.sciencedirect.com/science/article/pii/S1746809421004894?dgcid=coauthor" target="_blank">Paper</a>]
+[<a href="https://ieeexplore.ieee.org/document/9460100" target="_blank">Paper</a>]
 [<a href="https://github.com/friscolt/i2mtc-2021" target="_blank">Code</a>]
 [<a href="https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means" target="_blank">Poster</a>]
+
+
 ---
 
 ### 2020
@@ -58,9 +60,9 @@ In this section you can find the publications and talks thah we have made since 
 
 
 * **<a href="https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014" target="_blank">Visualización de vasos sanguíneos en imágenes de contraste basado en la descomposición de la transformada wavelet discreta.</a>**
+<a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F.J. Lopez-Tiro</a>
 Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE). Master's thesis. 
 [<a href="https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014" target="_blank">Thesis</a>]
-[<a href="https://github.com/friscolt/friscolt.github.io/blob/main/files/inaoe2019_slides.pdf" target="_blank">Slides</a>]
 
 
 
