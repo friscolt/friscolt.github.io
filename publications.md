@@ -5,22 +5,23 @@
 
 ---
 
-In this section you can find the publications and talks thah we have made since 2019 or in my [Google Academic](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es) profile. **Each publication includes the indexed article, code and its poster and/or presentation**. If you want the article (or any other item) [write me an email](mailto:francisco.lopez@ieee.org?subject=[GitHub]%20Hello,%20Francisco) or request it in my [ResearchGate](https://www.researchgate.net/profile/Francisco-Lopez-Tiro). 
+In this section you can find the publications and talks thah we have made since 2019 or in my <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">Google Academic</a> profile. **Each publication includes the indexed article, code and its poster and/or presentation**. If you want the article (or any other item) [write me an email](mailto:francisco.lopez@ieee.org?subject=[GitHub]%20Hello,%20Francisco) or request it in my <a href="https://www.researchgate.net/profile/Francisco-Lopez-Tiro" target="_blank">ResearchGate</a>. 
 
 ---
 
+
 ### 2021
 
-* [**Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images.**](https://arxiv.org/abs/2103.01146)
-[F. Lopez](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), A. Varela, O. Hinojosa, M. Mendez, D.H. Trinh, J. ElBeze, J. Hubert, V. Estrade, M. Gonzalez, G. Ochoa, C. Daul.
+* **<a href="https://arxiv.org/abs/2103.01146" target="_blank">Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images.</a>** <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez</a>, A. Varela, O. Hinojosa, M. Mendez, D.H. Trinh, J. ElBeze, J. Hubert, V. Estrade, M. Gonzalez, G. Ochoa, C. Daul.
 *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC).*
-[[Paper](https://ieeexplore.ieee.org/document/9630211)]
-[[arXiv](https://arxiv.org/abs/2103.01146)]
-[[Keynote](https://youtu.be/YMo-URAdvbM)]
+[<a href="https://ieeexplore.ieee.org/document/9630211" target="_blank">Paper</a>]
+[<a href="https://arxiv.org/abs/2103.01146" target="_blank">arXiv</a>]
+[<a href="https://youtu.be/YMo-URAdvbM" target="_blank">Keynote</a>]
 [[Code](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)]
-[[Slides](/files/embc2021_slides.pdf)]
-[[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)]
-[[Extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf)]
+[<a href="https://github.com/friscolt/friscolt.github.io/blob/main/files/embc2021_slides.pdf" target="_blank">Slides</a>]
+[<a href="https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png" target="_blank">Poster</a>]
+[<a href="https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf" target="_blank">Extended abstract</a>]
+
 
 
 
