@@ -11,7 +11,7 @@ In this section you can find the publications and talks thah we have made since 
 
 ### 2022
 
-* **<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning.</a>**  Gilberto Ochoa-Ruiz, Vincent Estrade, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez</a>, Daniel Flores-Araiza, Jonathan El Beze, Dinh-Hoan Trinh, Miguel Gonzalez-Mendoza, Pascal Eschwègeb, Jacques Hubert and Christian Daul. *Submitted at Computer Methods and Programs in Biomedicine.*
+* **<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning.</a>**  G. Ochoa-Ruiz, V. Estrade, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez</a>, D. Flores-Araiza, J. El Beze, DH. Trinh, M. Gonzalez-Mendoza, P. Eschwègeb, J. Hubert and C. Daul. *Submitted at Computer Methods and Programs in Biomedicine.*
 [<a href="https://arxiv.org/abs/2201.08865" target="_blank">ArXiv</a>]
 
 
