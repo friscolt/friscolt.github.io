@@ -41,6 +41,12 @@ Francisco 🇲🇽
 ### Updates
 
 
+
+
+* Jan 20, 2022: It's official, I'm a PhD student in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es)!
+
+>> ![ ](/files/tec2022_welcome.png)
+
 * Dec 17, 2021: **I have been accepted to do my PhD** in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es) under the direction of Dr. Gilberto Ochoa-Ruiz
 
 >> ![ ](/files/aceptedtec.png)
