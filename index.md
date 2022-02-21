@@ -40,8 +40,9 @@ Francisco 🇲🇽
 
 ### Updates
 
+*  Feb 14, 2022: I'm violently happy and very excited!, today I start my PhD in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es)!
 
-
+* Jan 25, 2021:  Our **journal paper** [*“On the in vivo recognition of kidney stones using machine learning”*](https://arxiv.org/abs/2201.08865) is now **available** in [arXiv](https://arxiv.org/abs/2201.08865)
 
 * Jan 20, 2022: It's official, I'm a PhD student in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es)!
 
