@@ -22,7 +22,7 @@ In this section you can find the publications and talks thah we have made since 
 [<a href="https://github.com/friscolt/friscolt.github.io/blob/main/files/embc2021_slides.pdf" target="_blank">Slides</a>]
 [<a href="https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png" target="_blank">Poster</a>]
 [<a href="https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf" target="_blank">Extended abstract</a>]
-[<a href="https://research.latinxinai.org/workshops/cvpr/cvpr-2021.html" target="_blank"> Listing abstract</a>]
+[<a href="https://research.latinxinai.org/workshops/cvpr/cvpr-2021.html" target="_blank">Listing abstract</a>]
 
 
 >>
