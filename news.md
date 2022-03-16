@@ -56,7 +56,7 @@
 * Jun 19, 2021: I **presented** our [**extended abstract**](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) (as [poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png) session) [*“Assessing deep learning methods for the identification of kidney stones composition in endoscopic images”*](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf) at the [LatinX in CV (LXCV) Workshop](https://www.latinxinai.org/cvpr-2021-about) at the [2021 Computer Vision and Pattern Recognition (CVPR)](http://cvpr2021.thecvf.com) 
 
 >> ![ ](/files/lxai-cvpr2021_session.png)                                          
->> On the scene: Dr. Gilberto Ochoa-Ruiz (Tecnológico de Monterrey), Andres Varelo (Tecnológico de Monterrey), Samuel Montero-Hernandez (University of Houston), Francisco Lopez-Tiro (me)
+>> On the scene: Dr. Gilberto Ochoa-Ruiz (Tecnológico de Monterrey), Andres Varelo, Samuel Montero-Hernandez (University of Houston), Francisco Lopez-Tiro (me)
 
 * Jun 16, 2021: My first **journal paper** [*"Visualization of blood vessels in in-vitro raw speckle images using an energy-based on DWT coefficients"*](https://www.sciencedirect.com/science/article/pii/S1746809421004894) was **accepted** for publication at the [Journal of Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)
 
@@ -100,7 +100,7 @@
 * Nov 28, 2019: I have **successfully passed** my **thesis defense** to obtain my **Master's degree** in Biomedical Sciences and Technologies at [INAOE](https://www.inaoep.mx) 🇲🇽. Thank you all very much!
 
 >> ![ ](/files/inaoe2019_thesisdefense.jpeg)                                          
->> From left to right: Dr. Hayde Peregrina-Barreto, Francisco Lopez-Tiro (me), Dr. José de Jesús Rangel-Magdaleno
+>> From left to right: Dr. Hayde Peregrina-Barreto (INAOE), Francisco Lopez-Tiro (me), Dr. José de Jesús Rangel-Magdaleno (INAOE)
 
 * Sept 9, 2019: Our **conference paper** [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/document/8827144) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/8827144)!
 
