@@ -9,8 +9,7 @@ Coffee recomendation section is **inspired** by pages of **researchers** ([Tejas
 
 **How do I brew my coffee?**
 
-I usually buy freshly roasted seeds at my local store, then I grind the **coffee at home** and finally, I prepare (mainly) **expresso coffee** in expresso machine, or **moka pot**. When I prepare american coffee, I do it in the chemex. Sometimes I order coffee online, I highly **recommend** [Carajillo](https://www.carajillocafe.com) coffee, and also I go to STARBUCKS for a bag of [CHIAPAS](https://www.starbucks.com.mx/promo/Chiapas), or the house blend of [Bola de Oro](https://www.facebook.com/pages/category/Cafeteria/Bola-de-Oro-Puebla-110200467396671/).
-
+I usually buy freshly roasted seeds at my local store, then I grind the **coffee at home** and finally, I prepare (mainly) **expresso coffee** in expresso machine, or **moka pot**. When I prepare american coffee, I do it in the chemex. Sometimes I order coffee online, I highly **recommend** [Carajillo](https://www.carajillocafe.com) coffee, and also I go to STARBUCKS for a bag of [CHIAPAS](https://www.starbucks.com.mx/promo/Chiapas). Recently, I'm in love of *affogato*, a mixed of vanilla ice and a expreso. Wonderful!
 
 
 **Favorite coffee roasters**
