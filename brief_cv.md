@@ -10,6 +10,7 @@
 
 **2022 - Now:  PhD. in Computer Sciences**
    *  [Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es) (Guadalajara, Mexico)
+   *  [Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France)
    *  Thesis: *Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques*
    *  Supervisors: [Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
 
@@ -36,7 +37,11 @@
 
 ### Scientific outreach
 
-**2019 - 2021: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
+**2022: LatinX in Computer Vision (LXCV)**
+* Jul 19, 2022: Volunteer - [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the   2021 International Conference on Computer Vision (ICCV), Virtual.
+
+
+**2019 - 2022: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
   * Research assistant at the Department of Biomedical Sciences and Tecnologies - [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg) (2021), and [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/) (2019 - 2021)
 
 
