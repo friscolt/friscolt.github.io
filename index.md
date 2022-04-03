@@ -47,12 +47,10 @@ Francisco 🇲🇽
 
 * Jan 31, 2022: I had the opportunity to meet Jacques Hubert 🇫🇷 (urologist of the kidney stone project), Christian Daul 🇫🇷 (thesis co-director) and Gilberto Ochoa-Ruiz 🇲🇽 (thesis director). The road to France begins!
 
+>> ![ ](/files/tec2022_meet1.png)
+>> On the scene: Dr. Gilberto Ochoa-Ruiz 🇲🇽 (Tecnológico de Monterrey), Prof. Jacques Hubert 🇫🇷 (Head of the Urology Department, CHU Nancy), Prof. Christian Daul 🇫🇷 (l’Université de Lorraine), Francisco Lopez-Tiro (me)
+
 * Jan 25, 2021:  Our **journal paper**: *<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning</a>* is now **available** in <a href="https://arxiv.org/abs/2201.08865" target="_blank">arXiv</a>
-
-
-
-
-
 
 * Jan 20, 2022: It's official, I'm a PhD student in Computer Sciences at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>!
 
