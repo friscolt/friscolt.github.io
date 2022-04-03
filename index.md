@@ -11,8 +11,9 @@ I'm a **PhD student** at the Department of **Computer Sciences** at <a href="htt
 I’m continuously doing research in **medical imaging** at the Department of Biomedical Sciences and Technologies at <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> 🇲🇽 
 
 
-I received a **MSc. degree** in **Biomedical Sciences and Tecnologies** from <a href="https://www.inaoep.mx" target="_blank">INAOE</a> (🇲🇽 2019), and a **BE. degree** in **Mechatronics Engineering** from <a href="http://www.uppuebla.edu.mx/joomla1/" target="_blank">Universidad Politécnica de Puebla</a> (🇲🇽  2015).  Most importantly, **I'm always on the lookout for a great espresso.**
-  
+I received a **MSc. degree** in **Biomedical Sciences and Tecnologies** from <a href="https://www.inaoep.mx" target="_blank">INAOE</a> (🇲🇽 2019), and a **BE. degree** in **Mechatronics Engineering** from <a href="http://www.uppuebla.edu.mx/joomla1/" target="_blank">Universidad Politécnica de Puebla</a> (🇲🇽  2015)
+
+Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Affogato" target="_blank">affogato!</a>**
   
   
 ---
@@ -53,20 +54,7 @@ Francisco 🇲🇽
 * Dec 17, 2021: **I have been accepted to do my PhD** in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es) under the direction of Dr. Gilberto Ochoa-Ruiz
 
 >> ![ ](/files/aceptedtec.png)
-
-* Dec 9, 2021:  Our **conference paper** [*“Assessing deep learning methods for the identification of kidney stones in endoscopic images”*](https://ieeexplore.ieee.org/document/9630211) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/document/9630211)
-
-* Nov 1, 2021: I **presented** our [**conference paper**](https://www.youtube.com/watch?v=YMo-URAdvbM)   [*“Assessing deep learning methods for the identification of kidney stones in endoscopic images”*](https://ieeexplore.ieee.org/document/9630211) at the [2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)](https://embc.embs.org/2021/) (virtual) at Guadalajara, Mexico 🇲🇽 
-
->> ![ ](/files/embc2021_session.jpeg)
->> For additional information: [[Paper](https://ieeexplore.ieee.org/document/9630211)]
-[[arXiv](https://arxiv.org/abs/2103.01146)]
-[[Keynote](https://youtu.be/YMo-URAdvbM)]
-[[Code](mailto:gilberto.ochoa@tec.com?subject=%20Code%20Arxiv,%20Assessing%20deep%20learning%20methods%20for%20the%20identification%20of%20kidney%20stones%20in%20endoscopic%20images)]
-[[Slides](/files/embc2021_slides.pdf)]
-[[Poster](https://research.latinxinai.org/papers/cvpr/2021/png/6_poster_06.png)]
-[[Extended abstract](https://research.latinxinai.org/papers/cvpr/2021/pdf/6_CameraReady_06.pdf)]
-                                       
+                                  
 
 ---
 
@@ -74,4 +62,4 @@ Francisco 🇲🇽
 
 
 --- 
-Last update: Jan 3, 2022 
+Last update: Apr 3, 2022 
