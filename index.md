@@ -51,11 +51,6 @@ Francisco 🇲🇽
 
 >> ![ ](/files/tec2022_welcome.jpeg)
 
-* Dec 17, 2021: **I have been accepted to do my PhD** in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es) under the direction of Dr. Gilberto Ochoa-Ruiz
-
->> ![ ](/files/aceptedtec.png)
-                                  
-
 ---
 
 [[Full historial](/news)]
