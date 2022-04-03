@@ -24,7 +24,7 @@ My interests are in **medical image analysis**, **computer vision**,  and **mach
   
 I'm now working on some interesting **projects**:
 
-*  [Classification of **kidney stones** in endoscopic images](/kidneystones) 🎖⭐🥇�⭐🥇🎖️🏅📌⭐🥇🎖️🏅📌📌📌
+*  [Classification of **kidney stones** in endoscopic images](/kidneystones) � 📌📌
 *  [Visualization and localization of **blood vessels** in speckle images](/bloodvessels)
 *  [Breast classification on **mammography** images](/mammography) 
 *  [Visualization and analysis of **colony growth** in speckle images](/colonygrowth) 
