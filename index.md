@@ -6,7 +6,7 @@
   
 ### About me
 
-I'm a **PhD student** at the Department of **Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽, and <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a> 🇫🇷
+I'm a **PhD student** at the Department of **Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽 and <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a> 🇫🇷
 
 I’m continuously doing research in **medical imaging** at the Department of Biomedical Sciences and Technologies at <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> 🇲🇽 
 
@@ -44,6 +44,8 @@ Francisco 🇲🇽
 ### Updates
 
 *  Feb 14, 2022: I'm violently happy and very excited!, today I start my PhD in Computer Sciences at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>!
+
+* Jan 31, 2022: I had the opportunity to meet Jacques Hubert 🇫🇷 (urologist of the kidney stone project), Christian Daul 🇫🇷 (thesis co-director) and Gilberto Ochoa-Ruiz 🇲🇽 (thesis director). The road to France begins!
 
 * Jan 25, 2021:  Our **journal paper**: *<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning</a>* is now **available** in <a href="https://arxiv.org/abs/2201.08865" target="_blank">arXiv</a>
 
