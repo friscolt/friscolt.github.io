@@ -43,11 +43,16 @@ Francisco 🇲🇽
 
 ### Updates
 
-*  Feb 14, 2022: I'm violently happy and very excited!, today I start my PhD in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es)!
+*  Feb 14, 2022: I'm violently happy and very excited!, today I start my PhD in Computer Sciences at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>!
 
-* Jan 25, 2021:  Our **journal paper** [*“On the in vivo recognition of kidney stones using machine learning”*](https://arxiv.org/abs/2201.08865) is now **available** in [arXiv](https://arxiv.org/abs/2201.08865)
+* Jan 25, 2021:  Our **journal paper**: *<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning</a>* is now **available** in <a href="https://arxiv.org/abs/2201.08865" target="_blank">arXiv</a>
 
-* Jan 20, 2022: It's official, I'm a PhD student in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es)!
+
+
+
+
+
+* Jan 20, 2022: It's official, I'm a PhD student in Computer Sciences at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>!
 
 >> ![ ](/files/tec2022_welcome.jpeg)
 
