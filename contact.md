@@ -14,14 +14,11 @@ I'm a **PhD student** at the Department of **Computer Sciences** at <a href="htt
 
 ### Affiliations
 
-
+>>
 * <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                      
 Department of Computer Sciences                    
-
 *  <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica</a>                      
 Department of Biomedical Sciences and Tecnologies        
-
-
 * <a href="https://www.ieee.org" target="_blank">Institute of Electrical and Electronics Engineers</a>                                                      
 IEEE Student                                                               
 
