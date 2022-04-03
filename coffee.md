@@ -12,12 +12,14 @@ Coffee recomendation section is **inspired** by pages of **researchers** ([Tejas
 I usually buy freshly roasted seeds at my local store, then I grind the **coffee at home** and finally, I prepare (mainly) **expresso coffee** in expresso machine, or **moka pot**. When I prepare american coffee, I do it in the chemex. Sometimes I order coffee online, I highly **recommend** [Carajillo](https://www.carajillocafe.com) coffee, and also I go to STARBUCKS for a bag of [CHIAPAS](https://www.starbucks.com.mx/promo/Chiapas). Recently, I'm in love of *affogato*, a mixed of vanilla ice and a expreso. Wonderful!
 
 
+>> ![ ](/files/coffee.gif)
+
 **Favorite coffee roasters**
 
 * [Café de Mi Abuelo](https://www.instagram.com/cafedemiabuelocholula/) (San Pedro Cholula), has **the best marago** crop. It is a mild coffee, it lifts your spirits, and *every grain is life.*
 * [Café Tres Gallos](https://www.instagram.com/cafe3gallos/) (Puebla), has one of **the best house blend** of the city. Although it is a little strong (**be careful**), it has an **incredible flavor**.
 
->> ![ ](/files/coffee.gif)
+
 
 **Favorite coffee shops**
 
