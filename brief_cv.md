@@ -11,8 +11,8 @@
 **2022 - Now:  PhD. in Computer Sciences**
    *  [*Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es) (Guadalajara, Mexico)
    *  [**Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France)
-   *  [CV-INSIDE (Computer Vision for Image aNalysiS & bIomeDical Engineering) Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz)
    *  Thesis: *Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques*
+   *  [CV-INSIDE (Computer Vision for Image aNalysiS & bIomeDical Engineering) Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz)
    *  Supervisors: [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
 
 
