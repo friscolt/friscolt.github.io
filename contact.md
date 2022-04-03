@@ -10,7 +10,14 @@
 
 ### **Francisco Lopez-Tiro**                 
 
-I'm a **PhD student** at the Department of **Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey (Tecnológico de Monterrey)</a>, and also I'm a **collaborator** at the Department of Biomedical Sciences and Tecnologies at <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> 
+
+I'm a **PhD student** at the Department of **Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽 and <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a> 🇫🇷
+
+I’m continuously doing research in **medical imaging** at the Department of Biomedical Sciences and Technologies at <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> 🇲🇽 
+
+I received a **MSc. degree** in **Biomedical Sciences and Tecnologies** from <a href="https://www.inaoep.mx" target="_blank">INAOE</a> (🇲🇽 2019), and a **BE. degree** in **Mechatronics Engineering** from <a href="http://www.uppuebla.edu.mx/joomla1/" target="_blank">Universidad Politécnica de Puebla</a> (🇲🇽  2015)
+
+Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Affogato" target="_blank">affogato!</a>**
 
 ### Affiliations
 
