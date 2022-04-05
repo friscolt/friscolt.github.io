@@ -5,7 +5,7 @@
 --- 
 
 Currently, I'm doing research in **computer vision** and **machine learning**  as part of my studies of PhD in Computer Sciences under direction of 
-<a href="https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en" target="_blank">Dr. Gilberto Ochoa-Ruiz</a> (<a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽) and <a href="https://scholar.google.es/citations?user=XPH6u74AAAAJ&hl=es&authuser=1" target="_blank">Dr. Christian Daul</a> (<a href="https://welcome.univ-lorraine.fr/en/" target="_blank">Université de Lorraine</a> 🇫🇷)
+<a href="https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en" target="_blank">Dr. Gilberto Ochoa-Ruiz</a> (<a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽) and <a href="https://scholar.google.es/citations?user=XPH6u74AAAAJ&hl=es&authuser=1" target="_blank">Prof. Christian Daul</a> (<a href="https://welcome.univ-lorraine.fr/en/" target="_blank">Université de Lorraine</a> 🇫🇷)
 
 I'm continuously doing research in **medical image processing and analysis** at the Department of Biomedical Sciences and Technologies at <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> 🇲🇽
 
