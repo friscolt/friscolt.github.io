@@ -21,7 +21,8 @@ Most importantly, **I'm always on the lookout for a great <a href="https://en.wi
 
 ### Affiliations
 
->>
+
+
 * <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                      
 Department of Computer Sciences                    
 *  <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica</a>                      
