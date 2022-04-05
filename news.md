@@ -10,7 +10,7 @@
 * Jan 31, 2022: I had the opportunity to meet Jacques Hubert 🇫🇷 (urologist of the kidney stone project), Christian Daul 🇫🇷 (thesis co-director) and Gilberto Ochoa-Ruiz 🇲🇽 (thesis director). The road to France begins!
 
 >> ![ ](/files/tec2022_meet1.png)
->> On the scene: Dr. Gilberto Ochoa-Ruiz 🇲🇽 (Tecnológico de Monterrey), Prof. Jacques Hubert 🇫🇷 (Head of the Urology Department, CHU Nancy), Prof. Christian Daul 🇫🇷 (l’Université de Lorraine), Francisco Lopez-Tiro (me)
+>> On the scene: Dr. Gilberto Ochoa-Ruiz 🇲🇽 (Tecnológico de Monterrey), Prof. Jacques Hubert 🇫🇷 (Head of the Urology Department, CHU Nancy), Prof. Christian Daul 🇫🇷 (Université de Lorraine), Francisco Lopez-Tiro (me)
 
 * Jan 25, 2021:  Our **journal paper** [*“On the in vivo recognition of kidney stones using machine learning”*](https://arxiv.org/abs/2201.08865) is now **available** in [arXiv](https://arxiv.org/abs/2201.08865)
 
