@@ -39,7 +39,7 @@
 ### Scientific outreach
 
 **2022: LatinX in Computer Vision (LXCV)**
-* Jul 19, 2022: Volunteer - [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the   2022 International Conference on Computer Vision (ICCV), Luisiana, EE.UU.
+* Jul 19, 2022: Volunteer - [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the 2022 Computer Vision and Pattern Recognition (CVPR), Louisiana, EE.UU.
 
 
 **2019 - 2022: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
