@@ -5,14 +5,18 @@
 
 ### 2022
 
-* Apr 23, 2022: I had been invited to be a reviewer at the <a href="https://www.miua2022.com" target="_blank">26th Conference on Medical Image Understanding and Analysis 2022</a>!
+* Apr 23, 2022: I had been invited to be a **reviewer** at the <a href="https://www.miua2022.com" target="_blank">26th Conference on Medical Image Understanding and Analysis 2022</a>!
 
 >> ![ ](/files/miua2022_screen1.png)
 
+* Apr 22, 2022: My **application** for the <a href="https://medicss.cs.ucl.ac.uk" target="_blank">UCL Medical Image Computing Summer School (MedICSS 2022)</a>  lectures and project package **has been successful**.
 
-*  Feb 14, 2022: I'm violently happy and very excited!, today I start my PhD in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es)!
+>> ![ ](/files/medicss2022_screen1.png)
 
-* Jan 31, 2022: I had the opportunity to meet Prof. Jacques Hubert 🇫🇷 (urologist of the kidney stone project), Prof. Christian Daul 🇫🇷 (thesis co-director) and Dr. Gilberto Ochoa-Ruiz 🇲🇽 (thesis director). The road to France begins!
+
+*  Feb 14, 2022: I'm violently happy and very excited!, **today I start my PhD in Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>!
+
+* Jan 31, 2022: I had the opportunity to **meet** Prof. Jacques Hubert 🇫🇷 (urologist of the kidney stone project), Prof. Christian Daul 🇫🇷 (thesis co-director) and Dr. Gilberto Ochoa-Ruiz 🇲🇽 (thesis director). The road to France begins!
 
 >> ![ ](/files/tec2022_meet1.png)
 >> On the scene: Dr. Gilberto Ochoa-Ruiz 🇲🇽 (Tecnológico de Monterrey), Prof. Jacques Hubert 🇫🇷 (Head of the Urology Department, CHU Nancy), Prof. Christian Daul 🇫🇷 (Université de Lorraine), Francisco Lopez-Tiro (me)
