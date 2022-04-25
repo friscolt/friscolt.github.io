@@ -46,6 +46,11 @@ Francisco 🇲🇽
 
 >> ![ ](/files/miua2022_screen1.png)
 
+* Apr 22, 2022: My application for the <a href="https://medicss.cs.ucl.ac.uk" target="_blank">UCL Medical Image Computing Summer School (MedICSS 2022)</a>  lectures and project package has been successful.
+
+>> ![ ](/files/medicss2022_screen1.png)
+
+
 *  Feb 14, 2022: I'm violently happy and very excited!, today I start my PhD in Computer Sciences at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>!
 
 * Jan 31, 2022: I had the opportunity to meet Prof. Jacques Hubert 🇫🇷 (urologist of the kidney stone project), Prof. Christian Daul 🇫🇷 (thesis co-director) and Dr. Gilberto Ochoa-Ruiz 🇲🇽 (thesis director). The road to France begins!
