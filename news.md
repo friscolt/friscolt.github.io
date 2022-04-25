@@ -5,6 +5,11 @@
 
 ### 2022
 
+* Apr 23, 2022: I had been invited to be a reviewer at the <a href="https://www.miua2022.com" target="_blank">26th Conference on Medical Image Understanding and Analysis 2022</a>!
+
+>> ![ ](/files/miua2022_screen1.png)
+
+
 *  Feb 14, 2022: I'm violently happy and very excited!, today I start my PhD in Computer Sciences at [Tecnológico de Monterrey](https://tec.mx/es)!
 
 * Jan 31, 2022: I had the opportunity to meet Prof. Jacques Hubert 🇫🇷 (urologist of the kidney stone project), Prof. Christian Daul 🇫🇷 (thesis co-director) and Dr. Gilberto Ochoa-Ruiz 🇲🇽 (thesis director). The road to France begins!
