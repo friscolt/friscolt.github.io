@@ -42,11 +42,11 @@ Francisco 🇲🇽
 
 ### Updates
 
-* Apr 23, 2022: I had been invited to be a reviewer at the <a href="https://www.miua2022.com" target="_blank">26th Conference on Medical Image Understanding and Analysis 2022</a>!
+* Apr 23, 2022: I had been invited to be a **reviewer** at the <a href="https://www.miua2022.com" target="_blank">26th Conference on Medical Image Understanding and Analysis 2022</a>!
 
 >> ![ ](/files/miua2022_screen1.png)
 
-* Apr 22, 2022: My application for the <a href="https://medicss.cs.ucl.ac.uk" target="_blank">UCL Medical Image Computing Summer School (MedICSS 2022)</a>  lectures and project package has been successful.
+* Apr 22, 2022: My **application** for the <a href="https://medicss.cs.ucl.ac.uk" target="_blank">UCL Medical Image Computing Summer School (MedICSS 2022)</a>  lectures and project package **has been successful**.
 
 >> ![ ](/files/medicss2022_screen1.png)
 
