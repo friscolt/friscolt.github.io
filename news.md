@@ -5,6 +5,8 @@
 
 ### 2022
 
+* May 2, 2022: I had been invited to be a **reviewer** at the <a href="http://www.comia.org.mx" target="_blank">Congreso Mexicano de Inteligencia Artificial 2022</a>!
+
 * Apr 23, 2022: I had been invited to be a **reviewer** at the <a href="https://www.miua2022.com" target="_blank">26th Conference on Medical Image Understanding and Analysis 2022</a>!
 
 >> ![ ](/files/miua2022_screen1.png)
