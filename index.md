@@ -6,9 +6,11 @@
   
 ### About me
 
-I'm a **PhD student** at the **Department of Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽 and <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a> 🇫🇷
+I'm a **PhD student** at the **Department of Computer Sciences** at <a href="https://tec.mx/es" target="_blank">*Tecnológico de Monterrey</a> 🇲🇽 and <a href="https://www.univ-lorraine.fr" target="_blank">**Université de Lorraine</a> 🇫🇷
 
-I received a **MSc. degree** in **Biomedical Sciences and Tecnologies** from <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> (🇲🇽 2019), and a **BE. degree** in **Mechatronics Engineering** from <a href="http://www.uppuebla.edu.mx/joomla1/" target="_blank">Universidad Politécnica de Puebla</a> (🇲🇽 2015)
+Currently I'm working in kidney stone classification in endoscopic images at the [CV-INSIDE Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz) under the direction of [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
+
+
 
 Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Affogato" target="_blank">affogato!</a>**
   
