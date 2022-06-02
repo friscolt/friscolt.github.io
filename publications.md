@@ -12,6 +12,18 @@ In this section you can find my [publications](/publications) and [talks](/talks
 
 ### 2022
 
+
+* **<a href="https://arxiv.org/abs/2206.00069" target="_blank">Comparing feature fusion strategies for Deep Learning-based kidney stone identification.</a>**  E. Villalvazo-Avila, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, D. Flores-Araiza, G. Ochoa-Ruiz, J. El-Beze, J. Hubert, C. Daul.  *Submitted at XXVIIIème Colloque Francophone de Traitement du Signal et des Images.*
+[<a href="https://arxiv.org/abs/2206.00069" target="_blank">ArXiv</a>]
+
+* **<a href="https://arxiv.org/abs/2206.00252" target="_blank">Interpretable Deep Learning Classifier by Detection of Prototypical Parts on Kidney Stones Images.</a>**  D. Flores-Araiza, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, E. Villalvazo-Avila, J. El-Beze, J. Hubert, G. Ochoa-Ruiz, C. Daul.  *LXCV Workshop at Computer Vision and Pattern Recognition Conference (CVPR).*
+[<a href="https://arxiv.org/abs/2206.00252" target="_blank">ArXiv</a>]
+
+
+* **<a href="https://arxiv.org/abs/2205.00895" target="_blank">On the generalization capabilities of FSL methods through domain adaptation: a case study in endoscopic kidney stone image classification.</a>**  M. Mendez-Ruiz, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, J. El-Beze, V. Estrade, G. Ochoa-Ruiz, J. Hubert, A. Mendez-Vazquez, C. Daul.  *Submitted at 2022 Mexican International Conference on Artificial Intelligence (MICAI).* 
+[<a href="https://arxiv.org/abs/2205.00895" target="_blank">ArXiv</a>]
+
+
 * **<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning.</a>**  G. Ochoa-Ruiz, V. Estrade, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez</a>, D. Flores-Araiza, J. El Beze, DH. Trinh, M. Gonzalez-Mendoza, P. Eschwègeb, J. Hubert and C. Daul. *Submitted at Computer Methods and Programs in Biomedicine.*
 [<a href="https://arxiv.org/abs/2201.08865" target="_blank">ArXiv</a>]
 
