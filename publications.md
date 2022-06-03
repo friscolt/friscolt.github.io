@@ -22,7 +22,7 @@ In this section you can find my [publications](/publications) and [talks](/talks
 
 * **<a href="https://arxiv.org/abs/2205.00895" target="_blank">On the generalization capabilities of FSL methods through domain adaptation: a case study in endoscopic kidney stone image classification.</a>**  M. Mendez-Ruiz, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, J. El-Beze, V. Estrade, G. Ochoa-Ruiz, J. Hubert, A. Mendez-Vazquez, C. Daul.  *Submitted at 2022 Mexican International Conference on Artificial Intelligence (MICAI).* 
 [<a href="https://arxiv.org/abs/2205.00895" target="_blank">ArXiv</a>]
-
+[<a href="https://www.researchgate.net/publication/361040453_On_the_generalization_capabilities_of_FSL_methods_through_domain_adaptation_a_case_study_in_endoscopic_kidney_stone_image_classification" target="_blank">Poster</a>]
 
 * **<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning.</a>**  G. Ochoa-Ruiz, V. Estrade, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez</a>, D. Flores-Araiza, J. El Beze, DH. Trinh, M. Gonzalez-Mendoza, P. Eschwègeb, J. Hubert and C. Daul. *Submitted at Computer Methods and Programs in Biomedicine.*
 [<a href="https://arxiv.org/abs/2201.08865" target="_blank">ArXiv</a>]
