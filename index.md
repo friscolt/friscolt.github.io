@@ -19,7 +19,7 @@ Most importantly, **I'm always on the lookout for a great <a href="https://en.wi
 
 ### Research interests
 
-My interests are in **medical image analysis**, **computer vision**,  and **machine learning**. This involves multidisciplinary research from computing, and biomedical sciences. 
+My interests are in **medical image analysis**, **computer vision**,  and **machine learning**. This involves multidisciplinary research from computing and biomedical sciences. 
 
   
 I'm now working on some interesting **projects**:
@@ -33,14 +33,18 @@ I'm now working on some interesting **projects**:
 If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)  or follow me on <a href="https://twitter.com/Friscolt" target="_blank">twitter</a>.
 
 
-
-
 Cheers,
 Francisco 🇲🇽
 
 ---
 
 ### Updates
+
+
+* Jul 11, 2022: The UCL Medical Image Computing Summer School (MedICSS) begins today.
+
+* Jun 19, 2022: I had the opportunity to attend the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2022-about) at the [2022 Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2022.thecvf.com), Louisiana, EE.UU 🇺🇸
+
 
 * May 2, 2022: I had been invited to be a **reviewer** at the <a href="http://www.comia.org.mx" target="_blank">Congreso Mexicano de Inteligencia Artificial 2022</a>!
 
