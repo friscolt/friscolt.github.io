@@ -71,6 +71,7 @@
 **2015 - 2017: Assistant professor,  Colegio de Educación Profesional Técnica del Estado de Puebla**
   * Physics, maths, electronics and metrology 
 
+---
 
 ### Teams
 
