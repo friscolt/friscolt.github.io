@@ -15,7 +15,6 @@
    *  [CV-INSIDE (Computer Vision for Image aNalysiS & bIomeDical Engineering) Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz)
    *  Supervisors: [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
 
-
 >>
 
 **2017 - 2019:  MSc. in Biomedical Sciences and Technologies**
@@ -52,8 +51,7 @@
 
 **2015: Instituto de Investigación y Desarrollo Tecnológico de la Armada de México, Secretaría de Marina**
 
-* Thesis - [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ)
-* Department of *Digitalización del Sistemas de Control y Monitoreo (DISICOM)* (Veracruz, Mexico)
+* Jan-May, 2015: Thesis - [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ). Department of Digitalización del Sistemas de Control y Monitoreo (DISICOM). Veracruz, Mexico.
 
 
 ---
@@ -62,35 +60,27 @@
 ### Employment
 
 **2019 - 2022: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
-  * Research assistant at the Department of Biomedical Sciences and Tecnologies
-    *  2020 - 2021: [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg)
-    *  2019 - 2020: [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
+  * 2020 - 2021: Department of Electronics Sciences at the [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg)
+  * 2019 - 2020: Department of Biomedical Sciences and Tecnologies at the [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
  
-**2020 - 2021: Associate professor, Universidad de los Ángeles**
-  * Summer 2021: Instrumentation and control, mechatronic design, electricity and magnetism, and numerical programming
-  * Spring 2021: Artificial intelligence, electrical circuit analysis, computer-aided design, and manufacturing engineering
-  * Fall 2020: Robotics, computer science for engineers, flexible manufacturing systems, and statistics 
-
-**2015 - 2017: Associate professor, Universidad de los Ángeles**
-  * Signal processing, instrumentation and control, digital electronics, mechatronic design, circuit analysis and robotics
+**2015 - 2021: Associate professor, Universidad de los Ángeles**
+  * Summer: Instrumentation and control, mechatronic design, image and signal processing, and numerical programming
+  * Spring: Artificial intelligence, electrical circuit analysis, computer-aided design
+  * Fall: Robotics design, computer science for engineers, and statistics 
 
 **2015 - 2017: Assistant professor,  Colegio de Educación Profesional Técnica del Estado de Puebla**
-  * Physics, mathematics, electronics and metrology 
-
+  * Physics, maths, electronics and metrology 
 
 
 ### Teams
 
 **2020 - 2021: Head coach of [EARTH 4723](https://www.instagram.com/earth4723oficial), Universidad Tecmilenio**
-  * [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
-    *   2021 - 2022: [Rapid React](https://en.wikipedia.org/wiki/Rapid_React)
-    *   2020 - 2021: [Infinite Recharge](https://en.wikipedia.org/wiki/Infinite_Recharge_(2021))
+  * 
+    *   2021 - 2022: [Rapid React](https://en.wikipedia.org/wiki/Rapid_React) at the [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
+    *   2020 - 2021: [Infinite Recharge](https://en.wikipedia.org/wiki/Infinite_Recharge_(2021)) at the [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
 
 **2015 - 2017: Head coach, Colegio de Educación Profesional Técnica del Estado de Puebla**
-  *  [F1 in Schools](http://f1inschools.com)
-     *  2015 - 2016: [Escudería Alebrije](https://www.facebook.com/alebrijeracing.16) at Kuala Lumpur, Malaysia
-     *  2016 - 2017: [Escudería Catrina](https://www.facebook.com/EscuderiaCatrina35) at Texas, USA
-
-
+     *  2015 - 2016: [Escudería Alebrije](https://www.facebook.com/alebrijeracing.16) at the [F1 in Schools](http://f1inschools.com). Kuala Lumpur, Malaysia
+     *  2016 - 2017: [Escudería Catrina](https://www.facebook.com/EscuderiaCatrina35) at the [F1 in Schools](http://f1inschools.com). Texas, EE.UU.
 
 ---
