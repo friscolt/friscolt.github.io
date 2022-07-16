@@ -39,16 +39,12 @@
 ### Scientific outreach
 
 **2022: LatinX in Computer Vision (LXCV)**
-* Jul 19, 2022: Volunteer - [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the 2022 Computer Vision and Pattern Recognition (CVPR), Louisiana, EE.UU.
-
-
-**2019 - 2022: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
-  * Research assistant at the Department of Biomedical Sciences and Tecnologies - [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg) (2021), and [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/) (2019 - 2021)
-
+* Oct 23, 2022: Public Relations and Website Chair - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/eccv-2022) at the [2022 European Conference of Computer Vision (ECCV)](https://eccv2022.ecva.net), Tel Aviv, Israel.
+* Jul 19, 2022: Author and volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2022) at the [2022 Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2022.thecvf.com), Louisiana, EE.UU.
 
 **2021: LatinX in Computer Vision (LXCV)**
-* Oct 11, 2021: Volunteer - [LatinX in Computer Vision (LXCV)](http://iccv2021.thecvf.com) at the   2021 International Conference on Computer Vision (ICCV), Virtual.
-* Jun 19, 2021: Volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021-about) at the  2021 Computer Vision and Pattern Recognition (CVPR), Virtual.
+* Oct 11, 2021: Author and volunteer  - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/iccv-2021) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home), Virtual. 
+* Jun 19, 2021: Author and volunteer  - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021) at the [2021 Computer Vision and Pattern Recognition (CVPR)](https://cvpr2021.thecvf.com), Virtual.
 
 **2018: Seminario Nacional de Ciencias y Tecnologías Biomédicas, INAOE**
 * May 10-11, 2018: Volunteer - [1er Seminario Nacional de Ciencias y Tecnologías Biomédicas](http://adria.inaoep.mx/~diplomados/Seminario-Biomedicas/index.html) at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Puebla, Mexico.
@@ -64,6 +60,12 @@
 
 
 ### Employment
+
+
+**2019 - 2022: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
+  * Research assistant at the Department of Biomedical Sciences and Tecnologies
+    *  2020 - 2021: [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg) (2021)
+    *  2019 - 2020: [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
 
 
 **2020 - 2021: Assistant professor and head coach,  Universidad Tecmilenio**
