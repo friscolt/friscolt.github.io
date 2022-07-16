@@ -74,13 +74,12 @@
 
 ### Teams
 
-**2020 - 2021: Head coach of [EARTH 4723](https://www.instagram.com/earth4723oficial), Universidad Tecmilenio**
-  * 
-    *   2021 - 2022: [Rapid React](https://en.wikipedia.org/wiki/Rapid_React) at the [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
-    *   2020 - 2021: [Infinite Recharge](https://en.wikipedia.org/wiki/Infinite_Recharge_(2021)) at the [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
+**2020 - 2021: Head coach of EARTH 4723, Universidad Tecmilenio**
+  *   2021 - 2022: [Rapid React](https://en.wikipedia.org/wiki/Rapid_React) at the [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
+  *   2020 - 2021: [Infinite Recharge](https://en.wikipedia.org/wiki/Infinite_Recharge_(2021)) at the [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
 
 **2015 - 2017: Head coach, Colegio de Educación Profesional Técnica del Estado de Puebla**
-     *  2015 - 2016: [Escudería Alebrije](https://www.facebook.com/alebrijeracing.16) at the [F1 in Schools](http://f1inschools.com). Kuala Lumpur, Malaysia
-     *  2016 - 2017: [Escudería Catrina](https://www.facebook.com/EscuderiaCatrina35) at the [F1 in Schools](http://f1inschools.com). Texas, EE.UU.
+  *  2015 - 2016: [Escudería Alebrije](https://www.facebook.com/alebrijeracing.16) at the [F1 in Schools](http://f1inschools.com). Kuala Lumpur, Malaysia
+  *  2016 - 2017: [Escudería Catrina](https://www.facebook.com/EscuderiaCatrina35) at the [F1 in Schools](http://f1inschools.com). Texas, EE.UU.
 
 ---
