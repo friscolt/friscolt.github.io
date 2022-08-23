@@ -21,16 +21,16 @@ Most importantly, **I'm always on the lookout for a great <a href="https://en.wi
 
 * <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                      
 Ph.D. student, Department of Computer Sciences    
+
 * <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a>                      
 Ph.D. student, Department of Computer Sciences    
 
 * <a href="https://www.latinxinai.org" target="_blank"> LatinX in Artificial Intelligence (LXAI) </a>                      
 Public Relations and Website Chair, LXAI Workshop at ECCV 2022  
 
-
-
 *  <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica</a>                      
 Research assistant, Department of Biomedical Sciences and Tecnologies        
+
 * <a href="https://www.ieee.org" target="_blank">Institute of Electrical and Electronics Engineers</a>                                                      
 IEEE Student                                                               
 
