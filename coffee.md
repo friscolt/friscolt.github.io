@@ -22,7 +22,7 @@ I usually buy freshly roasted seeds at my local store, then I grind the **coffee
 
 * [Café de Mi Abuelo](https://www.instagram.com/cafedemiabuelocholula/) (San Pedro Cholula), has **the best marago** crop. It is a mild coffee, it lifts your spirits, and *every grain is life.*
 * [Café Tres Gallos](https://www.instagram.com/cafe3gallos/) (Puebla), has one of **the best house blend** of the city. Although it is a little strong (**be careful**), it has an **incredible flavor**.
-
+* [Taller de espresso](https://www.instagram.com/tallerdeespresso/?hl=es) (Guadalajara), I love to shop here because it smells like good coffee grains. Plus, they have grains from different parts of Mexico. I recommend it.
 
 
 
