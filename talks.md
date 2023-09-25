@@ -14,8 +14,8 @@ In this section you can find my [publications](/publications) and [talks](/talks
 
 * **Assessing  deep  learning methods  for  the  identification of kidney  stones in endoscopic images** (Guadalajara, Mexico 🇲🇽)
   * <a href="https://embc.embs.org/2021/" target="_blank">EMBC 2021</a> (Oct, 30 - Nov, 5) as *Keynote Preview Session* 
-  * <a href="http://iccv2021.thecvf.com" target="_blank">LXCV/ICCV 2021</a> (Oct, 11) as *Poster Session* (Virtual)
-  * <a href="https://www.latinxinai.org/cvpr-2021-about" target="_blank">LXCV/CVPR 2021</a> (Jun, 19) as *Poster Session*  (Virtual)
+  * <a href="http://iccv2021.thecvf.com" target="_blank">LXCV@ICCV 2021</a> (Oct, 11) as *Poster Session* (Virtual)
+  * <a href="https://www.latinxinai.org/cvpr-2021-about" target="_blank">LXCV@CVPR 2021</a> (Jun, 19) as *Poster Session*  (Virtual)
   * Resources: 
 [<a href="https://ieeexplore.ieee.org/document/9630211" target="_blank">Paper</a>]
 [<a href="https://arxiv.org/abs/2103.01146" target="_blank">arXiv</a>]
