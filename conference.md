@@ -1,6 +1,6 @@
 ## Publications 📑
 ###  [Home](/index) • Publications  • [Research](/research) • [News](/news) • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
-[Papers](/publications) • **Talks** • [Conferences](/conferences)
+[Papers](/publications) • **Talks** • [Conferences](/conference)
 
 ---
 
