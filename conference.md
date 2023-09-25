@@ -10,14 +10,15 @@ In this section you can find my [publications](/publications) and [talks](/talks
 
 ---
 
-* ICCV 2023 Paris 🇫🇷
-* CVPR 2023 Vancouver 🇨🇦
-* ISBI 2023 Cartagena 🇨🇴
-* ECCV 2022 Tel-Aviv 🇮🇱
-* CVPR 2022 New Orleans 🇺🇸
-* ICCV 2021 Online 
-* CVPR 2021 Online
-* EMBC 2021 Gudalajara 🇲🇽
-* I2MTC 2021 Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-* I2MTC 2020 Dubrovnik 🇭🇷
-* I2MTC 2019 Auckland 🇳🇿
+* International Conference of Computer Vision (ICCV) 2023 -- Paris, France 🇫🇷
+* Computer Vision and Pattern Recognition (CVPR) 2023 --  Vancouver, Canada 🇨🇦
+* International Symposium on Biomedical Imaging (ISBI) 2023 -- Cartagena, Colombia 🇨🇴
+* Mexican International Conference on Artificial Intelligence (MICAI) 2022 -- Monterrey, Mexico 🇲🇽
+* European Conference of Computer Vision 2022 -- Tel-Aviv, Israel 🇮🇱 (Online)
+* Computer Vision and Pattern Recognition (CVPR) 2022 -- New Orleans, United States 🇺🇸
+* International Conference of Computer Vision (ICCV) 2021 -- Online 
+* Computer Vision and Pattern Recognition 2021 -- Online
+* International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2021 -- Gudalajara, Mexico 🇲🇽
+* International Instrumentation and Measurement Technology Conference (I2MTC) 2021 -- Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+* International Instrumentation and Measurement Technology Conference (I2MTC) 2020 -- Dubrovnik, Croatia 🇭🇷
+* International Instrumentation and Measurement Technology Conference (I2MTC) 2019 -- Auckland, New Zealand 🇳🇿
