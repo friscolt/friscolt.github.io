@@ -19,6 +19,6 @@ In this section you can find my [publications](/publications) and [talks](/talks
 * International Conference of Computer Vision (ICCV) 2021 -- Online 
 * Computer Vision and Pattern Recognition 2021 -- Online
 * International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2021 -- Gudalajara, Mexico 🇲🇽
-* International Instrumentation and Measurement Technology Conference (I2MTC) 2021 -- Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-* International Instrumentation and Measurement Technology Conference (I2MTC) 2020 -- Dubrovnik, Croatia 🇭🇷
+* International Instrumentation and Measurement Technology Conference (I2MTC) 2021 -- Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (Online)
+* International Instrumentation and Measurement Technology Conference (I2MTC) 2020 -- Dubrovnik, Croatia 🇭🇷 (Online)
 * International Instrumentation and Measurement Technology Conference (I2MTC) 2019 -- Auckland, New Zealand 🇳🇿
