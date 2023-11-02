@@ -54,7 +54,7 @@ Francisco 🇲🇽
 
 * Jun 18, 2023: I had the pleasure to be Mentoring Chair at the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2023) at the 2023 [Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/), Vancouver, Canada 🇨🇦
 
->> ![ ](/files/cvpr2023-can.jpeg)
+
 
 
 
