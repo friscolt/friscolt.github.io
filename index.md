@@ -41,6 +41,10 @@ Francisco 🇲🇽
 ### Updates
 
 
+* Jan 8, 2024: Our **journal paper** [*"On the In Vivo Recognition of Kidney Stones Using Machine Learning"*](https://ieeexplore.ieee.org/abstract/document/10384337) is now **available** at [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/10384337)
+
+
+
 
 ---
 
