@@ -3,8 +3,17 @@
 
 ---
 
+### 2024
+
+* Jan 8, 2024: Our **journal paper** [*"On the In Vivo Recognition of Kidney Stones Using Machine Learning"*](https://ieeexplore.ieee.org/abstract/document/10384337) is now **available** at [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/10384337)
+
+
+
+
+
 ### 2023
 
+* Nov 9, 2023:  Our **conference paper** [*"Boosting Kidney Stone Identification in Endoscopic Images Using Two-Step Transfer Learning"*](https://link.springer.com/chapter/10.1007/978-3-031-47640-2_11) is now **available** at [Springer](https://link.springer.com/chapter/10.1007/978-3-031-47640-2_11)
 
 * Oct 3, 2023: I had the pleasure to be General and Logistics Chair at the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/iccv-2023) at the 2023 [International Conference of Computer Vision (ICCV)](https://iccv2023.thecvf.com/), Paris, France 🇫🇷 
 
@@ -12,7 +21,14 @@
 
 * Oct 3, 2023: I had the opportunity to give an oral presentation of our most recent work ["Improving automatic endoscopic stone recognition using a multi-view fusion approach enhanced with two-step transfer learning"](https://openaccess.thecvf.com/content/ICCV2023W/LXCV/html/Lopez-Tiro_Improving_Automatic_Endoscopic_Stone_Recognition_Using_a_Multi-view_Fusion_Approach_ICCVW_2023_paper.html) at the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/iccv-2023) held at the 2023 [International Conference of Computer Vision (ICCV)](https://iccv2023.thecvf.com/), Paris, France 🇫🇷 
 
+
+* Oct 3, 2023: Our **conference paper** ["Improving automatic endoscopic stone recognition using a multi-view fusion approach enhanced with two-step transfer learning"](https://openaccess.thecvf.com/content/ICCV2023W/LXCV/html/Lopez-Tiro_Improving_Automatic_Endoscopic_Stone_Recognition_Using_a_Multi-view_Fusion_Approach_ICCVW_2023_paper.html)  is now **available** in ["CVF Open Access"](https://openaccess.thecvf.com/content/ICCV2023W/LXCV/html/Lopez-Tiro_Improving_Automatic_Endoscopic_Stone_Recognition_Using_a_Multi-view_Fusion_Approach_ICCVW_2023_paper.html).
+
 * Sept 7, 2023: Our paper "Boosting Kidney Stone Identification in Endoscopic Images Using Two-Step Transfer Learning" has been accepted as an oral presentation at the 2023 [Mexican International Conference of Artificial Intelligence (MICAI)](https://www.micai.org/2023/) 🇲🇽  
+
+
+
+* Sept 1, 2023: Our **conference paper** [*"Improved Kidney Stone Recognition Through Attention and Multi-View Feature Fusion Strategies"*](https://ieeexplore.ieee.org/abstract/document/10230794/) is now **available** in [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10230794/).
 
 * Sept 1, 2023: As part of my Mexico/France co-tutelle, I arrived in France today. I will be doing my studies at [Université de Lorraine (UL)](https://www.univ-lorraine.fr/) & [Centre de Recherche en Automatique de Nancy (CRAN)](http://www.cran.univ-lorraine.fr/).
 
