@@ -28,6 +28,8 @@ If you want to know more about the contributions in these projects, you can clic
 
 ### Collaborators
 
+* <a href="https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en" target="_blank">Dr. Gilberto Ochoa-Ruiz</a> (<a href="https://www.inaoep.mx" target="_blank">Tecnológico de Monterrey</a>)
+* <a href="https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr" target="_blank">Prof. Christian Daul </a> (<a href="https://www.inaoep.mx" target="_blank">Université de Lorraine</a>)
 * <a href="https://scholar.google.com/citations?user=Wh2blp0AAAAJ&hl=en" target="_blank">Dr. Hayde Peregrina-Barreto</a> (<a href="https://www.inaoep.mx" target="_blank">INAOE</a>)
 * <a href="https://scholar.google.com/citations?user=aBNkfEsAAAAJ&hl=en" target="_blank">Dr. José de Jesús Rangel-Magdaleno</a> (<a href="https://www.inaoep.mx" target="_blank">INAOE</a>)
 * <a href="https://scholar.google.com/citations?user=xN03bqgAAAAJ&hl=en" target="_blank">Dr. Julio Cesar Ramírez-San-Juan</a> (<a href="https://www.inaoep.mx" target="_blank">INAOE</a>)
