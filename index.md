@@ -41,18 +41,15 @@ Francisco 🇲🇽
 ### Updates
 
 
-* Jan 8, 2024: Our **journal paper** [*"On the In Vivo Recognition of Kidney Stones Using Machine Learning"*](https://ieeexplore.ieee.org/abstract/document/10384337) is now **available** at [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/10384337)
 
 
 * June 18, 2024: I had the pleasure to be Presentation Chair at the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2024) at the 2023 [Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com) Conference, Seattle, WA 🇺🇸 
 
 >> ![ ](/files/cvpr24.jpeg)
 
+* Jan 8, 2024: Our **journal paper** [*"On the In Vivo Recognition of Kidney Stones Using Machine Learning"*](https://ieeexplore.ieee.org/abstract/document/10384337) is now **available** at [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/10384337)
 
 
-
-
-cvpr24.jpeg
 
 
 
