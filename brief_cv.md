@@ -37,6 +37,11 @@
 
 ### Scientific outreach
 
+**2024 - Today: Computer-Based Medical Systems (CBMS)**
+* June 26-28, 2024: Presentation Chair [IEEE International Symposium on Computer-Based Medical Systems (CBMS)](https://cbms-conference.org) Guadalajara, Mexico
+
+
+
 **2021 - Today: LatinX in Computer Vision (LXCV)**
 * July 22, 2024: Presentation Chair [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/icml-2024) at the 
 [2024 International Conference of Machine Learning (ICML)](https://icml.cc) Vienna, Austria
@@ -46,10 +51,6 @@
 [2023 International Conference of Computer Vision (ICCV)](https://iccv2023.thecvf.comm) Paris, France.
 * June 18, 2024: Presentation Chair [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2023) at the 
 [2023 Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com) Vancouver, Canada.
-
-
-
-
 * Oct 23, 2022: Public Relations and Website Chair - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/eccv-2022) at the [2022 European Conference of Computer Vision (ECCV)](https://eccv2022.ecva.net), Tel Aviv, Israel.
 * Jul 19, 2022: Author and volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2022) at the [2022 Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2022.thecvf.com), New Orleans, EE.UU.
 * Oct 11, 2021: Author and volunteer  - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/iccv-2021) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home), Virtual. 
