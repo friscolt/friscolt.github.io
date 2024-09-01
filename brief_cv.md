@@ -37,11 +37,21 @@
 
 ### Scientific outreach
 
-**2022: LatinX in Computer Vision (LXCV)**
-* Oct 23, 2022: Public Relations and Website Chair - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/eccv-2022) at the [2022 European Conference of Computer Vision (ECCV)](https://eccv2022.ecva.net), Tel Aviv, Israel.
-* Jul 19, 2022: Author and volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2022) at the [2022 Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2022.thecvf.com), Louisiana, EE.UU.
+**2021 - Today: LatinX in Computer Vision (LXCV)**
+* July 22, 2024: Presentation Chair [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/icml-2024) at the 
+[2024 International Conference of Machine Learning (ICML)](https://icml.cc) Vienna, Austria
+* June 18, 2024: Presentation Chair [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2024) at the 
+[2024 Computer Vision and Pattern Recognition (CVPR)](https://cvpr2024.thecvf.com) Seattle, EE.UU.
+* Oct 3, 2023: General and Logistics Chair [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/iccv-2023) at the 
+[2023 International Conference of Computer Vision (ICCV)](https://iccv2023.thecvf.comm) Paris, France.
+* June 18, 2024: Presentation Chair [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2023) at the 
+[2023 Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com) Vancouver, Canada.
 
-**2021: LatinX in Computer Vision (LXCV)**
+
+
+
+* Oct 23, 2022: Public Relations and Website Chair - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/eccv-2022) at the [2022 European Conference of Computer Vision (ECCV)](https://eccv2022.ecva.net), Tel Aviv, Israel.
+* Jul 19, 2022: Author and volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2022) at the [2022 Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2022.thecvf.com), New Orleans, EE.UU.
 * Oct 11, 2021: Author and volunteer  - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/iccv-2021) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home), Virtual. 
 * Jun 19, 2021: Author and volunteer  - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021) at the [2021 Computer Vision and Pattern Recognition (CVPR)](https://cvpr2021.thecvf.com), Virtual.
 
@@ -58,6 +68,9 @@
 
 
 ### Employment
+
+**2023 - 2024: Lecturer, Instituto Tecnológico y de Estudios Superiores de Monterrey**
+  * 2023 - 2024: School of Engineering and Sciences. "Analysis of biomedical signals and systems", and “Application of Information Technologies in Health”. 
 
 **2019 - 2022: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
   * 2020 - 2021: Department of Electronics Sciences at the [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg)
