@@ -41,7 +41,6 @@ Francisco 🇲🇽
 ### Updates
 
 
-
 * Aug 21, 2024: I had the opportunity to visit the [University of Leeds](https://www.leeds.ac.uk) in the UK 🇬🇧, to present the most recent work of the automatic kidney stone identification project.
 
 >> ![ ](/files/leeds24.jpg)
@@ -49,6 +48,8 @@ Francisco 🇲🇽
 * July, 22, 2024: I had the pleasure to be Presentation Chair at the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/icml-2024) at the 2024 [2024 International Conference of Machine Learning (ICML)](https://icml.cc) Conference, Vienna, Austria 🇦🇹 
 
 >> ![ ](/files/icml24.jpeg)
+
+* Jan 8, 2024: Our **journal paper** [*"A metric learning approach for endoscopic kidney stone identification"*](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781) is now **available** at [Expert Systems with Applications](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781)
 
 * July, 1st, 2024: I have arrived in France. I am here for my second stay (July to December) as part of the co-supervision between [Tecnológico de Monterrey](https://tec.mx/es) (Gudalajara, Mexico 🇲🇽) and [Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France 🇫🇷). 
 
@@ -62,6 +63,10 @@ Francisco 🇲🇽
 * Jun 18, 2024: I had the pleasure to be Presentation Chair at the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2024) at the 2024 [Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com) Conference, Seattle, WA 🇺🇸 
 
 >> ![ ](/files/cvrp24.jpeg)
+
+
+* May 10, 2024: Our conference paper "Evaluating the plausibility of synthetic images for improving automated endoscopic stone recognition" has been accepted at the [IEEE International Symposium on Computer-Based Medical Systems (CBMS)](https://cbms-conference.org) Guadalajara, Mexico 🇲🇽
+
 
 * Jan 8, 2024: Our **journal paper** [*"On the In Vivo Recognition of Kidney Stones Using Machine Learning"*](https://ieeexplore.ieee.org/abstract/document/10384337) is now **available** at [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/10384337)
 
