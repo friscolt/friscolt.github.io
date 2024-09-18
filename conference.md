@@ -10,6 +10,10 @@ In this section you can find my [publications](/publications) and [talks](/talks
 
 ---
 
+* International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024 - Marrakesh, Morocco 🇲🇦
+* International Conference of Machine Learning (ICML) 2024 - Vienna, Austria 🇦🇹
+* International Symposium on Computer-Based Medical Systems (CBMS) 2024 - Guadalajara, Mexico 🇲🇽
+* Computer Vision and Pattern Recognition (CVPR) 2024 - Seattle, United States 🇺🇸
 * International Conference of Computer Vision (ICCV) 2023 - Paris, France 🇫🇷
 * Computer Vision and Pattern Recognition (CVPR) 2023 -  Vancouver, Canada 🇨🇦
 * International Symposium on Biomedical Imaging (ISBI) 2023 - Cartagena, Colombia 🇨🇴
