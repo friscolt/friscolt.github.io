@@ -19,18 +19,17 @@ Most importantly, **I'm always on the lookout for a great <a href="https://en.wi
 ### Affiliations
 
 * <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                      
-Ph.D. student, Department of Computer Sciences    
+Ph.D. student, CV-INSIDE Lab   
+Lecturer, School of Engineering and Sciences      
 
 * <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a>                      
 Ph.D. student, Centre de Recherche en Automatique de Nancy (CRAN)   
+Campus France Alumni
 
 * <a href="https://www.latinxinai.org" target="_blank"> LatinX in Artificial Intelligence (LXAI) </a>                      
-Chair LatinX in Artificial Intelligence (LXAI) Workshops
+Chair LatinX Workshops
 
-* <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                      
-Lecturer, School of Engineering and Sciences    
-
-*  <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica</a>                      
+* <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                  
 Research assistant, Department of Biomedical Sciences and Tecnologies
 
 * <a href="https://www.ieee.org" target="_blank">Institute of Electrical and Electronics Engineers</a>                       
