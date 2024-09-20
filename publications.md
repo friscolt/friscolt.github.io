@@ -16,7 +16,7 @@ In this section, you can find my selected [publications](/publications). Also yo
 
 
 *  [A metric learning approach for endoscopic kidney stone identification.](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781)
-J. Gonzalez-Zapata, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, E. Villalvazo-Avila, D. Flores-Araiza, J. Hubert, G. Ochoa-Ruiz, C. Daul, A. Mendez-Vazquez. Expert Systems with Applications. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781)] [[ArXiV](https://arxiv.org/pdf/2307.07046)]
+J. Gonzalez-Zapata, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, E. Villalvazo-Avila, D. Flores-Araiza, J. Hubert, G. Ochoa-Ruiz, C. Daul, A. Mendez-Vazquez. *Expert Systems with Applications.* [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781)] [[ArXiV](https://arxiv.org/pdf/2307.07046)]
 
 * [Evaluating the plausibility of synthetic images for improving automated endoscopic stone recognition](https://ieeexplore.ieee.org/abstract/document/10600716) R. Gonzalez-Perez,  <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, I. Reyes-Amezcua, E. Falcon-Morales, RM. Rodríguez-Guéant, J. Hubert, M. Daudon, G. Ochoa-Ruiz, C. Daul. *International Symposium on Computer-Based Medical Systems (CBMS)* [[Paper](https://ieeexplore.ieee.org/abstract/document/10600716)] 
 
@@ -29,7 +29,7 @@ J. Gonzalez-Zapata, <a href="https://scholar.google.es/citations?user=IlG06bYAAA
 
 
 
-* 🌟  **[Boosting kidney stone identification in endoscopic images using two-step transfer learning](https://link.springer.com/chapter/10.1007/978-3-031-47640-2_11).** <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, J. Betancur-Rengifo, D. Flores-Araiza, I. Reyes-Amezcua, J. Hubert, G. Ochoa-Ruiz, C. Daul. Mexican International Conference on Artificial Intelligence (MICAI) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47640-2_11)] [[ArXiV](https://arxiv.org/pdf/2210.13654)]
+* 🌟  **[Boosting kidney stone identification in endoscopic images using two-step transfer learning](https://link.springer.com/chapter/10.1007/978-3-031-47640-2_11).** <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, J. Betancur-Rengifo, D. Flores-Araiza, I. Reyes-Amezcua, J. Hubert, G. Ochoa-Ruiz, C. Daul. **Mexican International Conference on Artificial Intelligence (MICAI)* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47640-2_11)] [[ArXiV](https://arxiv.org/pdf/2210.13654)]
 
 * [Improved kidney stone recognition through attention and multi-view feature fusion strategies](https://ieeexplore.ieee.org/abstract/document/10230794). E. Villalvazo-Avila, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, M. Rizo, J. El-Beze, J. Hubert, M. Gonzalez-Mendoza, G. Ochoa-Ruiz, C. Daul.  *2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI).* [[ArXiV](https://arxiv.org/pdf/2211.02967)][[Paper](https://ieeexplore.ieee.org/abstract/document/10230794)].
 
