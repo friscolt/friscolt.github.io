@@ -19,11 +19,13 @@ Most importantly, **I'm always on the lookout for a great <a href="https://en.wi
 ### Affiliations
 
 * <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                      
-Ph.D. student, [Computer Vision for Image aNalysiS & bIomeDical Engineering (CV-INSIDE)](https://x.com/CVINSIDE)   
-Lecturer, School of Engineering and Sciences      
+Ph.D. student, Computer Science Department   
+[Computer Vision for Image aNalysiS & bIomeDical Engineering (CV-INSIDE)](https://x.com/CVINSIDE) Lab   
+Lecturer, School of Engineering and Sciences
 
 * <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a>                      
-Ph.D. student, [Centre de Recherche en Automatique de Nancy (CRAN)](https://www.cran.univ-lorraine.fr)
+Ph.D. student, Ecole doctorale Informatique, automatique, électronique, électrotechnique, mathématiques (IAEM)   
+[Centre de Recherche en Automatique de Nancy (CRAN)](https://www.cran.univ-lorraine.fr) Lab
 
 * <a href="https://www.latinxinai.org" target="_blank"> LatinX in Artificial Intelligence (LXAI) </a>                      
 Chair LatinX Workshops
