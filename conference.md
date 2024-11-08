@@ -11,19 +11,19 @@ In this section you can find my [publications](/publications) and [talks](/talks
 
 ---
 
-* International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024 - Marrakesh, Morocco 🇲🇦 
-* International Conference of Machine Learning (ICML) 2024 - Vienna, Austria 🇦🇹
-* International Symposium on Computer-Based Medical Systems (CBMS) 2024 - Guadalajara, Mexico 🇲🇽
-* Computer Vision and Pattern Recognition (CVPR) 2024 - Seattle, United States 🇺🇸
-* International Conference of Computer Vision (ICCV) 2023 - Paris, France 🇫🇷
-* Computer Vision and Pattern Recognition (CVPR) 2023 -  Vancouver, Canada 🇨🇦
-* International Symposium on Biomedical Imaging (ISBI) 2023 - Cartagena, Colombia 🇨🇴
-* Mexican International Conference on Artificial Intelligence (MICAI) 2022 - Monterrey, Mexico 🇲🇽
-* Computer Vision and Pattern Recognition (CVPR) 2022 - New Orleans, United States 🇺🇸
-* European Conference of Computer Vision (ECCV) 2022 - Tel-Aviv, Israel 🇮🇱 (Online)
-* International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2021 - Gudalajara, Mexico 🇲🇽 (Online)
-* International Conference of Computer Vision (ICCV) 2021 - (Online) 
-* Computer Vision and Pattern Recognition (CVPR) 2021 - (Online)
-* International Instrumentation and Measurement Technology Conference (I2MTC) 2021 - Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (Online)
-* International Instrumentation and Measurement Technology Conference (I2MTC) 2020 - Dubrovnik, Croatia 🇭🇷 (Online)
-* International Instrumentation and Measurement Technology Conference (I2MTC) 2019 - Auckland, New Zealand 🇳🇿
+* 2024 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) - Marrakesh, Morocco 🇲🇦 
+* 2024 International Conference of Machine Learning (ICML) - Vienna, Austria 🇦🇹
+* 2024 International Symposium on Computer-Based Medical Systems (CBMS) - Guadalajara, Mexico 🇲🇽
+* 2024 Computer Vision and Pattern Recognition (CVPR) - Seattle, United States 🇺🇸
+* 2023 International Conference of Computer Vision (ICCV) - Paris, France 🇫🇷
+* 2023 Computer Vision and Pattern Recognition (CVPR) -  Vancouver, Canada 🇨🇦
+* 2023 International Symposium on Biomedical Imaging (ISBI) - Cartagena, Colombia 🇨🇴
+* 2022 Mexican International Conference on Artificial Intelligence (MICAI) - Monterrey, Mexico 🇲🇽
+* 2022 Computer Vision and Pattern Recognition (CVPR) - New Orleans, United States 🇺🇸
+* 2022 European Conference of Computer Vision (ECCV) - Tel-Aviv, Israel 🇮🇱 (Online)
+* 2021 International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) - Gudalajara, Mexico 🇲🇽 (Online)
+* 2021 International Conference of Computer Vision (ICCV) - (Online) 
+* 2021 Computer Vision and Pattern Recognition (CVPR) - (Online)
+* 2021 International Instrumentation and Measurement Technology Conference (I2MTC) - Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (Online)
+* 2020 International Instrumentation and Measurement Technology Conference (I2MTC) - Dubrovnik, Croatia 🇭🇷 (Online)
+* 2019 International Instrumentation and Measurement Technology Conference (I2MTC) - Auckland, New Zealand 🇳🇿
