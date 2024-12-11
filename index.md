@@ -44,6 +44,9 @@ Francisco 🇲🇽
 
 >> ![ ](/files/mulhouse24.jpg)
 
+* Oct 6-10, 2024: I had the opportunity to attend [International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)](https://conferences.miccai.org/2024/en/) 2024 in Marrakesh, Morocco 🇲🇦. During this event, I met new collaborators and attended multiple presentations. Thanks to the [LATAM Undergraduate Research Program of Google Explore](https://latinresearchprogram.github.io/GoogleExploreCSR/) and LXAI.
+
+>> ![ ](/files/miccai24.jpeg)
 
 * Aug 21, 2024: I had the opportunity to visit the [University of Leeds](https://www.leeds.ac.uk) in the UK 🇬🇧, to present the most recent work of the automatic kidney stone identification project.
 
