@@ -40,6 +40,10 @@ Francisco 🇲🇽
 
 ### Updates
 
+* Nov 7, 2024: I presented our latest work on the synthetic generation of kidney stones at the [European Machine Vision Forum (EMVF)](https://emvf-2024.emva.b2match.io) at Mulhouse, France 🇫🇷. 
+
+>> ![ ](/files/mulhouse24.jpg)
+
 
 * Aug 21, 2024: I had the opportunity to visit the [University of Leeds](https://www.leeds.ac.uk) in the UK 🇬🇧, to present the most recent work of the automatic kidney stone identification project.
 
@@ -52,9 +56,6 @@ Francisco 🇲🇽
 
 * July 3, 2024: As part of my training, I have done the second year review with the doctoral committee: Miguel Gonzalez (TEC) and Franck Marzani (ImViA, Universite de Bourgogne).
   
-
-
-
 
 * July 2, 2024: Our **journal paper** [*"A metric learning approach for endoscopic kidney stone identification"*](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781) is now **available** at [Expert Systems with Applications](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781)
 
