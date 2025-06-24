@@ -11,6 +11,9 @@ In this section you can find my [publications](/publications) and [talks](/talks
 
 ---
 
+* 2025 Medical Imaging Undersanding and Analysis (MIUA) - Leeds, UK 🇬🇧
+* 2025 International Symposium on Computer-Based Medical Systems (CBMS) - Madrid, Spain 🇪🇸
+* 2024 European Machine Vision Forum (EMVF) - Mulhouse, France 🇫🇷
 * 2024 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) - Marrakesh, Morocco 🇲🇦 
 * 2024 International Conference of Machine Learning (ICML) - Vienna, Austria 🇦🇹
 * 2024 International Symposium on Computer-Based Medical Systems (CBMS) - Guadalajara, Mexico 🇲🇽
