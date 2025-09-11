@@ -27,6 +27,7 @@ The vast majority of the books I have read are in Spanish. My love for literatur
 
 ## 2025
 1. Gloria y esplendor - Taylor Caldwell
+2. Tokio Blues — Haruki Murakami
 
 ---
 
