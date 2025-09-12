@@ -40,6 +40,17 @@ Francisco 🇲🇽
 
 ### Updates
 
+
+
+
+* June 30, 2025: Today I completed my third-year evaluation at Universite de Lorraine, in joint supervision for double diploma with 
+[Tecnologico de Monterrey](https://tec.mx/en/). Thanks to my advisors, Christian (UL, CRAN) and Gilberto Ochoa-Ruiz (TEC, CVINSIDE).
+
+
+
+
+
+
 * Nov 7, 2024: I presented our latest work on the synthetic generation of kidney stones at the [European Machine Vision Forum (EMVF)](https://emvf-2024.emva.b2match.io) at Mulhouse, France 🇫🇷. 
 
 >> ![ ](/files/mulhouse24.jpg)
