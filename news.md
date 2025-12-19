@@ -1,6 +1,67 @@
 ## Update and news 📰
 ###  [Home](/index) • [Publications](/publications) • [Research](/research) • News • [CV](/brief_cv) • [Coffee](/coffee) • [Contact](/contact)
 
+
+
+---
+
+
+
+
+
+* Nov 7, 2024: I presented our latest work on the synthetic generation of kidney stones at the [European Machine Vision Forum (EMVF)](https://emvf-2024.emva.b2match.io) at Mulhouse, France 🇫🇷. 
+
+>> ![ ](/files/mulhouse24.jpg)
+
+* Oct 6-10, 2024: I had the opportunity to attend [International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)](https://conferences.miccai.org/2024/en/) 2024 in Marrakesh, Morocco 🇲🇦. During this event, I met new collaborators and attended multiple presentations. Thanks to the [LATAM Undergraduate Research Program of Google Explore](https://latinresearchprogram.github.io/GoogleExploreCSR/) and LXAI.
+
+>> ![ ](/files/miccai24.jpeg)
+
+* Aug 21, 2024: I had the opportunity to visit the [University of Leeds](https://www.leeds.ac.uk) in the UK 🇬🇧, to present the most recent work of the automatic kidney stone identification project.
+
+>> ![ ](/files/leeds24.jpg)
+
+* July, 22, 2024: I had the pleasure to be Presentation Chair at the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/icml-2024) at the 2024 [2024 International Conference of Machine Learning (ICML)](https://icml.cc) Conference, Vienna, Austria 🇦🇹 
+
+>> ![ ](/files/icml24.jpeg)
+
+
+* July 3, 2024: As part of my training, I have done the second year review with the doctoral committee: Miguel Gonzalez (TEC) and Franck Marzani (ImViA, Universite de Bourgogne).
+  
+
+* July 2, 2024: Our **journal paper** [*"A metric learning approach for endoscopic kidney stone identification"*](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781) is now **available** at [Expert Systems with Applications](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015781)
+
+
+* July, 1st, 2024: I have arrived in France. I am here for my second stay (July to December) as part of the co-supervision between [Tecnológico de Monterrey](https://tec.mx/es) (Gudalajara, Mexico 🇲🇽) and [Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France 🇫🇷). 
+
+
+* June 26-28, 2024: At the [IEEE International Symposium on Computer-Based Medical Systems (CBMS)](https://cbms-conference.org) (Guadalajara, Mexico 🇲🇽), my team and I received “Best Student Paper” with our synthetic kidney stone imaging work.
+
+>> ![ ](/files/cbms24award.jpeg)
+
+* June 26-28, 2024: I had the pleasure to be Presentation Chair at the [IEEE International Symposium on Computer-Based Medical Systems (CBMS)](https://cbms-conference.org) Guadalajara, Mexico 🇲🇽
+
+
+
+* Jun 18, 2024: I had the pleasure to be Presentation Chair at the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2024) at the 2024 [Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com) Conference, Seattle, WA 🇺🇸 
+
+>> ![ ](/files/cvrp24.jpeg)
+
+
+* May 10, 2024: Our conference paper "Evaluating the plausibility of synthetic images for improving automated endoscopic stone recognition" has been accepted at the [IEEE International Symposium on Computer-Based Medical Systems (CBMS)](https://cbms-conference.org) Guadalajara, Mexico 🇲🇽
+
+
+* Jan 8, 2024: Our **journal paper** [*"On the In Vivo Recognition of Kidney Stones Using Machine Learning"*](https://ieeexplore.ieee.org/abstract/document/10384337) is now **available** at [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/10384337)
+
+>> ![ ](/files/ieee24.png)
+
+
+
+
+
+
+
+
 ---
 
 ### 2024
