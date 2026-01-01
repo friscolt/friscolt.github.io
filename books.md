@@ -26,8 +26,14 @@ The vast majority of the books I have read are in Spanish. My love for literatur
 
 
 ## 2025
-1. Gloria y esplendor - Taylor Caldwell
-2. Tokio Blues — Haruki Murakami
+1. Gloria y esplendor — Taylor Caldwell
+2. Tokio blues — Haruki Murakami
+3. Raíces de un asesinato — Tlachiv Soriano
+4. El diario de Ana Frank
+5. Regreso a la misma ciudad y bajo la lluvia — Paco Ignacio Taibo II
+6. After Dark — Haruki Murakami
+7. El gran Gatsby — F. Scott Fitzgerald 
+8. Paula — Isabel Allende
 
 ---
 
