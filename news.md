@@ -6,6 +6,22 @@
 ---
 
 
+* July 16, 2025: Happy to attend the Conference on Medical Image Understanding and Analysis (MIUA) in Leeds, UK 🇬🇧. This year, we are presenting our paper [“Assessing the Generalization Performance of SAM for Ureteroscopy Scene Segmentation and Understanding”](https://link.springer.com/chapter/10.1007/978-3-031-98691-8_18), co-authored with my student Martin Villagrana (TEC,CV-INSIDE).
+
+>> ![ ](/files/miua25.jpeg)
+
+* June 30, 2025: Today I completed my third-year evaluation at Universite de Lorraine, in joint supervision for double diploma with 
+[Tecnologico de Monterrey](https://tec.mx/en/). Thanks to my advisors, Christian (UL, CRAN) and Gilberto Ochoa-Ruiz (TEC, CVINSIDE).
+
+>> ![ ](/files/3rdyear.jpeg)
+
+* June 20, 2025: I present our work [“Evaluation of Few-Shot Learning Methods for Kidney Stone Type Recognition in Ureteroscopy”](https://ieeexplore.ieee.org/abstract/document/11058763) at the IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS 2025) at Madrid, Spain 🇪🇸. 
+
+>> ![ ](/files/cbms25.png)
+
+
+
+
 
 
 
