@@ -6,36 +6,34 @@
 
 
 ---
+### **Francisco López-Tiro**  
+Contact: [franciscolt@tec.mx](mailto:franciscolt@tec.mx?subject=Hello%20Francisco)
 
-### **Francisco Lopez-Tiro**                 
-Contact: [franciscolt@tec.mx](mailto:franciscolt@tec.mx?subject=%20Hello,%20Francisco)
+---
 
-I'm a **PhD student** at the **Department of Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽 and <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a> 🇫🇷
+**Francisco López-Tiro** is a Ph.D. student in Computer Science at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> (Mexico) and <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a> (France), and a Lecturer at Tecnológico de Monterrey. He is a researcher with the CV-INSIDE and CRAN laboratories. He received his M.Sc. in Biomedical Sciences and Technologies from <a href="https://www.inaoep.mx" target="_blank">INAOE</a> (2019) and his B.E. in Mechatronics Engineering from <a href="http://www.uppuebla.edu.mx/joomla1/" target="_blank">Universidad Politécnica de Puebla</a> (2015).
 
-I received a **MSc. degree** in **Biomedical Sciences and Tecnologies** from <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> (🇲🇽 2019), and a **BE. degree** in **Mechatronics Engineering** from <a href="http://www.uppuebla.edu.mx/joomla1/" target="_blank">Universidad Politécnica de Puebla</a> (🇲🇽 2015)
+His research focuses on AI and computer vision for medical applications, especially the real-time identification of kidney stones and their composition from ureteroscopic images. He actively contributes to the research community through LatinX in Computer Vision (LXCV) and conferences such as CVPR, ICCV, ECCV, and ICML.
 
-Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Affogato" target="_blank">affogato!</a>**
+---
 
 ### Affiliations
 
-* <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                      
-Ph.D. student, Computer Science Department   
-[Computer Vision for Image aNalysiS & bIomeDical Engineering (CV-INSIDE)](https://x.com/CVINSIDE) Lab   
-Lecturer, School of Engineering and Sciences
+- <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>  
+  Ph.D. Student — Computer Science Department  
+  Lecturer — School of Engineering and Sciences
 
-* <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a>                      
-Ph.D. student, Ecole doctorale Informatique, automatique, électronique, électrotechnique, mathématiques (IAEM)   
-[Centre de Recherche en Automatique de Nancy (CRAN)](https://www.cran.univ-lorraine.fr) Lab
+- [Computer Vision for Image aNalysiS & bIomeDical Engineering (CV-INSIDE)](https://x.com/CVINSIDE) Lab  
+  Researcher
 
-* <a href="https://www.latinxinai.org" target="_blank"> LatinX in Artificial Intelligence (LXAI) </a>                      
-Chair LatinX Workshops
+- <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a>  
+  Ph.D. Student — IAEM Doctoral School
 
-* <a href="https://tec.mx/es" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>                  
-Research assistant, Department of Biomedical Sciences and Tecnologies
+- [Centre de Recherche en Automatique de Nancy (CRAN)](https://www.cran.univ-lorraine.fr)  
+  Researcher
 
-* <a href="https://www.ieee.org" target="_blank">Institute of Electrical and Electronics Engineers</a>                       
-IEEE Student                                                            
-
+- <a href="https://www.latinxinai.org" target="_blank">LatinX in Artificial Intelligence (LXAI)</a>  
+  Workshop Organizer / Chair
 
 
 
