@@ -40,7 +40,7 @@ Francisco 🇲🇽
 
 ### Updates
 
-* I’m excited to share that I’ve started a new position as a **Software and Artificial Intelligence R&D Engineer** at [Telendo](https://telendo.com) 🇫🇷.
+* May 1, 2026: I’m excited to share that I’ve started a new position as a **Software and Artificial Intelligence R&D Engineer** at [Telendo](https://telendo.com) 🇫🇷.
 
 * Feb 16, 2026: We are organizing [LatinX in Computer Vision](https://www.latinxinai.org/cvpr-2026) Workshop at [CVPR](https://cvpr.thecvf.com) 2026 🇺🇸. We look forward to seeing you there!
 
