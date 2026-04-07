@@ -40,12 +40,13 @@ Francisco 🇲🇽
 
 ### Updates
 
-
+* I’m excited to share that I’ve started a new position as a **Software and Artificial Intelligence R&D Engineer** at [Telendo](https://telendo.com) 🇫🇷.
 
 * Feb 16, 2026: We are organizing [LatinX in Computer Vision](https://www.latinxinai.org/cvpr-2026) Workshop at [CVPR](https://cvpr.thecvf.com) 2026 🇺🇸. We look forward to seeing you there!
+
 >> ![ ](/files/cvpr2026a.png)
 
-* Feb 10, 2026: Happy to give my first talk at my alma mater, [Universidad Politécnica de Puebla](https://www.uppuebla.edu.mx) 🇲🇽 . I shared *“X-ray of a Wrong Career”*, a talk more about doubts, failures, and fears than about Artificial Intelligence.
+* Feb 10, 2026: I'm happy to give my first talk at my alma mater, [Universidad Politécnica de Puebla](https://www.uppuebla.edu.mx) 🇲🇽 . I shared *“X-ray of a Wrong Career”*, a talk more about doubts, failures, and fears than about Artificial Intelligence.
 
 >> ![ ](/files/uppue26.jpg)
 
