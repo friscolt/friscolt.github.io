@@ -42,6 +42,9 @@ Francisco 🇲🇽
 
 * May 1, 2026: I’m excited to share that I’ve started a new position as a **Software and Artificial Intelligence R&D Engineer** at [Telendo](https://telendo.com) 🇫🇷.
 
+* Apr 16, 2026: Our work [“Real-time image segmentation for kidney stone identification using light-weight AI models”](https://spie.org/photonics-europe/presentation/Real-time-image-segmentation-for-kidney-stone-identification-using-light/14087-18) received the Best Presentation Award in the “Real-time Processing of Image, Depth and Video Information 2026” session at [SPIE Photonics Europe 2026](https://spie.org/conferences-and-exhibitions/photonics-europe), held in Strasbourg, 🇫🇷
+
+
 * Feb 16, 2026: We are organizing [LatinX in Computer Vision](https://www.latinxinai.org/cvpr-2026) Workshop at [CVPR](https://cvpr.thecvf.com) 2026 🇺🇸. We look forward to seeing you there!
 
 >> ![ ](/files/cvpr2026a.png)
